@@ -34,12 +34,19 @@
             "heading": "Link rapidi",
             "menu": "footer"
           }
+        },
+        "brand_information_YLrKWq": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
         "text_AEeKRt",
         "link_list_qxEWYb",
-        "link_list_Hee3mx"
+        "link_list_Hee3mx",
+        "brand_information_YLrKWq"
       ],
       "settings": {
         "color_scheme": "scheme-1",
