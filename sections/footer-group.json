@@ -27,18 +27,11 @@
             "heading": "Link rapidi",
             "menu": "footer"
           }
-        },
-        "brand_information_j78Ccf": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
         }
       },
       "block_order": [
         "link_list_qxEWYb",
-        "link_list_Hee3mx",
-        "brand_information_j78Ccf"
+        "link_list_Hee3mx"
       ],
       "settings": {
         "color_scheme": "scheme-1",
