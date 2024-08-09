@@ -27,15 +27,22 @@
             "heading": "Link rapidi",
             "menu": "footer"
           }
+        },
+        "brand_information_j78Ccf": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
         }
       },
       "block_order": [
         "link_list_qxEWYb",
-        "link_list_Hee3mx"
+        "link_list_Hee3mx",
+        "brand_information_j78Ccf"
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
         "show_social": true,
