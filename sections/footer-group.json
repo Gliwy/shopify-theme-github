@@ -14,13 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text_AEeKRt": {
-          "type": "text",
-          "settings": {
-            "heading": "Titolo",
-            "subtext": "<p>Condividi informazioni di contatto, dettagli del negozio e contenuti del brand con i clienti.<\/p>"
-          }
-        },
         "link_list_qxEWYb": {
           "type": "link_list",
           "settings": {
@@ -34,19 +27,11 @@
             "heading": "Link rapidi",
             "menu": "footer"
           }
-        },
-        "brand_information_YLrKWq": {
-          "type": "brand_information",
-          "settings": {
-            "show_social": true
-          }
         }
       },
       "block_order": [
-        "text_AEeKRt",
         "link_list_qxEWYb",
-        "link_list_Hee3mx",
-        "brand_information_YLrKWq"
+        "link_list_Hee3mx"
       ],
       "settings": {
         "color_scheme": "scheme-1",
