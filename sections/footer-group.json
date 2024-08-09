@@ -27,11 +27,19 @@
             "heading": "Link rapidi",
             "menu": "footer"
           }
+        },
+        "link_list_Hee3mx": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Link rapidi",
+            "menu": "footer"
+          }
         }
       },
       "block_order": [
         "text_AEeKRt",
-        "link_list_qxEWYb"
+        "link_list_qxEWYb",
+        "link_list_Hee3mx"
       ],
       "settings": {
         "color_scheme": "scheme-1",
