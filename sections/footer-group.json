@@ -14,13 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "image_iiMe9x": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
-        },
         "text_AEeKRt": {
           "type": "text",
           "settings": {
@@ -44,16 +37,15 @@
         }
       },
       "block_order": [
-        "image_iiMe9x",
         "text_AEeKRt",
         "link_list_qxEWYb",
         "link_list_Hee3mx"
       ],
       "settings": {
         "color_scheme": "scheme-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
-        "enable_follow_on_shop": true,
+        "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": true,
