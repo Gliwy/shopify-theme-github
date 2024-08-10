@@ -153,7 +153,7 @@
             "text_size": 30,
             "text_size_mobile": 20,
             "text_height": 50,
-            "text_color": "#FFFFFF"
+            "text_color": "#ffffff"
           }
         },
         "socials_UweXTM": {
@@ -163,7 +163,7 @@
             "socials_align": "left",
             "socials_align_mobile": "center",
             "twitter": "",
-            "facebook": "https:\/\/www.facebook.com\/originalkeiko\/?locale=it_IT",
+            "facebook": "",
             "linkedin": "",
             "instagram": "https:\/\/www.instagram.com\/originalkeiko\/?fbclid=IwAR2dYwhhxPM0gn9dSfHK886u_zmEEXU-RMZIpagzffyz4UOfbA565JvuTB0",
             "youtube": "",
@@ -174,8 +174,8 @@
             "social_icon_mobile": 20,
             "social_icon_gap": 20,
             "social_icon_gap_mobile": 100,
-            "social_icon_color": "#FFFFFF",
-            "social_icon_hover_color": "#D9D9D9"
+            "social_icon_color": "#ffffff",
+            "social_icon_hover_color": "#d9d9d9"
           }
         }
       },
