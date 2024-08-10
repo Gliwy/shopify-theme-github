@@ -114,6 +114,49 @@
             "privacy_checkbox_active_arrow_color": "#000000"
           }
         },
+        "logo_LzdiMJ": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "logo_mt": 44,
+            "logo_mt_mobile": 0,
+            "logo_mb": 60,
+            "logo_mb_mobile": 72,
+            "image_width": 40,
+            "image_width_mobile": 40,
+            "text": "<h2>section.store<\/h2>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 120,
+            "text_size_mobile": 36,
+            "text_height": 100,
+            "text_color": "#ffffff"
+          }
+        },
+        "payments_T3rM4F": {
+          "type": "payments",
+          "settings": {
+            "payments_mt": 20,
+            "payments_mt_mobile": 32
+          }
+        },
+        "rating_QJMFnk": {
+          "type": "rating",
+          "settings": {
+            "rating": 4.7,
+            "rating_hide": false,
+            "rating_text_size": 13,
+            "rating_text_size_mobile": 12,
+            "rating_text_mt": 16,
+            "rating_text_mt_mobile": 32,
+            "stars_count": 5,
+            "stars_size": 18,
+            "stars_size_mobile": 18,
+            "rating_text_color": "#FFFFFF",
+            "stars_bg_color": "#00B67A",
+            "stars_color": "#FFFFFF"
+          }
+        },
         "socials_rdGcgy": {
           "type": "socials",
           "settings": {
@@ -135,25 +178,6 @@
             "social_icon_color": "#ffffff",
             "social_icon_hover_color": "#d9d9d9"
           }
-        },
-        "logo_LzdiMJ": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
-            "logo_mt": 44,
-            "logo_mt_mobile": 0,
-            "logo_mb": 60,
-            "logo_mb_mobile": 72,
-            "image_width": 40,
-            "image_width_mobile": 40,
-            "text": "<h2>section.store<\/h2>",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 120,
-            "text_size_mobile": 36,
-            "text_height": 100,
-            "text_color": "#ffffff"
-          }
         }
       },
       "block_order": [
@@ -163,8 +187,10 @@
         "heading_7tTj7T",
         "text_VXVXYK",
         "newsletter_VRtj4t",
-        "socials_rdGcgy",
-        "logo_LzdiMJ"
+        "logo_LzdiMJ",
+        "payments_T3rM4F",
+        "rating_QJMFnk",
+        "socials_rdGcgy"
       ],
       "settings": {
         "block_padding_vertical": 40,
@@ -191,7 +217,7 @@
         "link_size": 11,
         "link_size_mobile": 13,
         "link_height": 130,
-        "languages": true,
+        "languages": false,
         "lang_custom": true,
         "lang_font": "josefin_sans_n4",
         "lang_size": 13,
@@ -246,7 +272,7 @@
         "show_social": false,
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "payment_enable": true,
+        "payment_enable": false,
         "show_policy": true,
         "margin_top": 0,
         "padding_top": 36,
