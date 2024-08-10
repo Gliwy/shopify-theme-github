@@ -89,7 +89,7 @@
             "submit_radius": 6,
             "submit_border_thickness": 1,
             "show_privacy_checkbox": true,
-            "privacy": "<p>I accept the <a href=\"#\">privacy policy<\/a><\/p>",
+            "privacy": "<p>Accetto la <a href=\"\/pages\/privacy-cookies\" title=\"Privacy & Cookies\">privacy policy<\/a><\/p>",
             "privacy_custom": false,
             "privacy_font": "josefin_sans_n4",
             "privacy_size": 13,
