@@ -175,7 +175,7 @@
       "settings": {
         "block_padding_vertical": 36,
         "block_padding_vertical_mobile": 20,
-        "block_padding_horizontal": 100,
+        "block_padding_horizontal": 60,
         "block_padding_horizontal_mobile": 36,
         "bottom_block_padding_vertical": 10,
         "bottom_block_padding_vertical_mobile": 20,
@@ -251,12 +251,12 @@
         "enable_follow_on_shop": false,
         "show_social": false,
         "enable_country_selector": false,
-        "enable_language_selector": true,
+        "enable_language_selector": false,
         "payment_enable": false,
         "show_policy": false,
         "margin_top": 0,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 16
       }
     }
   },
