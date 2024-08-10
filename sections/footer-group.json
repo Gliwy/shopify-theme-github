@@ -114,30 +114,6 @@
             "privacy_checkbox_active_arrow_color": "#000000"
           }
         },
-        "payments_T3rM4F": {
-          "type": "payments",
-          "settings": {
-            "payments_mt": 12,
-            "payments_mt_mobile": 20
-          }
-        },
-        "rating_QJMFnk": {
-          "type": "rating",
-          "settings": {
-            "rating": 4.7,
-            "rating_hide": true,
-            "rating_text_size": 13,
-            "rating_text_size_mobile": 13,
-            "rating_text_mt": 12,
-            "rating_text_mt_mobile": 20,
-            "stars_count": 5,
-            "stars_size": 22,
-            "stars_size_mobile": 22,
-            "rating_text_color": "#ffffff",
-            "stars_bg_color": "#00b67a",
-            "stars_color": "#ffffff"
-          }
-        },
         "socials_rdGcgy": {
           "type": "socials",
           "settings": {
@@ -159,6 +135,30 @@
             "social_icon_color": "#ffffff",
             "social_icon_hover_color": "#d9d9d9"
           }
+        },
+        "rating_QJMFnk": {
+          "type": "rating",
+          "settings": {
+            "rating": 4.7,
+            "rating_hide": true,
+            "rating_text_size": 13,
+            "rating_text_size_mobile": 13,
+            "rating_text_mt": 12,
+            "rating_text_mt_mobile": 20,
+            "stars_count": 5,
+            "stars_size": 22,
+            "stars_size_mobile": 22,
+            "rating_text_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_color": "#ffffff"
+          }
+        },
+        "payments_T3rM4F": {
+          "type": "payments",
+          "settings": {
+            "payments_mt": 12,
+            "payments_mt_mobile": 20
+          }
         }
       },
       "block_order": [
@@ -168,9 +168,9 @@
         "heading_7tTj7T",
         "text_VXVXYK",
         "newsletter_VRtj4t",
-        "payments_T3rM4F",
+        "socials_rdGcgy",
         "rating_QJMFnk",
-        "socials_rdGcgy"
+        "payments_T3rM4F"
       ],
       "settings": {
         "block_padding_vertical": 36,
