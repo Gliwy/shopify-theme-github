@@ -146,7 +146,7 @@
             "socials_align_mobile": "left",
             "twitter": "",
             "facebook": "#",
-            "linkedin": "#",
+            "linkedin": "",
             "instagram": "#",
             "youtube": "",
             "pinterest": "",
@@ -154,8 +154,8 @@
             "tiktok": "",
             "social_icon": 20,
             "social_icon_mobile": 20,
-            "social_icon_gap": 20,
-            "social_icon_gap_mobile": 30,
+            "social_icon_gap": 15,
+            "social_icon_gap_mobile": 15,
             "social_icon_color": "#ffffff",
             "social_icon_hover_color": "#d9d9d9"
           }
