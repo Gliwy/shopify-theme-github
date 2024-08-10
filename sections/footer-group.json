@@ -163,13 +163,14 @@
         "logo_QQ46Ty": {
           "type": "logo",
           "settings": {
-            "logo_mt": 10,
+            "logo_mt": 36,
             "logo_mt_mobile": 0,
             "logo_mb": 0,
-            "logo_mb_mobile": 36,
-            "image_width": 40,
+            "logo_mb_mobile": 10,
+            "logo": "shopify:\/\/shop_images\/KEIKO_b2f4f293-b7b2-4e0c-a8ef-340f36f2c396.png",
+            "image_width": 10,
             "image_width_mobile": 40,
-            "text": "<h2>Original Keiko<\/h2>",
+            "text": "",
             "text_custom": false,
             "text_font": "josefin_sans_n4",
             "text_size": 30,
