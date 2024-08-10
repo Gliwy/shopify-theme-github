@@ -141,7 +141,7 @@
         "socials_rdGcgy": {
           "type": "socials",
           "settings": {
-            "socials_mt": 26,
+            "socials_mt": 20,
             "socials_align": "left",
             "socials_align_mobile": "left",
             "twitter": "",
@@ -159,25 +159,6 @@
             "social_icon_color": "#ffffff",
             "social_icon_hover_color": "#d9d9d9"
           }
-        },
-        "logo_QQ46Ty": {
-          "type": "logo",
-          "settings": {
-            "logo_mt": 36,
-            "logo_mt_mobile": 0,
-            "logo_mb": 0,
-            "logo_mb_mobile": 10,
-            "logo": "shopify:\/\/shop_images\/KEIKO_b2f4f293-b7b2-4e0c-a8ef-340f36f2c396.png",
-            "image_width": 10,
-            "image_width_mobile": 40,
-            "text": "",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 30,
-            "text_size_mobile": 30,
-            "text_height": 100,
-            "text_color": "#FFFFFF"
-          }
         }
       },
       "block_order": [
@@ -189,8 +170,7 @@
         "newsletter_VRtj4t",
         "payments_T3rM4F",
         "rating_QJMFnk",
-        "socials_rdGcgy",
-        "logo_QQ46Ty"
+        "socials_rdGcgy"
       ],
       "settings": {
         "block_padding_vertical": 36,
