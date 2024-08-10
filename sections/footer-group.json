@@ -117,7 +117,7 @@
         "socials_rdGcgy": {
           "type": "socials",
           "settings": {
-            "socials_mt": 20,
+            "socials_mt": 16,
             "socials_align": "left",
             "socials_align_mobile": "center",
             "twitter": "",
