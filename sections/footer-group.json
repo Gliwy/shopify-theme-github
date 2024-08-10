@@ -131,13 +131,6 @@
             "stars_color": "#ffffff"
           }
         },
-        "payments_T3rM4F": {
-          "type": "payments",
-          "settings": {
-            "payments_mt": 12,
-            "payments_mt_mobile": 32
-          }
-        },
         "logo_h8hVCi": {
           "type": "logo",
           "settings": {
@@ -154,6 +147,13 @@
             "text_size_mobile": 20,
             "text_height": 50,
             "text_color": "#ffffff"
+          }
+        },
+        "payments_T3rM4F": {
+          "type": "payments",
+          "settings": {
+            "payments_mt": 12,
+            "payments_mt_mobile": 32
           }
         },
         "socials_UweXTM": {
@@ -187,8 +187,8 @@
         "text_VXVXYK",
         "newsletter_VRtj4t",
         "rating_QJMFnk",
-        "payments_T3rM4F",
         "logo_h8hVCi",
+        "payments_T3rM4F",
         "socials_UweXTM"
       ],
       "settings": {
