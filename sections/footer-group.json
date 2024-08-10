@@ -24,14 +24,14 @@
         "menu_VFLPYM": {
           "type": "menu",
           "settings": {
-            "heading": "ASSISTENZA CLIENTI",
+            "heading": "SERVIZIO",
             "menu": "assistenza-clienti"
           }
         },
         "menu_rwERic": {
           "type": "menu",
           "settings": {
-            "heading": "Menu heading",
+            "heading": "INFORMAZIONI",
             "menu": "informazioni-legali"
           }
         },
