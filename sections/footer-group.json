@@ -14,18 +14,25 @@
     "ss_footer_6_UBzXmH": {
       "type": "ss-footer-6",
       "blocks": {
+        "menu_VFLPYM": {
+          "type": "menu",
+          "settings": {
+            "heading": "Menu heading",
+            "menu": ""
+          }
+        },
         "menu_rzWWPx": {
           "type": "menu",
           "settings": {
             "heading": "Menu heading",
-            "menu": "main-menu"
+            "menu": ""
           }
         },
         "menu_rwERic": {
           "type": "menu",
           "settings": {
             "heading": "Menu heading",
-            "menu": "main-menu"
+            "menu": ""
           }
         },
         "heading_7tTj7T": {
@@ -155,6 +162,7 @@
         }
       },
       "block_order": [
+        "menu_VFLPYM",
         "menu_rzWWPx",
         "menu_rwERic",
         "heading_7tTj7T",
