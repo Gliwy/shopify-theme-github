@@ -178,7 +178,7 @@
         "block_padding_horizontal": 100,
         "block_padding_horizontal_mobile": 36,
         "bottom_block_padding_vertical": 10,
-        "bottom_block_padding_vertical_mobile": 10,
+        "bottom_block_padding_vertical_mobile": 20,
         "bottom_block_padding_horizontal": 36,
         "bottom_block_padding_horizontal_mobile": 36,
         "block_border_thickness": 1,
