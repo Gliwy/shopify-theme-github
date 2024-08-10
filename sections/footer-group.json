@@ -71,7 +71,7 @@
             "input_padding_vertical": 18,
             "input_padding_horizontal": 16,
             "input_radius": 6,
-            "input_border_thickness": 1,
+            "input_border_thickness": 2,
             "input_placeholder": "Your email",
             "input_custom": false,
             "input_font": "josefin_sans_n4",
