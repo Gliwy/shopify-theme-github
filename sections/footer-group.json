@@ -119,7 +119,7 @@
           "settings": {
             "socials_mt": 20,
             "socials_align": "left",
-            "socials_align_mobile": "left",
+            "socials_align_mobile": "center",
             "twitter": "",
             "facebook": "#",
             "linkedin": "",
