@@ -142,7 +142,7 @@
           "type": "socials",
           "settings": {
             "socials_mt": 26,
-            "socials_align": "center",
+            "socials_align": "left",
             "socials_align_mobile": "left",
             "twitter": "",
             "facebook": "#",
