@@ -181,7 +181,7 @@
         "bottom_block_padding_vertical_mobile": 20,
         "bottom_block_padding_horizontal": 36,
         "bottom_block_padding_horizontal_mobile": 36,
-        "block_border_thickness": 1,
+        "block_border_thickness": 2,
         "menu_gap": 100,
         "menu_gap_mobile": 10,
         "menu_heading_custom": true,
@@ -224,7 +224,7 @@
         "block_border_color": "#4f4f4f",
         "background_color": "#121212",
         "background_gradient": "",
-        "border_color": "#d9d9d9",
+        "border_color": "#ffffff",
         "margin_top": 0,
         "margin_bottom": 0,
         "margin_horizontal": 0,
@@ -237,7 +237,7 @@
         "padding_horizontal_mobile": 0,
         "full_width": true,
         "content_width": 120,
-        "border_thickness": 1,
+        "border_thickness": 2,
         "section_radius": 0,
         "lazy": true
       }
