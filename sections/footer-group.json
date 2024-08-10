@@ -147,7 +147,7 @@
             "rating_hide": true,
             "rating_text_size": 13,
             "rating_text_size_mobile": 12,
-            "rating_text_mt": 16,
+            "rating_text_mt": 24,
             "rating_text_mt_mobile": 32,
             "stars_count": 5,
             "stars_size": 18,
