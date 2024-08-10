@@ -175,7 +175,7 @@
       "settings": {
         "block_padding_vertical": 36,
         "block_padding_vertical_mobile": 20,
-        "block_padding_horizontal": 60,
+        "block_padding_horizontal": 50,
         "block_padding_horizontal_mobile": 36,
         "bottom_block_padding_vertical": 10,
         "bottom_block_padding_vertical_mobile": 20,
