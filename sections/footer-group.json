@@ -161,7 +161,7 @@
           "settings": {
             "socials_mt": 30,
             "socials_align": "left",
-            "socials_align_mobile": "left",
+            "socials_align_mobile": "center",
             "twitter": "",
             "facebook": "https:\/\/www.facebook.com\/originalkeiko\/?locale=it_IT",
             "linkedin": "",
@@ -172,8 +172,8 @@
             "tiktok": "",
             "social_icon": 20,
             "social_icon_mobile": 20,
-            "social_icon_gap": 32,
-            "social_icon_gap_mobile": 32,
+            "social_icon_gap": 20,
+            "social_icon_gap_mobile": 100,
             "social_icon_color": "#FFFFFF",
             "social_icon_hover_color": "#D9D9D9"
           }
