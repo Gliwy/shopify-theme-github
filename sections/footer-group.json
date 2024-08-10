@@ -84,12 +84,12 @@
             "submit_size": 13,
             "submit_size_mobile": 13,
             "submit_height": 100,
-            "submit_padding_vertical": 18,
+            "submit_padding_vertical": 16,
             "submit_padding_horizontal": 16,
             "submit_radius": 6,
             "submit_border_thickness": 1,
             "show_privacy_checkbox": true,
-            "privacy": "<p>I accept the <a href='#'>privacy policy<\/a><\/p>",
+            "privacy": "<p>I accept the <a href=\"#\">privacy policy<\/a><\/p>",
             "privacy_custom": false,
             "privacy_font": "josefin_sans_n4",
             "privacy_size": 13,
@@ -159,6 +159,24 @@
             "social_icon_color": "#ffffff",
             "social_icon_hover_color": "#d9d9d9"
           }
+        },
+        "logo_QQ46Ty": {
+          "type": "logo",
+          "settings": {
+            "logo_mt": 10,
+            "logo_mt_mobile": 0,
+            "logo_mb": 0,
+            "logo_mb_mobile": 36,
+            "image_width": 40,
+            "image_width_mobile": 40,
+            "text": "<h2>section.store<\/h2>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 120,
+            "text_size_mobile": 36,
+            "text_height": 100,
+            "text_color": "#FFFFFF"
+          }
         }
       },
       "block_order": [
@@ -170,7 +188,8 @@
         "newsletter_VRtj4t",
         "payments_T3rM4F",
         "rating_QJMFnk",
-        "socials_rdGcgy"
+        "socials_rdGcgy",
+        "logo_QQ46Ty"
       ],
       "settings": {
         "block_padding_vertical": 36,
