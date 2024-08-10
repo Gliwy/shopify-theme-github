@@ -144,7 +144,7 @@
           "type": "rating",
           "settings": {
             "rating": 4.7,
-            "rating_hide": false,
+            "rating_hide": true,
             "rating_text_size": 13,
             "rating_text_size_mobile": 12,
             "rating_text_mt": 16,
