@@ -13,19 +13,6 @@
   "sections": {
     "footer": {
       "type": "footer",
-      "blocks": {
-        "image_t9krzM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FOOTER_aa764fcf-5676-4d99-bd4c-e84866381304.png",
-            "image_width": 205,
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_t9krzM"
-      ],
       "settings": {
         "color_scheme": "scheme-5",
         "newsletter_enable": false,
@@ -34,8 +21,8 @@
         "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": false,
-        "payment_enable": false,
-        "show_policy": false,
+        "payment_enable": true,
+        "show_policy": true,
         "margin_top": 0,
         "padding_top": 20,
         "padding_bottom": 20
