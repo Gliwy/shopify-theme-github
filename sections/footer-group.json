@@ -14,24 +14,6 @@
     "ss_footer_6_4QifGR": {
       "type": "ss-footer-6",
       "blocks": {
-        "logo_zTKiAM": {
-          "type": "logo",
-          "settings": {
-            "logo_mt": 44,
-            "logo_mt_mobile": 0,
-            "logo_mb": 60,
-            "logo_mb_mobile": 72,
-            "image_width": 40,
-            "image_width_mobile": 40,
-            "text": "<h2>section.store<\/h2>",
-            "text_custom": false,
-            "text_font": "josefin_sans_n4",
-            "text_size": 120,
-            "text_size_mobile": 36,
-            "text_height": 100,
-            "text_color": "#FFFFFF"
-          }
-        },
         "menu_CFLKYz": {
           "type": "menu",
           "settings": {
@@ -125,6 +107,24 @@
             "privacy_checkbox_active_arrow_color": "#000000"
           }
         },
+        "logo_zTKiAM": {
+          "type": "logo",
+          "settings": {
+            "logo_mt": 44,
+            "logo_mt_mobile": 0,
+            "logo_mb": 60,
+            "logo_mb_mobile": 72,
+            "image_width": 40,
+            "image_width_mobile": 40,
+            "text": "<h2>section.store<\/h2>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 120,
+            "text_size_mobile": 36,
+            "text_height": 100,
+            "text_color": "#FFFFFF"
+          }
+        },
         "socials_NgQz6k": {
           "type": "socials",
           "settings": {
@@ -149,12 +149,12 @@
         }
       },
       "block_order": [
-        "logo_zTKiAM",
         "menu_CFLKYz",
         "menu_YgtDFV",
         "heading_z4XQyA",
         "text_KWyHhe",
         "newsletter_yXFTyr",
+        "logo_zTKiAM",
         "socials_NgQz6k"
       ],
       "settings": {
