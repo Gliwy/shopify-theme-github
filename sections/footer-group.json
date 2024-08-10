@@ -13,32 +13,12 @@
   "sections": {
     "footer": {
       "type": "footer",
-      "blocks": {
-        "link_list_qxEWYb": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Link rapidi",
-            "menu": "footer"
-          }
-        },
-        "link_list_Hee3mx": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Link rapidi",
-            "menu": "footer"
-          }
-        }
-      },
-      "block_order": [
-        "link_list_qxEWYb",
-        "link_list_Hee3mx"
-      ],
       "settings": {
         "color_scheme": "scheme-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
-        "show_social": true,
+        "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": true,
         "payment_enable": true,
