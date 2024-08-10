@@ -46,7 +46,7 @@
             "heading_height": 130,
             "heading_mt": 0,
             "heading_mt_mobile": 0,
-            "heading_color": "#FFFFFF"
+            "heading_color": "#ffffff"
           }
         },
         "text_VXVXYK": {
@@ -60,7 +60,7 @@
             "text_height": 150,
             "text_mt": 14,
             "text_mt_mobile": 12,
-            "text_color": "#FFFFFF"
+            "text_color": "#ffffff"
           }
         },
         "newsletter_VRtj4t": {
@@ -98,26 +98,26 @@
             "privacy_mt": 20,
             "privacy_mt_mobile": 20,
             "input_bg_color": "",
-            "input_border_color": "#DEDEDE",
+            "input_border_color": "#dedede",
             "input_border_focus_color": "",
-            "input_color": "#FFFFFF",
-            "input_placeholder_color": "#D9D9D9",
+            "input_color": "#ffffff",
+            "input_placeholder_color": "#d9d9d9",
             "submit_color": "#343437",
             "submit_hover_color": "#343437",
-            "submit_bg_color": "#FFFFFF",
-            "submit_bg_hover_color": "#F7F7F7",
-            "submit_border_color": "#FFFFFF",
+            "submit_bg_color": "#ffffff",
+            "submit_bg_hover_color": "#f7f7f7",
+            "submit_border_color": "#ffffff",
             "submit_border_hover_color": "#717176",
             "privacy_color": "#818181",
             "privacy_checkbox_color": "#818181",
-            "privacy_checkbox_active_color": "#FFFFFF",
+            "privacy_checkbox_active_color": "#ffffff",
             "privacy_checkbox_active_arrow_color": "#000000"
           }
         },
         "socials_rdGcgy": {
           "type": "socials",
           "settings": {
-            "socials_mt": 30,
+            "socials_mt": 20,
             "socials_align": "left",
             "socials_align_mobile": "left",
             "twitter": "",
@@ -132,8 +132,8 @@
             "social_icon_mobile": 20,
             "social_icon_gap": 32,
             "social_icon_gap_mobile": 32,
-            "social_icon_color": "#FFFFFF",
-            "social_icon_hover_color": "#D9D9D9"
+            "social_icon_color": "#ffffff",
+            "social_icon_hover_color": "#d9d9d9"
           }
         },
         "logo_LzdiMJ": {
@@ -152,7 +152,7 @@
             "text_size": 120,
             "text_size_mobile": 36,
             "text_height": 100,
-            "text_color": "#FFFFFF"
+            "text_color": "#ffffff"
           }
         }
       },
@@ -207,18 +207,18 @@
         "bottom_link_size": 13,
         "bottom_link_size_mobile": 13,
         "bottom_link_height": 130,
-        "menu_heading_color": "#FFFFFF",
-        "menu_item_border_color": "#F7F7F7",
-        "link_color": "#FFFFFF",
-        "link_hover_color": "#D9D9D9",
-        "lang_color": "#FFFFFF",
-        "lang_hover_color": "#D9D9D9",
-        "bottom_link_color": "#FFFFFF",
-        "bottom_link_hover_color": "#D9D9D9",
-        "block_border_color": "#4F4F4F",
+        "menu_heading_color": "#ffffff",
+        "menu_item_border_color": "#f7f7f7",
+        "link_color": "#ffffff",
+        "link_hover_color": "#d9d9d9",
+        "lang_color": "#ffffff",
+        "lang_hover_color": "#d9d9d9",
+        "bottom_link_color": "#ffffff",
+        "bottom_link_hover_color": "#d9d9d9",
+        "block_border_color": "#4f4f4f",
         "background_color": "#121212",
         "background_gradient": "",
-        "border_color": "#D9D9D9",
+        "border_color": "#d9d9d9",
         "margin_top": 0,
         "margin_bottom": 0,
         "margin_horizontal": 0,
