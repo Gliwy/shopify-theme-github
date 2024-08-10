@@ -191,7 +191,7 @@
         "menu_heading_height": 130,
         "list_mt": 18,
         "list_gap": 12,
-        "list_gap_mobile": 14,
+        "list_gap_mobile": 20,
         "link_custom": false,
         "link_font": "proza_libre_n4",
         "link_size": 13,
