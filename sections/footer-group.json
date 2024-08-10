@@ -148,13 +148,13 @@
             "rating_text_size": 13,
             "rating_text_size_mobile": 13,
             "rating_text_mt": 8,
-            "rating_text_mt_mobile": 0,
+            "rating_text_mt_mobile": 36,
             "stars_count": 5,
             "stars_size": 22,
             "stars_size_mobile": 22,
-            "rating_text_color": "#FFFFFF",
-            "stars_bg_color": "#00B67A",
-            "stars_color": "#FFFFFF"
+            "rating_text_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_color": "#ffffff"
           }
         },
         "socials_rdGcgy": {
