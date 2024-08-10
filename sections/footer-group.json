@@ -181,7 +181,7 @@
         "bottom_block_padding_vertical_mobile": 20,
         "bottom_block_padding_horizontal": 36,
         "bottom_block_padding_horizontal_mobile": 36,
-        "block_border_thickness": 2,
+        "block_border_thickness": 1,
         "menu_gap": 100,
         "menu_gap_mobile": 10,
         "menu_heading_custom": false,
