@@ -152,6 +152,32 @@
             "payments_mt": 20,
             "payments_mt_mobile": 32
           }
+        },
+        "menu_wiYc6b": {
+          "type": "menu",
+          "settings": {
+            "heading": "Menu heading",
+            "menu": "main-menu"
+          }
+        },
+        "logo_H6MztV": {
+          "type": "logo",
+          "settings": {
+            "logo_mt": 44,
+            "logo_mt_mobile": 0,
+            "logo_mb": 60,
+            "logo_mb_mobile": 72,
+            "logo": "shopify:\/\/shop_images\/FOOTER_aa764fcf-5676-4d99-bd4c-e84866381304.png",
+            "image_width": 40,
+            "image_width_mobile": 40,
+            "text": "",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 120,
+            "text_size_mobile": 36,
+            "text_height": 100,
+            "text_color": "#FFFFFF"
+          }
         }
       },
       "block_order": [
@@ -162,7 +188,9 @@
         "newsletter_QihHMK",
         "socials_PC6rwM",
         "rating_Eqg4YV",
-        "payments_wK4aiM"
+        "payments_wK4aiM",
+        "menu_wiYc6b",
+        "logo_H6MztV"
       ],
       "settings": {
         "block_padding_vertical": 60,
