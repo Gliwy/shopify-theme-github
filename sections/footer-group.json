@@ -114,28 +114,6 @@
             "privacy_checkbox_active_arrow_color": "#000000"
           }
         },
-        "socials_rdGcgy": {
-          "type": "socials",
-          "settings": {
-            "socials_mt": 16,
-            "socials_align": "left",
-            "socials_align_mobile": "center",
-            "twitter": "",
-            "facebook": "#",
-            "linkedin": "",
-            "instagram": "#",
-            "youtube": "",
-            "pinterest": "",
-            "whatsapp": "",
-            "tiktok": "",
-            "social_icon": 20,
-            "social_icon_mobile": 20,
-            "social_icon_gap": 15,
-            "social_icon_gap_mobile": 15,
-            "social_icon_color": "#ffffff",
-            "social_icon_hover_color": "#d9d9d9"
-          }
-        },
         "rating_QJMFnk": {
           "type": "rating",
           "settings": {
@@ -186,7 +164,6 @@
         "heading_7tTj7T",
         "text_VXVXYK",
         "newsletter_VRtj4t",
-        "socials_rdGcgy",
         "rating_QJMFnk",
         "payments_T3rM4F",
         "logo_h8hVCi"
