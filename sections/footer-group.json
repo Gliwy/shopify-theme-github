@@ -170,10 +170,10 @@
             "image_width": 40,
             "image_width_mobile": 40,
             "text": "<h2>Original Keiko<\/h2>",
-            "text_custom": true,
+            "text_custom": false,
             "text_font": "josefin_sans_n4",
-            "text_size": 120,
-            "text_size_mobile": 36,
+            "text_size": 30,
+            "text_size_mobile": 30,
             "text_height": 100,
             "text_color": "#FFFFFF"
           }
