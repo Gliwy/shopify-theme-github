@@ -144,7 +144,7 @@
             "rating_text_size": 13,
             "rating_text_size_mobile": 13,
             "rating_text_mt": 12,
-            "rating_text_mt_mobile": 20,
+            "rating_text_mt_mobile": 32,
             "stars_count": 5,
             "stars_size": 22,
             "stars_size_mobile": 22,
@@ -157,7 +157,7 @@
           "type": "payments",
           "settings": {
             "payments_mt": 12,
-            "payments_mt_mobile": 20
+            "payments_mt_mobile": 32
           }
         },
         "logo_h8hVCi": {
