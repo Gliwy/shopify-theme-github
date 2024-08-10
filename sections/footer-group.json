@@ -159,6 +159,24 @@
             "payments_mt": 12,
             "payments_mt_mobile": 20
           }
+        },
+        "logo_h8hVCi": {
+          "type": "logo",
+          "settings": {
+            "logo_mt": 40,
+            "logo_mt_mobile": 0,
+            "logo_mb": 0,
+            "logo_mb_mobile": 36,
+            "image_width": 60,
+            "image_width_mobile": 40,
+            "text": "<h2>#ORIGINALKEIKO<\/h2>",
+            "text_custom": false,
+            "text_font": "proza_libre_n5",
+            "text_size": 30,
+            "text_size_mobile": 16,
+            "text_height": 50,
+            "text_color": "#FFFFFF"
+          }
         }
       },
       "block_order": [
@@ -170,7 +188,8 @@
         "newsletter_VRtj4t",
         "socials_rdGcgy",
         "rating_QJMFnk",
-        "payments_T3rM4F"
+        "payments_T3rM4F",
+        "logo_h8hVCi"
       ],
       "settings": {
         "block_padding_vertical": 36,
