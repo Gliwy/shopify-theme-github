@@ -14,18 +14,18 @@
     "ss_footer_6_UBzXmH": {
       "type": "ss-footer-6",
       "blocks": {
-        "menu_rzWWPx": {
-          "type": "menu",
-          "settings": {
-            "heading": "AZIENDA",
-            "menu": "main-menu"
-          }
-        },
         "menu_VFLPYM": {
           "type": "menu",
           "settings": {
             "heading": "SERVIZIO",
             "menu": "assistenza-clienti"
+          }
+        },
+        "menu_rzWWPx": {
+          "type": "menu",
+          "settings": {
+            "heading": "PRODOTTI",
+            "menu": "main-menu"
           }
         },
         "menu_rwERic": {
@@ -180,8 +180,8 @@
         }
       },
       "block_order": [
-        "menu_rzWWPx",
         "menu_VFLPYM",
+        "menu_rzWWPx",
         "menu_rwERic",
         "heading_7tTj7T",
         "text_VXVXYK",
