@@ -117,8 +117,8 @@
         "socials_rdGcgy": {
           "type": "socials",
           "settings": {
-            "socials_mt": 20,
-            "socials_align": "left",
+            "socials_mt": 26,
+            "socials_align": "center",
             "socials_align_mobile": "center",
             "twitter": "",
             "facebook": "#",
@@ -130,8 +130,8 @@
             "tiktok": "",
             "social_icon": 20,
             "social_icon_mobile": 20,
-            "social_icon_gap": 32,
-            "social_icon_gap_mobile": 32,
+            "social_icon_gap": 20,
+            "social_icon_gap_mobile": 30,
             "social_icon_color": "#ffffff",
             "social_icon_hover_color": "#d9d9d9"
           }
