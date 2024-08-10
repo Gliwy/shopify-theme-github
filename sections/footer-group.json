@@ -117,7 +117,7 @@
         "payments_T3rM4F": {
           "type": "payments",
           "settings": {
-            "payments_mt": 0,
+            "payments_mt": 12,
             "payments_mt_mobile": 20
           }
         },
@@ -128,7 +128,7 @@
             "rating_hide": true,
             "rating_text_size": 13,
             "rating_text_size_mobile": 13,
-            "rating_text_mt": 8,
+            "rating_text_mt": 12,
             "rating_text_mt_mobile": 20,
             "stars_count": 5,
             "stars_size": 22,
@@ -203,7 +203,7 @@
         "lang_size": 13,
         "lang_size_mobile": 13,
         "lang_height": 130,
-        "bottom_menu": "informazioni-legali",
+        "bottom_menu": "",
         "bottom_menu_hide_mobile": true,
         "bottom_list_mt_mobile": 24,
         "bottom_list_gap": 14,
