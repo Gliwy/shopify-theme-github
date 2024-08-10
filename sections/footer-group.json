@@ -191,7 +191,7 @@
         "link_size": 11,
         "link_size_mobile": 13,
         "link_height": 130,
-        "languages": false,
+        "languages": true,
         "lang_custom": true,
         "lang_font": "josefin_sans_n4",
         "lang_size": 13,
