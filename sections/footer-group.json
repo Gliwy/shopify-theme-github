@@ -119,7 +119,7 @@
           "settings": {
             "socials_mt": 16,
             "socials_align": "left",
-            "socials_align_mobile": "right",
+            "socials_align_mobile": "center",
             "twitter": "",
             "facebook": "#",
             "linkedin": "",
@@ -199,7 +199,7 @@
         "bottom_block_padding_vertical": 10,
         "bottom_block_padding_vertical_mobile": 20,
         "bottom_block_padding_horizontal": 36,
-        "bottom_block_padding_horizontal_mobile": 36,
+        "bottom_block_padding_horizontal_mobile": 20,
         "block_border_thickness": 1,
         "menu_gap": 100,
         "menu_gap_mobile": 10,
