@@ -205,7 +205,7 @@
         "lang_height": 130,
         "bottom_menu": "",
         "bottom_menu_hide_mobile": true,
-        "bottom_list_mt_mobile": 24,
+        "bottom_list_mt_mobile": 20,
         "bottom_list_gap": 14,
         "bottom_list_gap_mobile": 12,
         "bottom_link_custom": true,
