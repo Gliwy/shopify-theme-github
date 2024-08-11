@@ -17,21 +17,21 @@
         "menu_VFLPYM": {
           "type": "menu",
           "settings": {
-            "heading": "SERVIZIO",
+            "heading": "SERVICE",
             "menu": "assistenza-clienti"
           }
         },
         "menu_rzWWPx": {
           "type": "menu",
           "settings": {
-            "heading": "PRODOTTI",
+            "heading": "SHOP",
             "menu": "main-menu"
           }
         },
         "menu_rwERic": {
           "type": "menu",
           "settings": {
-            "heading": "INFORMAZIONI",
+            "heading": "ABOUT US",
             "menu": "informazioni-legali"
           }
         },
