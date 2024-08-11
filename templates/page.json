@@ -27,6 +27,13 @@
             "answer": "<p>Answer richtext<\/p>"
           }
         },
+        "text_BVLHqz": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
         "text_3Dxxjq": {
           "type": "text",
           "settings": {
@@ -65,6 +72,7 @@
       },
       "block_order": [
         "text_xAeKVG",
+        "text_BVLHqz",
         "text_3Dxxjq",
         "text_6VXtEe",
         "text_xhbaWT",
@@ -72,7 +80,7 @@
         "text_yyrLXN"
       ],
       "settings": {
-        "heading": "Frequently Asked Questions",
+        "heading": "Domande Frequenti",
         "icon_color": "#fff",
         "hover_color": "#EFEFEF",
         "question_color": "#fff",
