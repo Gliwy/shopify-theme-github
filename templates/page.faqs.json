@@ -114,7 +114,7 @@
           "type": "item",
           "settings": {
             "question": "Come posso restituire il mio ordine?",
-            "answer": "<p>Il reso è <strong>GRATUITO <\/strong>su tutti gli ordini.<br\/><br\/>Se l’acquisto effettuato online non ti soddisfa al 100%, accettiamo resi entro 30 giorni dalla data di acquisto per un rimborso.<\/p>"
+            "answer": "<p>Returns are <strong>FREE<\/strong> on all orders.<br\/><br\/>If you are not 100% satisfied with the purchase made online, we accept returns within <strong>30 days <\/strong>from the purchase date for a refund.<\/p>"
           }
         },
         "item_dKRAed": {
