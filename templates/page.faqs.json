@@ -66,8 +66,8 @@
         "item_Va3LHL": {
           "type": "item",
           "settings": {
-            "question": "Come faccio a sapere se il mio prodotto è disponibile?",
-            "answer": "<p>Se un prodotto, da te cercato, non è presente sul nostro sito o non può essere aggiunto al carrello, allora è attualmente esaurito.<br\/><br\/>Oltre a quanto sopra riportato, c'è anche la possibilità di ricevere un <strong>messaggio di errore <\/strong>durante il pagamento.<\/p>"
+            "question": "How do I know if my product is available?",
+            "answer": "<p>If a product you are looking for is not present on our site or cannot be added to the cart, then it is currently out of stock. In addition to the above, there is also the possibility of receiving an <strong>error message <\/strong>during checkout.<\/p>"
           }
         },
         "category_NdY4iV": {
