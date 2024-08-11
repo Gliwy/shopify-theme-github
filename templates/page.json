@@ -86,8 +86,8 @@
         "item_e7z8bV": {
           "type": "item",
           "settings": {
-            "question": "Lorem ipsum dolor sit amet?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+            "question": "Come faccio a tracciare il mio ordine?",
+            "answer": "<p>Puoi rintracciare lo stato del tuo ordine <strong>cliccando sul link riportato all'interno della mail di conferma di spedizione<\/strong>.<br\/>Oppure, puoi anche rintracciarlo direttamente dal nostro sito: vai sulla barra del menù \"SERVIZIO\" e clicca sulla voce \"<strong>TRACCIA IL TUO ORDINE<\/strong>\".<\/p>"
           }
         },
         "item_qLhngg": {
