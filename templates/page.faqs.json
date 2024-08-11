@@ -103,18 +103,18 @@
             "heading": "RETURNS & REFUNDS"
           }
         },
-        "item_rMdBXt": {
-          "type": "item",
-          "settings": {
-            "question": "When will I receive the refund?",
-            "answer": "<p>Once your return is received at our facility, your refund will be processed within <strong>14 working days<\/strong>. You will receive an email once your return has been processed. <\/p><p>The refund will be issued in the same way as the original payment. You will receive an email when your return has been confirmed and your refund processed.<\/p>"
-          }
-        },
         "item_dJBNYW": {
           "type": "item",
           "settings": {
             "question": "How can I return my order?",
             "answer": "<p>Returns are <strong>FREE<\/strong> on all orders.<br\/><br\/>If you are not 100% satisfied with the purchase made online, we accept returns within <strong>30 days <\/strong>from the purchase date for a refund.<\/p>"
+          }
+        },
+        "item_rMdBXt": {
+          "type": "item",
+          "settings": {
+            "question": "When will I receive the refund?",
+            "answer": "<p>Once your return is received at our facility, your refund will be processed within <strong>14 working days<\/strong>. You will receive an email once your return has been processed. <\/p><p>The refund will be issued in the same way as the original payment. You will receive an email when your return has been confirmed and your refund processed.<\/p>"
           }
         },
         "item_dKRAed": {
@@ -147,8 +147,8 @@
         "item_MWeccU": {
           "type": "item",
           "settings": {
-            "question": "Come faccio a sapere se il mio ordine è andato a buon fine?",
-            "answer": "<p>Per sapere se un ordine è andato a buon fine <strong>controlla la tua mail<\/strong>.<br\/>Dopo aver completato il tuo ordine, dovresti aver ricevuto una mail di conferma con tutti i dettagli.<\/p>"
+            "question": "How do I know if my order was successful?",
+            "answer": "<p>To find out if an order was successful, <strong>check your email<\/strong>. After completing your order, you should have received a confirmation email with all the details.<\/p>"
           }
         },
         "category_b73rE6": {
@@ -189,8 +189,8 @@
         "item_WATrc4",
         "item_qLhngg",
         "category_tc77Yg",
-        "item_rMdBXt",
         "item_dJBNYW",
+        "item_rMdBXt",
         "item_dKRAed",
         "category_8tAxBm",
         "item_aiwJWz",
