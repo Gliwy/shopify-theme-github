@@ -86,8 +86,8 @@
         "item_e7z8bV": {
           "type": "item",
           "settings": {
-            "question": "Come faccio a tracciare il mio ordine?",
-            "answer": "<p>Puoi rintracciare lo stato del tuo ordine <strong>cliccando sul link riportato all'interno della mail di conferma di spedizione<\/strong>.<br\/>Oppure, puoi anche rintracciarlo direttamente dal nostro sito: vai sulla barra del menù \"SERVIZIO\" e clicca sulla voce \"<strong>TRACCIA IL TUO ORDINE<\/strong>\".<\/p>"
+            "question": "How do I track my order?",
+            "answer": "<p>You can track the status of your order by clicking on the link in the shipping confirmation email. Or, you can also track it directly from our website: go to the \"SERVICE\" menu bar and click on the \"TRACK YOUR ORDER\" item.<\/p>"
           }
         },
         "item_qLhngg": {
