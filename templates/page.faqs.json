@@ -87,7 +87,7 @@
           "type": "item",
           "settings": {
             "question": "What are the shipping costs?",
-            "answer": "<p>Shipping is <strong>free<\/strong> for all orders.<\/p>"
+            "answer": "<p>Shipping is <strong>FREE<\/strong> for all orders.<\/p>"
           }
         },
         "item_qLhngg": {
