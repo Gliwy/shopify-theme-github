@@ -161,7 +161,7 @@
           "type": "item",
           "settings": {
             "question": "Why is my order delayed?",
-            "answer": "<p>We do our best to meet delivery times, but unexpected events may happen.<\/p><p><br\/>Here are some possible causes of the delay:<\/p><p><br\/>- The order was shipped during the sales and promotion period;<\/p><p><br\/>- You have ordered more than one product. In some exceptional cases, the products ordered may arrive in separate packages and on different days;<\/p><p><br\/>- The order was placed during a national holiday or a local holiday;<\/p><p><br\/>- Unforeseen events have occurred that are beyond our control.<\/p>"
+            "answer": "<p>We do our best to meet delivery times, but unexpected events may happen.<\/p><p><strong><br\/>Here are some possible causes of the delay:<\/strong><\/p><p><br\/>- The order was shipped during the sales and promotion period;<\/p><p><br\/>- You have ordered more than one product. In some exceptional cases, the products ordered may arrive in separate packages and on different days;<\/p><p><br\/>- The order was placed during a national holiday or a local holiday;<\/p><p><br\/>- Unforeseen events have occurred that are beyond our control.<\/p>"
           }
         },
         "item_Y9qyim": {
