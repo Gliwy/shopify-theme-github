@@ -106,8 +106,8 @@
         "item_rMdBXt": {
           "type": "item",
           "settings": {
-            "question": "Quando riceverò il rimborso?",
-            "answer": "<p>Una volta ricevuto il reso presso la nostra struttura, il rimborso sarà elaborato entro <strong>14 giorni lavorativi<\/strong>. Riceverai un’e-mail una volta che il tuo reso sarà stato elaborato.<\/p><p>Il rimborso verrà erogato nella stessa modalità del pagamento originario. Riceverai un’e-mail quando il tuo reso sarà stato confermato e il rimborso elaborato.<\/p>"
+            "question": "When will I receive the refund?",
+            "answer": "<p>Once your return is received at our facility, your refund will be processed within <strong>14 working days<\/strong>. You will receive an email once your return has been processed. The refund will be issued in the same way as the original payment. You will receive an email when your return has been confirmed and your refund processed.<\/p>"
           }
         },
         "item_dJBNYW": {
