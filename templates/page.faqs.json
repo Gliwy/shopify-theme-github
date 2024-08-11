@@ -164,18 +164,18 @@
             "answer": "<p>Facciamo del nostro meglio per rispettare i tempi di consegna, ma possono capitare degli imprevisti.<\/p><p><strong>Ecco alcune possibili cause del ritardo:<\/strong><\/p><p>- L'ordine è stato spedito durante il periodo di saldi e promozioni;<\/p><p>- Hai ordinato più di un prodotto. In alcuni casi eccezionali, i prodotti ordinati potrebbero arrivare in pacchi separati e in giorni diversi;<\/p><p>- L'ordine è stato effettuato durante un giorno di festa nazionale o di una festività locale;<\/p><p>- Si sono verificati eventi imprevisti che esulano dal nostro controllo.<\/p>"
           }
         },
-        "item_3nVJMQ": {
-          "type": "item",
-          "settings": {
-            "question": "Cosa succede se al momento della consegna non c'è nessuno a ricevere il pacco?",
-            "answer": "<p>Il corriere depositerà il pacco nella tua cassetta della posta oppure se non è possibile provvederà ad effettuare un secondo ed ultimo tentativo di consegna nei giorni successivi.<\/p><p>Consulta il tracciamento dell' ordine cliccando su <strong>\"TRACCIA IL TUO ORDINE\"<\/strong> per capire quando verrà consegnato il tuo ordine.<\/p>"
-          }
-        },
         "item_Y9qyim": {
           "type": "item",
           "settings": {
             "question": "Chi posso contattare per questioni inerenti alla fatturazione?",
             "answer": "<p>Puoi contattare l'assistenza tramite questo indirizzo: <strong>keikowatches@gmail.com<\/strong>.<\/p>"
+          }
+        },
+        "item_3nVJMQ": {
+          "type": "item",
+          "settings": {
+            "question": "Cosa succede se al momento della consegna non c'è nessuno a ricevere il pacco?",
+            "answer": "<p>Il corriere depositerà il pacco nella tua cassetta della posta oppure se non è possibile provvederà ad effettuare un secondo ed ultimo tentativo di consegna nei giorni successivi.<\/p><p>Consulta il tracciamento dell' ordine cliccando su <strong>\"TRACCIA IL TUO ORDINE\"<\/strong> per capire quando verrà consegnato il tuo ordine.<\/p>"
           }
         }
       },
@@ -198,8 +198,8 @@
         "item_MWeccU",
         "category_b73rE6",
         "item_L3LmnT",
-        "item_3nVJMQ",
-        "item_Y9qyim"
+        "item_Y9qyim",
+        "item_3nVJMQ"
       ],
       "settings": {
         "nav_gap": 12,
