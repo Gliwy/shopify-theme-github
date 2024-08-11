@@ -80,7 +80,7 @@
           "type": "item",
           "settings": {
             "question": "How do I track my order?",
-            "answer": "<p>You can track the status of your order by clicking on the link in the shipping confirmation email. Or, you can also track it directly from our website: go to the \"<strong>SUPPORT<\/strong>\" menu bar and click on the \"<strong>TRACK YOUR ORDER<\/strong>\" item.<\/p>"
+            "answer": "<p>You can track the status of your order by clicking on the link in the shipping confirmation email.<\/p><p>Or, you can also track it directly from our website: go to the \"<strong>SUPPORT<\/strong>\" menu bar and click on the \"<strong>TRACK YOUR ORDER<\/strong>\" item.<\/p>"
           }
         },
         "item_WATrc4": {
