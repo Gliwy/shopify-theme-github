@@ -80,7 +80,7 @@
           "type": "item",
           "settings": {
             "question": "Quali sono i costi di spedizione?",
-            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+            "answer": "<p>La spedizione <strong>è gratuita<\/strong>, per tutti gli ordini.<\/p>"
           }
         },
         "item_e7z8bV": {
