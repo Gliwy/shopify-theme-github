@@ -137,18 +137,18 @@
             "answer": "<p>The available payment methods are as follows:<\/p><ul><li><strong>MasterCard<\/strong><\/li><li><strong>VISA<\/strong><\/li><li><strong>American Express<\/strong><\/li><\/ul>"
           }
         },
-        "item_akULnn": {
-          "type": "item",
-          "settings": {
-            "question": "After how many days will my order be sent?",
-            "answer": "<p>We generally process all orders within <strong>1 working day<\/strong>, however, in some cases, it may take up to 3 days. <\/p><p>As soon as your order is handed over to the courier, you will receive a <strong>shipping confirmation email with the link to track the package.<\/strong><\/p>"
-          }
-        },
         "item_MWeccU": {
           "type": "item",
           "settings": {
             "question": "How do I know if my order was successful?",
             "answer": "<p>To find out if an order was successful, <strong>check your email<\/strong>. After completing your order, you should have received a confirmation email with all the details.<\/p>"
+          }
+        },
+        "item_akULnn": {
+          "type": "item",
+          "settings": {
+            "question": "After how many days will my order be sent?",
+            "answer": "<p>We generally process all orders within <strong>1 working day<\/strong>, however, in some cases, it may take up to 3 days. <\/p><p>As soon as your order is handed over to the courier, you will receive a <strong>shipping confirmation email with the link to track the package<\/strong>.<\/p>"
           }
         },
         "category_b73rE6": {
@@ -194,8 +194,8 @@
         "item_dKRAed",
         "category_8tAxBm",
         "item_aiwJWz",
-        "item_akULnn",
         "item_MWeccU",
+        "item_akULnn",
         "category_b73rE6",
         "item_L3LmnT",
         "item_Y9qyim",
