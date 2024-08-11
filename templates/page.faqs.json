@@ -53,7 +53,7 @@
           "type": "item",
           "settings": {
             "question": "How do I know if my product is available?",
-            "answer": "<p>If a product you are looking for is not present on our site or cannot be added to the cart, then it is currently out of stock. In addition to the above, there is also the possibility of receiving an <strong>error message <\/strong>during checkout.<\/p>"
+            "answer": "<p>If a product you are looking for is not present on our site or cannot be added to the cart, then it is currently out of stock.<\/p><p>In addition to the above, there is also the possibility of receiving an <strong>error message <\/strong>during checkout.<\/p>"
           }
         },
         "item_iVtG8i": {
