@@ -53,7 +53,7 @@
           "type": "item",
           "settings": {
             "question": "Are Keiko products covered by warranty?",
-            "answer": "<p>All our products are covered by a 12 month warranty for defects of conformity. This warranty does not cover any customer abuse, normal wear, scratches or discoloration due to improper care.<\/p>"
+            "answer": "<p>All our products are covered by a <strong>12 month <\/strong>warranty for defects of conformity. This warranty does not cover any customer abuse, normal wear, scratches or discoloration due to improper care.<\/p>"
           }
         },
         "item_NMdDyr": {
