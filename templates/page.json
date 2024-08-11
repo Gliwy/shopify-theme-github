@@ -9,36 +9,6 @@
 */
 {
   "sections": {
-    "rich_text_iYbMG3": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_J39Xyf": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shipping",
-            "heading_size": "h1"
-          }
-        },
-        "text_MjpUNG": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If the order is placed before 9.59pm, the order will be dispatched by the next working day.<br\/>Below you will find more information about our shipping:<br\/><br\/><strong>FREE SHIPPING METHOD<\/strong><br\/><br\/>Delivered within <strong>3-4 working days ✔<\/strong> Including tracking number.<br\/>To directly check the status of your order, you can simply enter your tracking number on our tracking page (see main menu).<br\/><br\/>If you need more detailed updates, you can always contact us via the contact form or an email to <strong>keikowatches@gmail.com.<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_J39Xyf",
-        "text_MjpUNG"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 36,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -49,7 +19,6 @@
     }
   },
   "order": [
-    "rich_text_iYbMG3",
     "main"
   ]
 }
