@@ -134,13 +134,13 @@
           "type": "item",
           "settings": {
             "question": "What forms of payment do you accept?",
-            "answer": "<p>The available payment methods are as follows:<\/p><ul><li>MasterCard<\/li><li>VISA<\/li><li>American Express<\/li><\/ul>"
+            "answer": "<p>The available payment methods are as follows:<\/p><ul><li><strong>MasterCard<\/strong><\/li><li><strong>VISA<\/strong><\/li><li><strong>American Express<\/strong><\/li><\/ul>"
           }
         },
         "item_akULnn": {
           "type": "item",
           "settings": {
-            "question": "Dopo quanti giorni viene inviato il mio ordine?",
+            "question": "After how many days will my order be sent?",
             "answer": "<p>Generalmente evadiamo tutti gli ordini <strong>entro 1 giorno lavorativo<\/strong>, tuttavia, in alcuni casi, potrebbero volerci sino a 3 giorni.<br\/>Non appena il tuo ordine verrà affidato al corriere, <strong>riceverai una mail di conferma di spedizione con il link per tracciare il pacco<\/strong>.<\/p>"
           }
         },
