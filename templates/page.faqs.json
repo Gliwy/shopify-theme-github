@@ -120,8 +120,8 @@
         "item_dKRAed": {
           "type": "item",
           "settings": {
-            "question": "Di chi è la responsabilità della spedizione di restituzione?",
-            "answer": "<p>La responsabilità della spedizione di reso è del cliente.<\/p>"
+            "question": "Who is responsible for the return shipping?",
+            "answer": "<p>The responsibility for return shipping lies with the customer.<\/p>"
           }
         },
         "category_8tAxBm": {
