@@ -113,7 +113,7 @@
         "item_dJBNYW": {
           "type": "item",
           "settings": {
-            "question": "Come posso restituire il mio ordine?",
+            "question": "How can I return my order?",
             "answer": "<p>Returns are <strong>FREE<\/strong> on all orders.<br\/><br\/>If you are not 100% satisfied with the purchase made online, we accept returns within <strong>30 days <\/strong>from the purchase date for a refund.<\/p>"
           }
         },
