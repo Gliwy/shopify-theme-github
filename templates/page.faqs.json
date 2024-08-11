@@ -59,8 +59,8 @@
         "item_NMdDyr": {
           "type": "item",
           "settings": {
-            "question": "Cos'è e come funziona il codice promozionale?",
-            "answer": "<p>Il <strong>codice promozionale <\/strong>è un buono sconto che viene fornito, mediante la nostra <strong>newsletter<\/strong>, per beneficiare di offerte speciali.<\/p>"
+            "question": "What is the promotional code and how does it work?",
+            "answer": "<p>The <strong>promotional code<\/strong> is a discount voucher that is provided, through our <strong>newsletter<\/strong>, to benefit from special offers.<\/p>"
           }
         },
         "item_Va3LHL": {
