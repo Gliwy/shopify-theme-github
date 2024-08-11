@@ -17,82 +17,251 @@
         "padding_bottom": 28
       }
     },
-    "ss_simple_faq_7xaraw": {
-      "type": "ss-simple-faq",
+    "ss_faq_8_EMmXAB": {
+      "type": "ss-faq-8",
       "blocks": {
-        "text_xAeKVG": {
-          "type": "text",
+        "category_FUDCDC": {
+          "type": "category",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "heading": "PRODUCTS"
           }
         },
-        "text_BVLHqz": {
-          "type": "text",
+        "item_iVtG8i": {
+          "type": "item",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
           }
         },
-        "text_3Dxxjq": {
-          "type": "text",
+        "item_NMdDyr": {
+          "type": "item",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
           }
         },
-        "text_6VXtEe": {
-          "type": "text",
+        "item_Va3LHL": {
+          "type": "item",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
           }
         },
-        "text_xhbaWT": {
-          "type": "text",
+        "category_NdY4iV": {
+          "type": "category",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "heading": "SHIPPING"
           }
         },
-        "text_GH6iEN": {
-          "type": "text",
+        "item_WATrc4": {
+          "type": "item",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
           }
         },
-        "text_yyrLXN": {
-          "type": "text",
+        "item_e7z8bV": {
+          "type": "item",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "item_qLhngg": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "category_tc77Yg": {
+          "type": "category",
+          "settings": {
+            "heading": "RETURNS & REFUNDS"
+          }
+        },
+        "item_dJBNYW": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "item_rMdBXt": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "item_dKRAed": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "category_8tAxBm": {
+          "type": "category",
+          "settings": {
+            "heading": "ORDERS & PAYMENT"
+          }
+        },
+        "item_MWeccU": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "item_akULnn": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "item_aiwJWz": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "category_b73rE6": {
+          "type": "category",
+          "settings": {
+            "heading": "CONTACT US"
+          }
+        },
+        "item_L3LmnT": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "item_3nVJMQ": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
+          }
+        },
+        "item_Y9qyim": {
+          "type": "item",
+          "settings": {
+            "question": "Lorem ipsum dolor sit amet?",
+            "answer": "<p>Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Si habetis ulteriores quaestiones, quaeso, nostri auxilium clientibus contact.<\/p>"
           }
         }
       },
       "block_order": [
-        "text_xAeKVG",
-        "text_BVLHqz",
-        "text_3Dxxjq",
-        "text_6VXtEe",
-        "text_xhbaWT",
-        "text_GH6iEN",
-        "text_yyrLXN"
+        "category_FUDCDC",
+        "item_iVtG8i",
+        "item_NMdDyr",
+        "item_Va3LHL",
+        "category_NdY4iV",
+        "item_WATrc4",
+        "item_e7z8bV",
+        "item_qLhngg",
+        "category_tc77Yg",
+        "item_dJBNYW",
+        "item_rMdBXt",
+        "item_dKRAed",
+        "category_8tAxBm",
+        "item_MWeccU",
+        "item_akULnn",
+        "item_aiwJWz",
+        "category_b73rE6",
+        "item_L3LmnT",
+        "item_3nVJMQ",
+        "item_Y9qyim"
       ],
       "settings": {
-        "heading": "FAQs",
-        "icon_color": "#fff",
-        "hover_color": "#EFEFEF",
-        "question_color": "#fff",
-        "background_color": "#D5CAA6",
-        "answer_color": "#000",
-        "answer_bg_color": "#fff",
-        "questions-font-size": 1.5
+        "nav_gap": 12,
+        "nav_gap_mobile": 12,
+        "nav_row": 5,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 16,
+        "button_height": 120,
+        "button_padding_vertical": 20,
+        "button_padding_vertical_mobile": 20,
+        "button_padding_horizontal": 16,
+        "button_padding_horizontal_mobile": 16,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "body_mt": 32,
+        "body_mt_mobile": 24,
+        "body_padding_vertical": 64,
+        "body_padding_vertical_mobile": 32,
+        "body_padding_horizontal": 64,
+        "body_padding_horizontal_mobile": 32,
+        "body_radius": 20,
+        "body_border_thickness": 0,
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 36,
+        "heading_size_mobile": 20,
+        "heading_height": 130,
+        "heading_mt": 64,
+        "heading_mt_mobile": 32,
+        "heading_mb": 24,
+        "heading_mb_mobile": 24,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "item_padding_bottom": 12,
+        "item_border_thickness": 1,
+        "item_mt": 12,
+        "item_mt_mobile": 12,
+        "question_custom": false,
+        "question_font": "josefin_sans_n4",
+        "question_size": 18,
+        "question_size_mobile": 14,
+        "question_height": 130,
+        "arrow_size": 28,
+        "arrow_size_mobile": 28,
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
+        "answer_size": 16,
+        "answer_size_mobile": 14,
+        "answer_height": 170,
+        "answer_padding_top": 16,
+        "button_color": "#6c584c",
+        "button_hover_color": "#F2F0ED",
+        "button_bg_color": "#F2F0ED",
+        "button_bg_hover_color": "#6c584c",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "body_bg_color": "#F2F0ED",
+        "body_border_color": "#6c584c",
+        "heading_color": "#6c584c",
+        "item_border_color": "#E5E7EB",
+        "question_color": "#6c584c",
+        "answer_color": "#6c584c",
+        "arrow_color": "#6c584c",
+        "arrow_hover_color": "#FFFFFF",
+        "arrow_bg_color": "",
+        "arrow_bg_hover_color": "#6c584c",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 150,
+        "border_thickness": 0
       }
     }
   },
   "order": [
     "main",
-    "ss_simple_faq_7xaraw"
+    "ss_faq_8_EMmXAB"
   ]
 }
