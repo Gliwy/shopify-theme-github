@@ -49,6 +49,13 @@
             "heading": "PRODUCTS"
           }
         },
+        "item_Va3LHL": {
+          "type": "item",
+          "settings": {
+            "question": "How do I know if my product is available?",
+            "answer": "<p>If a product you are looking for is not present on our site or cannot be added to the cart, then it is currently out of stock. In addition to the above, there is also the possibility of receiving an <strong>error message <\/strong>during checkout.<\/p>"
+          }
+        },
         "item_iVtG8i": {
           "type": "item",
           "settings": {
@@ -63,24 +70,10 @@
             "answer": "<p>The <strong>promotional code<\/strong> is a discount voucher that is provided, through our <strong>newsletter<\/strong>, to benefit from special offers.<\/p>"
           }
         },
-        "item_Va3LHL": {
-          "type": "item",
-          "settings": {
-            "question": "How do I know if my product is available?",
-            "answer": "<p>If a product you are looking for is not present on our site or cannot be added to the cart, then it is currently out of stock. In addition to the above, there is also the possibility of receiving an <strong>error message <\/strong>during checkout.<\/p>"
-          }
-        },
         "category_NdY4iV": {
           "type": "category",
           "settings": {
             "heading": "SHIPPING"
-          }
-        },
-        "item_WATrc4": {
-          "type": "item",
-          "settings": {
-            "question": "What are the shipping costs?",
-            "answer": "<p>Shipping is <strong>free<\/strong> for all orders.<\/p>"
           }
         },
         "item_e7z8bV": {
@@ -88,6 +81,13 @@
           "settings": {
             "question": "How do I track my order?",
             "answer": "<p>You can track the status of your order by clicking on the link in the shipping confirmation email. Or, you can also track it directly from our website: go to the \"<strong>SUPPORT<\/strong>\" menu bar and click on the \"<strong>TRACK YOUR ORDER<\/strong>\" item.<\/p>"
+          }
+        },
+        "item_WATrc4": {
+          "type": "item",
+          "settings": {
+            "question": "What are the shipping costs?",
+            "answer": "<p>Shipping is <strong>free<\/strong> for all orders.<\/p>"
           }
         },
         "item_qLhngg": {
@@ -181,12 +181,12 @@
       },
       "block_order": [
         "category_FUDCDC",
+        "item_Va3LHL",
         "item_iVtG8i",
         "item_NMdDyr",
-        "item_Va3LHL",
         "category_NdY4iV",
-        "item_WATrc4",
         "item_e7z8bV",
+        "item_WATrc4",
         "item_qLhngg",
         "category_tc77Yg",
         "item_rMdBXt",
