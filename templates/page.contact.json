@@ -17,6 +17,36 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_eY9UA4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_G9E3UW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us",
+            "heading_size": "h1"
+          }
+        },
+        "text_QVigrY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do you need to contact us about a product, a question or a shipment?<br\/><br\/>Feel free to email us at <strong>keikowatches@gmail.com <\/strong>or connect to our Instagram! We will be happy to help you regardless of the day of the week or the time. Normal response times are within <strong>48 hours<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_G9E3UW",
+        "text_QVigrY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "ss_form_builder_7qQJFc": {
       "type": "ss-form-builder",
       "blocks": {
@@ -59,8 +89,8 @@
         "textarea_PkFz4x"
       ],
       "settings": {
-        "title": "Contact Us",
-        "text": "<p>Do you need to contact us about a product, a question or a shipment?<br\/><br\/>Feel free to email us at <strong>keikowatches@gmail.com <\/strong>or connect to our Instagram! We will be happy to help you regardless of the day of the week or the time. Normal response times are within <strong>48 hours<\/strong>.<\/p>",
+        "title": "",
+        "text": "",
         "form_success": "",
         "input_border_radius": 0,
         "text_align": "left",
@@ -84,7 +114,7 @@
         "field_title_color": "#000000",
         "field_border_color": "#d5d5d5",
         "background-color": "#ffffff",
-        "padding_top": 36,
+        "padding_top": 12,
         "padding_bottom": 36,
         "section-width": 75
       }
@@ -92,6 +122,7 @@
   },
   "order": [
     "main",
+    "rich_text_eY9UA4",
     "ss_form_builder_7qQJFc"
   ]
 }
