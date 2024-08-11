@@ -14,18 +14,18 @@
     "ss_footer_6_UBzXmH": {
       "type": "ss-footer-6",
       "blocks": {
-        "menu_VFLPYM": {
-          "type": "menu",
-          "settings": {
-            "heading": "SERVICE",
-            "menu": "assistenza-clienti"
-          }
-        },
         "menu_rzWWPx": {
           "type": "menu",
           "settings": {
             "heading": "SHOP",
             "menu": "main-menu"
+          }
+        },
+        "menu_VFLPYM": {
+          "type": "menu",
+          "settings": {
+            "heading": "SERVICE",
+            "menu": "assistenza-clienti"
           }
         },
         "menu_rwERic": {
@@ -180,8 +180,8 @@
         }
       },
       "block_order": [
-        "menu_VFLPYM",
         "menu_rzWWPx",
+        "menu_VFLPYM",
         "menu_rwERic",
         "heading_7tTj7T",
         "text_VXVXYK",
