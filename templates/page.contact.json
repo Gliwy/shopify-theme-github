@@ -19,6 +19,45 @@
     },
     "ss_form_builder_7qQJFc": {
       "type": "ss-form-builder",
+      "blocks": {
+        "text_L9xNxb": {
+          "type": "text",
+          "settings": {
+            "required": false,
+            "use_label": true,
+            "title": "Name",
+            "placeholder": "",
+            "type": "email",
+            "width": "full"
+          }
+        },
+        "text_Qi843L": {
+          "type": "text",
+          "settings": {
+            "required": true,
+            "use_label": true,
+            "title": "Email",
+            "placeholder": "",
+            "type": "email",
+            "width": "full"
+          }
+        },
+        "textarea_PkFz4x": {
+          "type": "textarea",
+          "settings": {
+            "required": false,
+            "use_label": true,
+            "title": "Message",
+            "placeholder": "",
+            "width": "full"
+          }
+        }
+      },
+      "block_order": [
+        "text_L9xNxb",
+        "text_Qi843L",
+        "textarea_PkFz4x"
+      ],
       "settings": {
         "title": "Contact Us",
         "text": "<p>Do you need to contact us about a product, a question or a shipment?<br\/><br\/>Feel free to email us at <strong>keikowatches@gmail.com <\/strong>or connect to our Instagram! We will be happy to help you regardless of the day of the week or the time. Normal response times are within <strong>48 hours<\/strong>.<\/p>",
