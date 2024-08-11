@@ -79,8 +79,8 @@
         "item_WATrc4": {
           "type": "item",
           "settings": {
-            "question": "Quali sono i costi di spedizione?",
-            "answer": "<p>La spedizione <strong>è gratuita<\/strong>, per tutti gli ordini.<\/p>"
+            "question": "What are the shipping costs?",
+            "answer": "<p>Shipping is <strong>free<\/strong> for all orders.<\/p>"
           }
         },
         "item_e7z8bV": {
