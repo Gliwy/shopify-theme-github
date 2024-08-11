@@ -1,0 +1,291 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_WGFaYe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zfHaw3": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQs",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zfHaw3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "ss_faq_8_EMmXAB": {
+      "type": "ss-faq-8",
+      "blocks": {
+        "category_FUDCDC": {
+          "type": "category",
+          "settings": {
+            "heading": "PRODUCTS"
+          }
+        },
+        "item_iVtG8i": {
+          "type": "item",
+          "settings": {
+            "question": "I prodotti Keiko sono coperti da garanzia?",
+            "answer": "<p>Tutti i nostri prodotti sono coperti dalla garanzia di <strong>12 mesi<\/strong> per difetti di conformità.<\/p><p>Questa garanzia non copre alcun abuso da parte del cliente, normale usura, graffi o scolorimento dovuto a cura impropria.<\/p>"
+          }
+        },
+        "item_NMdDyr": {
+          "type": "item",
+          "settings": {
+            "question": "Cos'è e come funziona il codice promozionale?",
+            "answer": "<p>Il <strong>codice promozionale <\/strong>è un buono sconto che viene fornito, mediante la nostra <strong>newsletter<\/strong>, per beneficiare di offerte speciali.<\/p>"
+          }
+        },
+        "item_Va3LHL": {
+          "type": "item",
+          "settings": {
+            "question": "Come faccio a sapere se il mio prodotto è disponibile?",
+            "answer": "<p>Se un prodotto, da te cercato, non è presente sul nostro sito o non può essere aggiunto al carrello, allora è attualmente esaurito.<br\/><br\/>Oltre a quanto sopra riportato, c'è anche la possibilità di ricevere un <strong>messaggio di errore <\/strong>durante il pagamento.<\/p>"
+          }
+        },
+        "category_NdY4iV": {
+          "type": "category",
+          "settings": {
+            "heading": "SHIPPING"
+          }
+        },
+        "item_WATrc4": {
+          "type": "item",
+          "settings": {
+            "question": "Quali sono i costi di spedizione?",
+            "answer": "<p>La spedizione <strong>è gratuita<\/strong>, per tutti gli ordini.<\/p>"
+          }
+        },
+        "item_e7z8bV": {
+          "type": "item",
+          "settings": {
+            "question": "Come faccio a tracciare il mio ordine?",
+            "answer": "<p>Puoi rintracciare lo stato del tuo ordine <strong>cliccando sul link riportato all'interno della mail di conferma di spedizione<\/strong>.<br\/>Oppure, puoi anche rintracciarlo direttamente dal nostro sito: vai sulla barra del menù \"SERVIZIO\" e clicca sulla voce \"<strong>TRACCIA IL TUO ORDINE<\/strong>\".<\/p>"
+          }
+        },
+        "item_qLhngg": {
+          "type": "item",
+          "settings": {
+            "question": "In quanto tempo viene consegnato il mio ordine?",
+            "answer": "<p>Tutti gli ordini vengono inviati con il SERVIZIO EXPRESS e vengono consegnati <strong>entro 3<\/strong>-<strong>4 giorni lavorativi <\/strong>(sabato e domenica esclusi).<\/p><p><strong>N.B.<\/strong>: per le isole potrebbero volerci sino a 2 giorni lavorativi in più.<\/p>"
+          }
+        },
+        "category_tc77Yg": {
+          "type": "category",
+          "settings": {
+            "heading": "RETURNS & REFUNDS"
+          }
+        },
+        "item_rMdBXt": {
+          "type": "item",
+          "settings": {
+            "question": "Quando riceverò il rimborso?",
+            "answer": "<p>Una volta ricevuto il reso presso la nostra struttura, il rimborso sarà elaborato entro <strong>14 giorni lavorativi<\/strong>. Riceverai un’e-mail una volta che il tuo reso sarà stato elaborato.<\/p><p>Il rimborso verrà erogato nella stessa modalità del pagamento originario. Riceverai un’e-mail quando il tuo reso sarà stato confermato e il rimborso elaborato.<\/p>"
+          }
+        },
+        "item_dJBNYW": {
+          "type": "item",
+          "settings": {
+            "question": "Come posso restituire il mio ordine?",
+            "answer": "<p>Il reso è <strong>GRATUITO <\/strong>su tutti gli ordini.<br\/><br\/>Se l’acquisto effettuato online non ti soddisfa al 100%, accettiamo resi entro 30 giorni dalla data di acquisto per un rimborso.<\/p>"
+          }
+        },
+        "item_dKRAed": {
+          "type": "item",
+          "settings": {
+            "question": "Di chi è la responsabilità della spedizione di restituzione?",
+            "answer": "<p>La responsabilità della spedizione di reso è del cliente.<\/p>"
+          }
+        },
+        "category_8tAxBm": {
+          "type": "category",
+          "settings": {
+            "heading": "ORDERS & PAYMENT"
+          }
+        },
+        "item_aiwJWz": {
+          "type": "item",
+          "settings": {
+            "question": "Quali forme di pagamento accettate?",
+            "answer": "<p>I metodi di pagamento disponibili sono i seguenti:<\/p><ul><li>MasterCard<\/li><li>VISA<\/li><li>American Express<\/li><\/ul>"
+          }
+        },
+        "item_akULnn": {
+          "type": "item",
+          "settings": {
+            "question": "Dopo quanti giorni viene inviato il mio ordine?",
+            "answer": "<p>Generalmente evadiamo tutti gli ordini <strong>entro 1 giorno lavorativo<\/strong>, tuttavia, in alcuni casi, potrebbero volerci sino a 3 giorni.<br\/>Non appena il tuo ordine verrà affidato al corriere, <strong>riceverai una mail di conferma di spedizione con il link per tracciare il pacco<\/strong>.<\/p>"
+          }
+        },
+        "item_MWeccU": {
+          "type": "item",
+          "settings": {
+            "question": "Come faccio a sapere se il mio ordine è andato a buon fine?",
+            "answer": "<p>Per sapere se un ordine è andato a buon fine <strong>controlla la tua mail<\/strong>.<br\/>Dopo aver completato il tuo ordine, dovresti aver ricevuto una mail di conferma con tutti i dettagli.<\/p>"
+          }
+        },
+        "category_b73rE6": {
+          "type": "category",
+          "settings": {
+            "heading": "CONTACT US"
+          }
+        },
+        "item_L3LmnT": {
+          "type": "item",
+          "settings": {
+            "question": "Perchè il mio ordine è in ritardo?",
+            "answer": "<p>Facciamo del nostro meglio per rispettare i tempi di consegna, ma possono capitare degli imprevisti.<\/p><p><strong>Ecco alcune possibili cause del ritardo:<\/strong><\/p><p>- L'ordine è stato spedito durante il periodo di saldi e promozioni;<\/p><p>- Hai ordinato più di un prodotto. In alcuni casi eccezionali, i prodotti ordinati potrebbero arrivare in pacchi separati e in giorni diversi;<\/p><p>- L'ordine è stato effettuato durante un giorno di festa nazionale o di una festività locale;<\/p><p>- Si sono verificati eventi imprevisti che esulano dal nostro controllo.<\/p>"
+          }
+        },
+        "item_3nVJMQ": {
+          "type": "item",
+          "settings": {
+            "question": "Cosa succede se al momento della consegna non c'è nessuno a ricevere il pacco?",
+            "answer": "<p>Il corriere depositerà il pacco nella tua cassetta della posta oppure se non è possibile provvederà ad effettuare un secondo ed ultimo tentativo di consegna nei giorni successivi.<\/p><p>Consulta il tracciamento dell' ordine cliccando su <strong>\"TRACCIA IL TUO ORDINE\"<\/strong> per capire quando verrà consegnato il tuo ordine.<\/p>"
+          }
+        },
+        "item_Y9qyim": {
+          "type": "item",
+          "settings": {
+            "question": "Chi posso contattare per questioni inerenti alla fatturazione?",
+            "answer": "<p>Puoi contattare l'assistenza tramite questo indirizzo: <strong>keikowatches@gmail.com<\/strong>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_FUDCDC",
+        "item_iVtG8i",
+        "item_NMdDyr",
+        "item_Va3LHL",
+        "category_NdY4iV",
+        "item_WATrc4",
+        "item_e7z8bV",
+        "item_qLhngg",
+        "category_tc77Yg",
+        "item_rMdBXt",
+        "item_dJBNYW",
+        "item_dKRAed",
+        "category_8tAxBm",
+        "item_aiwJWz",
+        "item_akULnn",
+        "item_MWeccU",
+        "category_b73rE6",
+        "item_L3LmnT",
+        "item_3nVJMQ",
+        "item_Y9qyim"
+      ],
+      "settings": {
+        "nav_gap": 12,
+        "nav_gap_mobile": 12,
+        "nav_row": 5,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 16,
+        "button_height": 120,
+        "button_padding_vertical": 20,
+        "button_padding_vertical_mobile": 20,
+        "button_padding_horizontal": 16,
+        "button_padding_horizontal_mobile": 16,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "body_mt": 32,
+        "body_mt_mobile": 24,
+        "body_padding_vertical": 64,
+        "body_padding_vertical_mobile": 32,
+        "body_padding_horizontal": 64,
+        "body_padding_horizontal_mobile": 32,
+        "body_radius": 20,
+        "body_border_thickness": 0,
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 36,
+        "heading_size_mobile": 20,
+        "heading_height": 130,
+        "heading_mt": 64,
+        "heading_mt_mobile": 32,
+        "heading_mb": 24,
+        "heading_mb_mobile": 24,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "item_padding_bottom": 12,
+        "item_border_thickness": 1,
+        "item_mt": 12,
+        "item_mt_mobile": 12,
+        "question_custom": false,
+        "question_font": "josefin_sans_n4",
+        "question_size": 18,
+        "question_size_mobile": 14,
+        "question_height": 130,
+        "arrow_size": 28,
+        "arrow_size_mobile": 28,
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
+        "answer_size": 16,
+        "answer_size_mobile": 14,
+        "answer_height": 170,
+        "answer_padding_top": 16,
+        "button_color": "#6c584c",
+        "button_hover_color": "#f2f0ed",
+        "button_bg_color": "#f2f0ed",
+        "button_bg_hover_color": "#6c584c",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "body_bg_color": "#f2f0ed",
+        "body_border_color": "#6c584c",
+        "heading_color": "#6c584c",
+        "item_border_color": "#e5e7eb",
+        "question_color": "#6c584c",
+        "answer_color": "#6c584c",
+        "arrow_color": "#6c584c",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "",
+        "arrow_bg_hover_color": "#6c584c",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 150,
+        "border_thickness": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_WGFaYe",
+    "ss_faq_8_EMmXAB"
+  ]
+}
