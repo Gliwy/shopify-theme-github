@@ -133,8 +133,8 @@
         "item_aiwJWz": {
           "type": "item",
           "settings": {
-            "question": "Quali forme di pagamento accettate?",
-            "answer": "<p>I metodi di pagamento disponibili sono i seguenti:<\/p><ul><li>MasterCard<\/li><li>VISA<\/li><li>American Express<\/li><\/ul>"
+            "question": "What forms of payment do you accept?",
+            "answer": "<p>The available payment methods are as follows:<\/p><ul><li>MasterCard<\/li><li>VISA<\/li><li>American Express<\/li><\/ul>"
           }
         },
         "item_akULnn": {
