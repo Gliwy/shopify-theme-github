@@ -168,7 +168,7 @@
           "type": "item",
           "settings": {
             "question": "Cosa succede se al momento della consegna non c'è nessuno a ricevere il pacco?",
-            "answer": "<p>Il corriere depositerà il pacco nella tua cassetta della posta oppure se non è possibile provvederà ad effettuare un secondo ed ultimo tentativo di consegna nei giorni successivi.<\/p><p>Consulta il tracciamento del tuo ordine cliccando su <strong>\"TRACCIA IL TUO ORDINE\"<\/strong> per capire quando verrà consegnato il tuo ordine.<\/p>"
+            "answer": "<p>Il corriere depositerà il pacco nella tua cassetta della posta oppure se non è possibile provvederà ad effettuare un secondo ed ultimo tentativo di consegna nei giorni successivi.<\/p><p>Consulta il tracciamento dell' ordine cliccando su <strong>\"TRACCIA IL TUO ORDINE\"<\/strong> per capire quando verrà consegnato il tuo ordine.<\/p>"
           }
         },
         "item_Y9qyim": {
