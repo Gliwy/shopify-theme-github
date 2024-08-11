@@ -52,7 +52,7 @@
         "item_iVtG8i": {
           "type": "item",
           "settings": {
-            "question": "I prodotti Keiko sono coperti da garanzia?",
+            "question": "Are Keiko products covered by warranty?",
             "answer": "<p>Tutti i nostri prodotti sono coperti da una garanzia di <strong>12 mesi<\/strong> per difetti di conformità.<\/p><p>Questa garanzia non copre alcun abuso da parte del cliente, normale usura, graffi o scolorimento dovuto a cura impropria.<\/p>"
           }
         },
