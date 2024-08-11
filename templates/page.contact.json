@@ -92,7 +92,7 @@
         "title": "",
         "text": "",
         "form_success": "",
-        "input_border_radius": 10,
+        "input_border_radius": 6,
         "text_align": "center",
         "button_color": "#FFFFFF",
         "button_background_color": "#000000",
