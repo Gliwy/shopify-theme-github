@@ -17,6 +17,29 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_WGFaYe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zfHaw3": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQs",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zfHaw3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "ss_faq_8_EMmXAB": {
       "type": "ss-faq-8",
       "blocks": {
@@ -230,22 +253,22 @@
         "answer_height": 170,
         "answer_padding_top": 16,
         "button_color": "#6c584c",
-        "button_hover_color": "#F2F0ED",
-        "button_bg_color": "#F2F0ED",
+        "button_hover_color": "#f2f0ed",
+        "button_bg_color": "#f2f0ed",
         "button_bg_hover_color": "#6c584c",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
-        "body_bg_color": "#F2F0ED",
+        "body_bg_color": "#f2f0ed",
         "body_border_color": "#6c584c",
         "heading_color": "#6c584c",
-        "item_border_color": "#E5E7EB",
+        "item_border_color": "#e5e7eb",
         "question_color": "#6c584c",
         "answer_color": "#6c584c",
         "arrow_color": "#6c584c",
-        "arrow_hover_color": "#FFFFFF",
+        "arrow_hover_color": "#ffffff",
         "arrow_bg_color": "",
         "arrow_bg_hover_color": "#6c584c",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -262,6 +285,7 @@
   },
   "order": [
     "main",
+    "rich_text_WGFaYe",
     "ss_faq_8_EMmXAB"
   ]
 }
