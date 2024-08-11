@@ -174,8 +174,8 @@
         "item_3nVJMQ": {
           "type": "item",
           "settings": {
-            "question": "Cosa succede se al momento della consegna non c'è nessuno a ricevere il pacco?",
-            "answer": "<p>Il corriere depositerà il pacco nella tua cassetta della posta oppure se non è possibile provvederà ad effettuare un secondo ed ultimo tentativo di consegna nei giorni successivi.<\/p><p>Consulta il tracciamento dell' ordine cliccando su <strong>\"TRACCIA IL TUO ORDINE\"<\/strong> per capire quando verrà consegnato il tuo ordine.<\/p>"
+            "question": "What happens if there is no one to receive the package at the time of delivery?",
+            "answer": "<p>The courier will deposit the package in your mailbox or if this is not possible, he will make a second and final delivery attempt in the following days.<\/p><p>Consult the order tracking by clicking on “<strong>TRACK YOUR ORDER<\/strong>” to understand when your order will be delivered order.<\/p>"
           }
         }
       },
