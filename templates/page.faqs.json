@@ -141,7 +141,7 @@
           "type": "item",
           "settings": {
             "question": "After how many days will my order be sent?",
-            "answer": "<p>Generalmente evadiamo tutti gli ordini <strong>entro 1 giorno lavorativo<\/strong>, tuttavia, in alcuni casi, potrebbero volerci sino a 3 giorni.<br\/>Non appena il tuo ordine verrà affidato al corriere, <strong>riceverai una mail di conferma di spedizione con il link per tracciare il pacco<\/strong>.<\/p>"
+            "answer": "<p>We generally process all orders within <strong>1 working day<\/strong>, however, in some cases, it may take up to 3 days. <\/p><p>As soon as your order is handed over to the courier, you will receive a <strong>shipping confirmation email with the link to track the package.<\/strong><\/p>"
           }
         },
         "item_MWeccU": {
