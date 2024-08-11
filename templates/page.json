@@ -53,7 +53,7 @@
           "type": "item",
           "settings": {
             "question": "I prodotti Keiko sono coperti da garanzia?",
-            "answer": "<p>Tutti i nostri prodotti sono coperti dalla garanzia di 2 anni per difetti di conformità.<\/p><p>Questa garanzia non copre alcun abuso da parte del cliente, normale usura, graffi o scolorimento dovuto a cura impropria.<\/p><p>Se ricevi un prodotto che presenta un difetto di conformità che si manifesta entro 12 mesi dalla data di consegna provvederemo alla sostituzione completamente gratuita del prodotto<\/p>"
+            "answer": "<p>Tutti i nostri prodotti sono coperti dalla garanzia di 12 mesi per difetti di conformità.<\/p><p>Questa garanzia non copre alcun abuso da parte del cliente, normale usura, graffi o scolorimento dovuto a cura impropria.<\/p><p>Se ricevi un prodotto che presenta un difetto di conformità che si manifesta entro 12 mesi dalla data di consegna provvederemo alla sostituzione completamente gratuita del prodotto<\/p>"
           }
         },
         "item_NMdDyr": {
