@@ -57,7 +57,7 @@
             "use_label": true,
             "title": "Name",
             "placeholder": "",
-            "type": "email",
+            "type": "text",
             "width": "full"
           }
         },
@@ -68,7 +68,7 @@
             "use_label": true,
             "title": "Email",
             "placeholder": "",
-            "type": "email",
+            "type": "text",
             "width": "full"
           }
         },
