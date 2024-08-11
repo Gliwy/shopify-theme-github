@@ -107,7 +107,7 @@
           "type": "item",
           "settings": {
             "question": "When will I receive the refund?",
-            "answer": "<p>Once your return is received at our facility, your refund will be processed within <strong>14 working days<\/strong>. You will receive an email once your return has been processed. The refund will be issued in the same way as the original payment. You will receive an email when your return has been confirmed and your refund processed.<\/p>"
+            "answer": "<p>Once your return is received at our facility, your refund will be processed within <strong>14 working days<\/strong>. You will receive an email once your return has been processed. <\/p><p>The refund will be issued in the same way as the original payment. You will receive an email when your return has been confirmed and your refund processed.<\/p>"
           }
         },
         "item_dJBNYW": {
