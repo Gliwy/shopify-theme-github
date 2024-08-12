@@ -23,19 +23,19 @@
         "slide_UQNUaG": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pppBANDS_32f85c87-060e-4c70-b9be-e23a92ece569.png",
+            "image": "shopify:\/\/shop_images\/Senza_titolo-14.png",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-right",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         }
       },
