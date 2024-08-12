@@ -33,7 +33,7 @@
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
-            "image_overlay_opacity": 10,
+            "image_overlay_opacity": 20,
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "left"
           }
@@ -128,9 +128,9 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/office_4f46c1d4-2ed8-4943-8a5b-dcffed7800a3.png",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "caption": "SERVICES",
+            "heading": "CUSTOMER SERVICE",
+            "text": "<p>n order to provide the best possible service, we offer a 1-year warranty and warranty and post-warranty support for all Smartwatches and other products.<\/p>",
             "button_label": "",
             "button_link": ""
           }
