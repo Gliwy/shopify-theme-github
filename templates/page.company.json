@@ -23,7 +23,7 @@
         "slide_UQNUaG": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/hj_bfffa93f-80a0-4218-953c-2e5e12841ac6.png",
+            "image": "shopify:\/\/shop_images\/64646_8d5d367c-aafa-430d-9492-ddfac99e6ada.png",
             "heading": "ABOUT US",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -32,10 +32,10 @@
             "button_style_secondary": true,
             "box_align": "middle-left",
             "show_text_box": false,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "left"
           }
         }
       },
