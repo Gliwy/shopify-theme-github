@@ -24,7 +24,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/64646.png",
-            "heading": "Image slide",
+            "heading": "ABOUT US",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
@@ -34,7 +34,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         }
