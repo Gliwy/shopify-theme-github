@@ -17,56 +17,45 @@
         "padding_bottom": 28
       }
     },
-    "image_banner_eF3QVL": {
-      "type": "image-banner",
+    "slideshow_b9g8Lp": {
+      "type": "slideshow",
       "blocks": {
-        "heading_Vb93eG": {
-          "type": "heading",
+        "slide_UQNUaG": {
+          "type": "slide",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_8dxaeB": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_NEy6AL": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify:\/\/shop_images\/pppBANDS_32f85c87-060e-4c70-b9be-e23a92ece569.png",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "heading_Vb93eG",
-        "text_8dxaeB",
-        "buttons_NEy6AL"
+        "slide_UQNUaG"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "",
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
       }
     }
   },
   "order": [
     "main",
-    "image_banner_eF3QVL"
+    "slideshow_b9g8Lp"
   ]
 }
