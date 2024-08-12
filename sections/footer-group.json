@@ -133,6 +133,7 @@
         },
         "logo_h8hVCi": {
           "type": "logo",
+          "disabled": true,
           "settings": {
             "logo_mt": 40,
             "logo_mt_mobile": 0,
