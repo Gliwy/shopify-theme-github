@@ -92,7 +92,7 @@
         "heading_DBbKiF": {
           "type": "heading",
           "settings": {
-            "heading": "Immagine con testo",
+            "heading": "<strong>Elegante in vera pelle<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -118,6 +118,7 @@
         "button_dA4JMW"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pelliccia_1b21f918-98ed-414c-9756-8b179be433a1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
