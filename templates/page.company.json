@@ -43,7 +43,7 @@
         "slide_UQNUaG"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "adapt_image",
         "slider_visual": "counter",
         "auto_rotate": false,
