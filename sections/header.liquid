@@ -304,10 +304,10 @@
   items.forEach(item => {
     item.addEventListener("mouseover", () => {
       item.setAttribute("open", true);
-      item.querySelector("ul").addEventListener("mouseblock", () => {
+      item.querySelector("ul").addEventListener("mouseover", () => {
         item.removeAttribute("open");
       });
-    item.addEventListener("mouseleave", () => {
+    item.addEventListener("mouseover", () => {
       item.removeAttribute("open");
     });
   });
