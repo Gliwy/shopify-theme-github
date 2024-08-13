@@ -49,7 +49,7 @@
         "drawer_menu_images_toggle": "none",
         "menu_images_size": 60,
         "menu_images_border_toggle": true,
-        "menu_images_border_color": "#eaeaea",
+        "menu_images_border_color": "#d9d9d9",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
         "color_scheme": "scheme-3",
