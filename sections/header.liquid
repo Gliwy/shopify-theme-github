@@ -302,9 +302,9 @@
   let items = document.querySelector(".header__inline-menu").querySelectorAll("details");
   console.log(items)
   items.forEach(item => {
-    item.addEventListener("mouseover", () => {
+    item.addEventListener("mouseleave", () => {
       item.setAttribute("open", true);
-      item.querySelector("ul").addEventListener("mouseover", () => {
+      item.querySelector("ul").addEventListener("mouseleave", () => {
         item.removeAttribute("open");
       });
     item.addEventListener("mouseover", () => {
