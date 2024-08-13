@@ -303,7 +303,7 @@
   console.log(items)
   items.forEach(item => {
     item.addEventListener("mouseover", () => {
-      item.setAttribute("open", true);
+      item.setAttribute("block", true);
       item.querySelector("ul").addEventListener("mouseleave", () => {
         item.removeAttribute("open");
       });
