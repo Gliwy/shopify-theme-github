@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="{{ 'component-price.css' | asset_url }}" media="print" onload="this.media='all'">
 {%- endif -%}
 
+
 <style>
   header-drawer {
     justify-self: start;
@@ -175,10 +176,8 @@
       if section.settings.menu != blank
         if section.settings.menu_type_desktop == 'dropdown'
           render 'header-dropdown-menu'
-        elsif section.settings.menu_type_desktop == 'mega-extended'
-          render 'header-mega-menu-extended'
         elsif section.settings.menu_type_desktop != 'drawer'
-        render 'header-mega-menu'
+          render 'header-mega-menu'
         endif
       endif
     %}
@@ -501,10 +500,6 @@
         {
           "value": "drawer",
           "label": "t:sections.header.settings.menu_type_desktop.options__3.label"
-        },
-        {
-         "value": "mega-extended",
-         "label": "Megamenu Extended"
         }
       ],
       "default": "dropdown",
