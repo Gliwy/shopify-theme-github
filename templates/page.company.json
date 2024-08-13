@@ -81,7 +81,7 @@
         "desktop_content_alignment": "left",
         "image_layout": "align-left",
         "section_color_scheme": "scheme-2",
-        "row_color_scheme": "",
+        "row_color_scheme": "scheme-2",
         "mobile_content_alignment": "center",
         "padding_top": 52,
         "padding_bottom": 0
@@ -115,7 +115,7 @@
         "desktop_content_alignment": "left",
         "image_layout": "align-right",
         "section_color_scheme": "scheme-2",
-        "row_color_scheme": "",
+        "row_color_scheme": "scheme-2",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
@@ -149,7 +149,7 @@
         "desktop_content_alignment": "left",
         "image_layout": "align-left",
         "section_color_scheme": "scheme-2",
-        "row_color_scheme": "",
+        "row_color_scheme": "scheme-2",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
