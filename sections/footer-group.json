@@ -123,7 +123,7 @@
             "logo_mb_mobile": 36,
             "image_width": 50,
             "image_width_mobile": 40,
-            "text": "<p>© Keiko 2024 . All Rights Reserved.<\/p>",
+            "text": "<p>© Keiko 2024. All Rights Reserved.<\/p>",
             "text_custom": false,
             "text_font": "proza_libre_n5",
             "text_size": 10,
@@ -140,7 +140,7 @@
             "rating_text_size": 13,
             "rating_text_size_mobile": 13,
             "rating_text_mt": 0,
-            "rating_text_mt_mobile": 32,
+            "rating_text_mt_mobile": 36,
             "stars_count": 5,
             "stars_size": 22,
             "stars_size_mobile": 22,
@@ -153,7 +153,7 @@
           "type": "payments",
           "settings": {
             "payments_mt": 0,
-            "payments_mt_mobile": 32
+            "payments_mt_mobile": 36
           }
         },
         "socials_UweXTM": {
@@ -197,7 +197,7 @@
         "block_padding_horizontal": 100,
         "block_padding_horizontal_mobile": 36,
         "bottom_block_padding_vertical": 10,
-        "bottom_block_padding_vertical_mobile": 20,
+        "bottom_block_padding_vertical_mobile": 12,
         "bottom_block_padding_horizontal": 36,
         "bottom_block_padding_horizontal_mobile": 20,
         "block_border_thickness": 1,
