@@ -307,8 +307,8 @@
       item.querySelector("ul").addEventListener("mouseleave", () => {
         item.removeAttribute("open");
       });
-    item.addEventListener("mouseleave", () => {
-      item.removeAttribute("block");
+    item.addEventListener("mouseover", () => {
+      item.removeAttribute("open");
     });
   });
   
