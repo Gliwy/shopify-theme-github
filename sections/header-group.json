@@ -40,7 +40,7 @@
       "settings": {
         "logo_position": "middle-left",
         "menu": "main-menu",
-        "menu_type_desktop": "mega-extended",
+        "menu_type_desktop": "mega",
         "mega_menu_images_toggle": "metafield",
         "mega_menu_images_title": false,
         "megamenu_backdrop_toggle": true,
