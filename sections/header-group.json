@@ -48,7 +48,7 @@
         "menu_dropdown_width": 25,
         "drawer_menu_images_toggle": "metafield",
         "menu_images_size": 60,
-        "menu_images_border_toggle": false,
+        "menu_images_border_toggle": true,
         "menu_images_border_color": "#eaeaea",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
