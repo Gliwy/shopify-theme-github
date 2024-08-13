@@ -114,6 +114,24 @@
             "privacy_checkbox_active_arrow_color": "#000000"
           }
         },
+        "logo_h8hVCi": {
+          "type": "logo",
+          "settings": {
+            "logo_mt": 14,
+            "logo_mt_mobile": 0,
+            "logo_mb": 0,
+            "logo_mb_mobile": 36,
+            "image_width": 50,
+            "image_width_mobile": 40,
+            "text": "<p>© Keiko 2024 . All Rights Reserved.<\/p>",
+            "text_custom": false,
+            "text_font": "proza_libre_n5",
+            "text_size": 10,
+            "text_size_mobile": 14,
+            "text_height": 50,
+            "text_color": "#ffffff"
+          }
+        },
         "rating_QJMFnk": {
           "type": "rating",
           "settings": {
@@ -121,7 +139,7 @@
             "rating_hide": true,
             "rating_text_size": 13,
             "rating_text_size_mobile": 13,
-            "rating_text_mt": 12,
+            "rating_text_mt": 0,
             "rating_text_mt_mobile": 32,
             "stars_count": 5,
             "stars_size": 22,
@@ -131,29 +149,10 @@
             "stars_color": "#ffffff"
           }
         },
-        "logo_h8hVCi": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
-            "logo_mt": 40,
-            "logo_mt_mobile": 0,
-            "logo_mb": 0,
-            "logo_mb_mobile": 36,
-            "image_width": 60,
-            "image_width_mobile": 40,
-            "text": "<h2>FOLLOW US #ORIGINALKEIKO<\/h2>",
-            "text_custom": false,
-            "text_font": "proza_libre_n5",
-            "text_size": 30,
-            "text_size_mobile": 18,
-            "text_height": 50,
-            "text_color": "#ffffff"
-          }
-        },
         "payments_T3rM4F": {
           "type": "payments",
           "settings": {
-            "payments_mt": 12,
+            "payments_mt": 0,
             "payments_mt_mobile": 32
           }
         },
@@ -187,14 +186,14 @@
         "heading_7tTj7T",
         "text_VXVXYK",
         "newsletter_VRtj4t",
-        "rating_QJMFnk",
         "logo_h8hVCi",
+        "rating_QJMFnk",
         "payments_T3rM4F",
         "socials_UweXTM"
       ],
       "settings": {
         "block_padding_vertical": 36,
-        "block_padding_vertical_mobile": 20,
+        "block_padding_vertical_mobile": 26,
         "block_padding_horizontal": 100,
         "block_padding_horizontal_mobile": 36,
         "bottom_block_padding_vertical": 10,
@@ -264,6 +263,7 @@
     },
     "footer": {
       "type": "footer",
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-3",
         "newsletter_enable": false,
