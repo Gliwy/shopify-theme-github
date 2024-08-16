@@ -61,7 +61,7 @@
         "item_rrQVR6"
       ],
       "settings": {
-        "insert_css_class_target": ".header, .pageheader",
+        "insert_css_class_target": "",
         "url": "",
         "layout_gap": 50,
         "layout_gap_mobile": 30,
