@@ -42,6 +42,7 @@
         "item_y3TDkP": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/like-thumbs-up-hand-social-media_icon-icons.com_61429.png",
             "icon": "time",
             "title": "<h4>Satisfaction Guarantee<\/h4>",
             "description": "",
