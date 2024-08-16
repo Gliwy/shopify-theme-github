@@ -87,19 +87,19 @@
         "share"
       ],
       "settings": {
-        "enable_sticky_info": true,
-        "color_scheme": "scheme-1",
-        "media_size": "large",
+        "enable_sticky_info": false,
+        "color_scheme": "scheme-4",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "gallery_layout": "stacked",
+        "gallery_layout": "thumbnail_slider",
         "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": true,
+        "image_zoom": "none",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 36
       }
     },
     "related-products": {
@@ -119,6 +119,24 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
+      }
+    },
+    "17238398671d484ca9": {
+      "type": "apps",
+      "blocks": {
+        "doran_reviews_questions_product_widget_jKDqVE": {
+          "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/product-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+          "settings": {
+            "topPadding": 36,
+            "bottomPadding": 36
+          }
+        }
+      },
+      "block_order": [
+        "doran_reviews_questions_product_widget_jKDqVE"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "ss_feature_11_ULtdK9": {
@@ -247,6 +265,7 @@
   "order": [
     "main",
     "related-products",
+    "17238398671d484ca9",
     "ss_feature_11_ULtdK9"
   ]
 }
