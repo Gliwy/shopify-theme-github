@@ -41,13 +41,29 @@
             "icon": "return_arrow",
             "text": "Easy Returns"
           }
+        },
+        "item_EggFjj": {
+          "type": "item",
+          "settings": {
+            "icon": "atc",
+            "text": ""
+          }
+        },
+        "item_nF8FhY": {
+          "type": "item",
+          "settings": {
+            "icon": "shop",
+            "text": "Sign Up For 15% Off Your First Order."
+          }
         }
       },
       "block_order": [
         "item_aWYVCw",
         "item_X76TRJ",
         "item_rrQVR6",
-        "item_xKjtqq"
+        "item_xKjtqq",
+        "item_EggFjj",
+        "item_nF8FhY"
       ],
       "settings": {
         "insert_css_class_target": "",
