@@ -33,18 +33,18 @@
     "ss_scrolling_announcement_bar_2_HHPpQY": {
       "type": "ss-scrolling-announcement-bar-2",
       "blocks": {
-        "item_rrQVR6": {
-          "type": "item",
-          "settings": {
-            "icon": "payment",
-            "text": "Secure Payment"
-          }
-        },
         "item_X76TRJ": {
           "type": "item",
           "settings": {
             "icon": "pin",
             "text": "Milan, Italy"
+          }
+        },
+        "item_xKjtqq": {
+          "type": "item",
+          "settings": {
+            "icon": "return_arrow",
+            "text": "Easy Returns"
           }
         },
         "item_aWYVCw": {
@@ -54,19 +54,19 @@
             "text": "Free Shipping"
           }
         },
-        "item_xKjtqq": {
+        "item_rrQVR6": {
           "type": "item",
           "settings": {
-            "icon": "return_arrow",
-            "text": "Easy Returns"
+            "icon": "payment",
+            "text": "Secure Payment"
           }
         }
       },
       "block_order": [
-        "item_rrQVR6",
         "item_X76TRJ",
+        "item_xKjtqq",
         "item_aWYVCw",
-        "item_xKjtqq"
+        "item_rrQVR6"
       ],
       "settings": {
         "insert_css_class_target": "",
