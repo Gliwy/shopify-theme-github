@@ -108,10 +108,18 @@
             "text": "👍 100% Satisfied | 💳️ Risk-free shopping | 🚚 Express delivery",
             "link": ""
           }
+        },
+        "announcement_3xaCbN": {
+          "type": "announcement",
+          "settings": {
+            "text": "LIMITED TIME⏰| 10% DISCOUNT SITEWIDE",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement_mrNCKC"
+        "announcement_mrNCKC",
+        "announcement_3xaCbN"
       ],
       "settings": {
         "color_scheme": "",
