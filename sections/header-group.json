@@ -98,10 +98,35 @@
         "padding_top": 16,
         "padding_bottom": 16
       }
+    },
+    "announcement_bar_cJL7QR": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_mrNCKC": {
+          "type": "announcement",
+          "settings": {
+            "text": "👍 100% Satisfied | 💳️ Risk-free shopping | 🚚 Express delivery",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_mrNCKC"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     }
   },
   "order": [
     "ss_scrolling_announcement_bar_2_HHPpQY",
-    "header"
+    "header",
+    "announcement_bar_cJL7QR"
   ]
 }
