@@ -106,7 +106,7 @@
           "type": "announcement",
           "settings": {
             "text": "Sign Up For 15% Off Your First Order.",
-            "link": "shopify:\/\/pages\/contact-us"
+            "link": ""
           }
         }
       },
