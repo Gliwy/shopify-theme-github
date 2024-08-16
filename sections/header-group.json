@@ -71,7 +71,7 @@
       "settings": {
         "insert_css_class_target": "",
         "url": "",
-        "layout_gap": 50,
+        "layout_gap": 100,
         "layout_gap_mobile": 30,
         "animate_speed": 50,
         "animate_direction": "right",
