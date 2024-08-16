@@ -306,7 +306,7 @@
         "header_size": 30,
         "header_align": "center",
         "scrolling_velocity": 5,
-        "pause_hover": false,
+        "pause_hover": true,
         "shadow": true,
         "sliders_mt": 0,
         "logo_padding_top": 12,

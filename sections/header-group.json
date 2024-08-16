@@ -54,7 +54,7 @@
         "url": "",
         "layout_gap": 100,
         "layout_gap_mobile": 50,
-        "animate_speed": 80,
+        "animate_speed": 90,
         "animate_direction": "right",
         "animate_pause": false,
         "icon_size": 20,
