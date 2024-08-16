@@ -60,7 +60,7 @@
         "slide_7Up46c"
       ],
       "settings": {
-        "ss-title": "Trusted by",
+        "ss-title": "",
         "heading_custom": false,
         "heading_font": "proza_libre_n4",
         "header_size": 30,
@@ -78,7 +78,7 @@
         "slider_rotate_mobile": 0,
         "slider_mb": 0,
         "slider_mb_mobile": 0,
-        "second_slider": true,
+        "second_slider": false,
         "second_slider_direction": "right",
         "second_slider_rotate": 0,
         "second_slider_rotate_mobile": 0,
