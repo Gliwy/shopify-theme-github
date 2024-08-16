@@ -90,7 +90,7 @@
         "show_line_separator": false,
         "color_scheme": "scheme-3",
         "menu_color_scheme": "scheme-3",
-        "enable_country_selector": false,
+        "enable_country_selector": true,
         "enable_language_selector": false,
         "enable_customer_avatar": false,
         "mobile_logo_position": "center",
@@ -127,8 +127,8 @@
         "show_social": false,
         "auto_rotate": true,
         "change_slides_speed": 5,
-        "enable_country_selector": true,
-        "enable_language_selector": true
+        "enable_country_selector": false,
+        "enable_language_selector": false
       }
     }
   },
