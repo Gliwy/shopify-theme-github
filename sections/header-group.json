@@ -77,7 +77,7 @@
         "animate_direction": "right",
         "animate_pause": true,
         "icon_size": 20,
-        "icon_size_mobile": 20,
+        "icon_size_mobile": 15,
         "text_custom": false,
         "text_font": "proza_libre_n4",
         "text_size": 12,
