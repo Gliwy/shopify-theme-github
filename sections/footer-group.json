@@ -309,7 +309,7 @@
         "pause_hover": false,
         "shadow": true,
         "sliders_mt": 0,
-        "logo_padding_top": 2,
+        "logo_padding_top": 12,
         "logo_padding_bottom": 10,
         "slider_gap": 50,
         "slider_gap_mobile": 10,
@@ -336,7 +336,7 @@
         "padding_bottom": 0,
         "full_width": true,
         "content_width": 120,
-        "border_thickness": 0
+        "border_thickness": 1
       }
     },
     "footer": {
