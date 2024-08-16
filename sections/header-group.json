@@ -66,18 +66,18 @@
     "ss_scrolling_announcement_bar_2_HHPpQY": {
       "type": "ss-scrolling-announcement-bar-2",
       "blocks": {
-        "item_X76TRJ": {
-          "type": "item",
-          "settings": {
-            "icon": "pin",
-            "text": "Milan, Italy"
-          }
-        },
         "item_xKjtqq": {
           "type": "item",
           "settings": {
             "icon": "return_arrow",
             "text": "Returns 30 Days"
+          }
+        },
+        "item_X76TRJ": {
+          "type": "item",
+          "settings": {
+            "icon": "pin",
+            "text": "Milan, Italy"
           }
         },
         "item_rrQVR6": {
@@ -96,8 +96,8 @@
         }
       },
       "block_order": [
-        "item_X76TRJ",
         "item_xKjtqq",
+        "item_X76TRJ",
         "item_rrQVR6",
         "item_aWYVCw"
       ],
