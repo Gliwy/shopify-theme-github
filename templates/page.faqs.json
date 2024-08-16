@@ -360,7 +360,7 @@
         "item_padding_horizontal": 100,
         "item_padding_horizontal_mobile": 10,
         "item_radius": 20,
-        "item_border_thickness": 1,
+        "item_border_thickness": 0,
         "item_shadow": true,
         "item_hover": true,
         "content_align": "center",
