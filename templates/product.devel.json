@@ -145,8 +145,9 @@
         "item_4K49UA": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5_05decc33-08be-4bda-9ad5-33ab45c727aa.png",
             "icon": "shop",
-            "title": "<h3>Charge $10k+ per month<\/h3>",
+            "title": "<h3>2 Years Warranty<\/h3>",
             "description": "",
             "url": ""
           }
@@ -154,8 +155,9 @@
         "item_Hfiq3k": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/8_5396934e-94dd-45ec-875e-4d3f8d57f1d8.png",
             "icon": "airplane",
-            "title": "<h3>Influencer marketing basics<\/h3>",
+            "title": "<h3>Worldwide Shipping<\/h3>",
             "description": "",
             "url": ""
           }
@@ -163,8 +165,9 @@
         "item_cmch7A": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Globe_icon-icons.com_52069.png",
             "icon": "chat-dots",
-            "title": "<h3>How to find a perfect niche<\/h3>",
+            "title": "<h3>Assistance 24\/7<\/h3>",
             "description": "",
             "url": ""
           }
@@ -172,8 +175,9 @@
         "item_HxGKCq": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/7_c02cffde-5381-4612-b536-1dd572e1f568.png",
             "icon": "gift",
-            "title": "<h3>Diversify your income streams.<\/h3>",
+            "title": "<h3>100% Satisfied<\/h3>",
             "description": "",
             "url": ""
           }
