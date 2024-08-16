@@ -114,6 +114,24 @@
         "padding_bottom": 28
       }
     },
+    "1723835267d0d85af7": {
+      "type": "apps",
+      "blocks": {
+        "doran_reviews_questions_product_widget_UhDW6V": {
+          "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/product-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+          "settings": {
+            "topPadding": 36,
+            "bottomPadding": 36
+          }
+        }
+      },
+      "block_order": [
+        "doran_reviews_questions_product_widget_UhDW6V"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "ss_feature_11_GHfniq": {
       "type": "ss-feature-11",
       "blocks": {
@@ -240,6 +258,7 @@
   "order": [
     "main",
     "related-products",
+    "1723835267d0d85af7",
     "ss_feature_11_GHfniq"
   ]
 }
