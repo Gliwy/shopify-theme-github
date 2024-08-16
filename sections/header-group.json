@@ -33,11 +33,11 @@
     "ss_scrolling_announcement_bar_2_HHPpQY": {
       "type": "ss-scrolling-announcement-bar-2",
       "blocks": {
-        "item_aWYVCw": {
+        "item_rrQVR6": {
           "type": "item",
           "settings": {
-            "icon": "airplane",
-            "text": "Free Shipping"
+            "icon": "payment",
+            "text": "Secure Payment"
           }
         },
         "item_X76TRJ": {
@@ -47,11 +47,11 @@
             "text": "Milan, Italy"
           }
         },
-        "item_rrQVR6": {
+        "item_aWYVCw": {
           "type": "item",
           "settings": {
-            "icon": "payment",
-            "text": "Secure Payment"
+            "icon": "airplane",
+            "text": "Free Shipping"
           }
         },
         "item_xKjtqq": {
@@ -63,9 +63,9 @@
         }
       },
       "block_order": [
-        "item_aWYVCw",
-        "item_X76TRJ",
         "item_rrQVR6",
+        "item_X76TRJ",
+        "item_aWYVCw",
         "item_xKjtqq"
       ],
       "settings": {
