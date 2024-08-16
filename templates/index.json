@@ -15,6 +15,7 @@
         "item_GPMcDW": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/badge_prize_winner_premium_certification_award_certificate_quality_icon_228991.png",
             "icon": "shield",
             "title": "<h3>24 Month Warranty<\/h3>",
             "description": "",
@@ -24,6 +25,7 @@
         "item_AYJEqP": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/worldwide_icon-icons.com_64827.png",
             "icon": "globe",
             "title": "<h3>Shipping Worldwide<\/h3>",
             "description": "",
@@ -33,6 +35,7 @@
         "item_9UKwrz": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/customerservice_122353.png",
             "icon": "people",
             "title": "<h3>Assistance Customer 24\/7<\/h3>",
             "description": "",
@@ -42,6 +45,7 @@
         "item_y3TDkP": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/like-thumbs-up-hand-social-media_icon-icons.com_61429_233e0059-6b39-4502-a224-fda55c169f56.png",
             "icon": "time",
             "title": "<h4>Satisfaction Guarantee<\/h4>",
             "description": "",
@@ -88,7 +92,7 @@
         "item_hover": true,
         "content_align": "center",
         "content_align_mobile": "center",
-        "icon_size": 36,
+        "icon_size": 100,
         "icon_size_mobile": 36,
         "hide_icon": false,
         "title_custom": false,
