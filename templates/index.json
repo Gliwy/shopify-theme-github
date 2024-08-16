@@ -15,6 +15,7 @@
         "slide_DcDzcr": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Senza_titolo-1_0eceaf18-f22a-4a0a-b09e-2fa3bdbfd62b.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -25,7 +26,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         }
@@ -34,8 +35,8 @@
         "slide_DcDzcr"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
+        "layout": "grid",
+        "slide_height": "adapt_image",
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
