@@ -24,6 +24,14 @@
           "settings": {
           }
         },
+        "doran_reviews_questions_rating_widget_UMxh8T": {
+          "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/rating-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+          "settings": {
+            "is_hide_detail": false,
+            "is_display_questions": false,
+            "class_name": ""
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -63,6 +71,7 @@
       "block_order": [
         "vendor",
         "title",
+        "doran_reviews_questions_rating_widget_UMxh8T",
         "price",
         "variant_picker",
         "quantity_selector",
