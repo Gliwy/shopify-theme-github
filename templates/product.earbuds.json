@@ -224,7 +224,7 @@
         "description_color": "#121212",
         "heading_color": "#121212",
         "sub_heading_color": "#F79009",
-        "background_color": "#FFFFFF",
+        "background_color": "#efefef",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -233,7 +233,7 @@
         "padding_bottom": 36,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
-        "full_width": false,
+        "full_width": true,
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
