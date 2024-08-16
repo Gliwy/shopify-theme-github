@@ -42,13 +42,6 @@
             "text": "Easy Returns"
           }
         },
-        "item_EggFjj": {
-          "type": "item",
-          "settings": {
-            "icon": "atc",
-            "text": ""
-          }
-        },
         "item_nF8FhY": {
           "type": "item",
           "settings": {
@@ -62,7 +55,6 @@
         "item_X76TRJ",
         "item_rrQVR6",
         "item_xKjtqq",
-        "item_EggFjj",
         "item_nF8FhY"
       ],
       "settings": {
