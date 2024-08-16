@@ -84,7 +84,7 @@
         "row_color_scheme": "scheme-1",
         "mobile_content_alignment": "center",
         "padding_top": 52,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "multirow_MYhcNh": {
@@ -118,7 +118,7 @@
         "row_color_scheme": "scheme-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "multirow_8amWNP": {
@@ -152,7 +152,7 @@
         "row_color_scheme": "scheme-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     }
   },
