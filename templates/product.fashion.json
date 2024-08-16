@@ -9,6 +9,12 @@
 */
 {
   "sections": {
+    "1723840218daec864b": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -22,6 +28,14 @@
         "title": {
           "type": "title",
           "settings": {
+          }
+        },
+        "doran_reviews_questions_rating_widget_7R4HKy": {
+          "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/rating-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+          "settings": {
+            "is_hide_detail": false,
+            "is_display_questions": false,
+            "class_name": ""
           }
         },
         "price": {
@@ -48,8 +62,14 @@
             "show_gift_card_recipient": true
           }
         },
+        "trust_badges_bear_widget_BKmmm7": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -63,10 +83,12 @@
       "block_order": [
         "vendor",
         "title",
+        "doran_reviews_questions_rating_widget_7R4HKy",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "trust_badges_bear_widget_BKmmm7",
         "description",
         "share"
       ],
@@ -82,52 +104,6 @@
         "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_Qg8wzX": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_DBbKiF": {
-          "type": "heading",
-          "settings": {
-            "heading": "Immagine con testo",
-            "heading_size": "h1"
-          }
-        },
-        "text_RBHCPd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_dA4JMW": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DBbKiF",
-        "text_RBHCPd",
-        "button_dA4JMW"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -152,8 +128,8 @@
     }
   },
   "order": [
+    "1723840218daec864b",
     "main",
-    "image_with_text_Qg8wzX",
     "related-products"
   ]
 }
