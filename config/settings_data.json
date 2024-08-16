@@ -10,6 +10,7 @@
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/HEADER_05ad5ee3-68c1-4659-a083-a7cfbdfb8fbd.png",
+    "logo-transparent": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
     "logo_width": 90,
     "favicon": "shopify:\/\/shop_images\/FAVICON_bf818aa3-f62a-41b5-ae4c-fc0907ab85f7.png",
     "type_header_font": "proza_libre_n5",
@@ -141,6 +142,12 @@
         "type": "main-password-footer",
         "settings": {
           "color_scheme": "scheme-1"
+        }
+      },
+      "back-to-top": {
+        "type": "back-to-top",
+        "settings": {
+          "back_to_top": true
         }
       }
     },
