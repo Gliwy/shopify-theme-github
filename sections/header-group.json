@@ -47,26 +47,26 @@
             "text": "Easy Returns"
           }
         },
-        "item_aWYVCw": {
-          "type": "item",
-          "settings": {
-            "icon": "airplane",
-            "text": "Free Shipping"
-          }
-        },
         "item_rrQVR6": {
           "type": "item",
           "settings": {
             "icon": "payment",
             "text": "Secure Payment"
           }
+        },
+        "item_aWYVCw": {
+          "type": "item",
+          "settings": {
+            "icon": "airplane",
+            "text": "Express Delivery"
+          }
         }
       },
       "block_order": [
         "item_X76TRJ",
         "item_xKjtqq",
-        "item_aWYVCw",
-        "item_rrQVR6"
+        "item_rrQVR6",
+        "item_aWYVCw"
       ],
       "settings": {
         "insert_css_class_target": "",
@@ -121,7 +121,6 @@
         "announcement_mrNCKC",
         "announcement_b67HDN"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-1",
         "show_line_separator": false,
