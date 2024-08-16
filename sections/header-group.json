@@ -51,14 +51,22 @@
           "type": "item",
           "settings": {
             "icon": "mobile",
-            "text": "2-YEAR WARRANTY"
+            "text": "2 Year Warranty"
+          }
+        },
+        "item_xKjtqq": {
+          "type": "item",
+          "settings": {
+            "icon": "return_arrow",
+            "text": "Easy Returns"
           }
         }
       },
       "block_order": [
         "item_aWYVCw",
         "item_X76TRJ",
-        "item_rrQVR6"
+        "item_rrQVR6",
+        "item_xKjtqq"
       ],
       "settings": {
         "insert_css_class_target": "",
