@@ -15,10 +15,10 @@
         "item_GPMcDW": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/badge_prize_winner_premium_certification_award_certificate_quality_icon_228991.png",
+            "image": "shopify:\/\/shop_images\/ecommerce_shopping_best_price_buy_icon_220363.png",
             "icon": "shield",
             "title": "<h3>24 Month Warranty<\/h3>",
-            "description": "",
+            "description": "<p>We offer a warranty on all products<\/p>",
             "url": ""
           }
         },
@@ -28,27 +28,27 @@
             "image": "shopify:\/\/shop_images\/worldwide_icon-icons.com_64827.png",
             "icon": "globe",
             "title": "<h3>Worldwide Shipping<\/h3>",
-            "description": "",
+            "description": "<p>Free Worldwide Shipping<\/p>",
             "url": ""
           }
         },
         "item_9UKwrz": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/customerservice_122353.png",
+            "image": "shopify:\/\/shop_images\/groupofpeopleoutline_81118.png",
             "icon": "people",
             "title": "<h3>Assistance 24\/7<\/h3>",
-            "description": "",
+            "description": "<p>Contact us via email<\/p>",
             "url": ""
           }
         },
         "item_y3TDkP": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ecommerce_shopping_best_price_buy_icon_220363.png",
+            "image": "shopify:\/\/shop_images\/like-thumbs-up-hand-social-media_icon-icons.com_61429_233e0059-6b39-4502-a224-fda55c169f56.png",
             "icon": "time",
             "title": "<h4>100% Satisfied<\/h4>",
-            "description": "",
+            "description": "<p>100% satisfaction rate or money back guarantee<\/p>",
             "url": ""
           }
         }
