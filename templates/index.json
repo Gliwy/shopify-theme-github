@@ -23,9 +23,168 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "ss_feature_11_Ct8Nd9": {
+      "type": "ss-feature-11",
+      "blocks": {
+        "item_GPMcDW": {
+          "type": "item",
+          "settings": {
+            "icon": "shop",
+            "title": "<h3>Charge $10k+ per month<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_AYJEqP": {
+          "type": "item",
+          "settings": {
+            "icon": "airplane",
+            "title": "<h3>Influencer marketing basics<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_9UKwrz": {
+          "type": "item",
+          "settings": {
+            "icon": "chat-dots",
+            "title": "<h3>How to find a perfect niche<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_y3TDkP": {
+          "type": "item",
+          "settings": {
+            "icon": "gift",
+            "title": "<h3>Diversify your income streams.<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_ddKqyN": {
+          "type": "item",
+          "settings": {
+            "icon": "pin",
+            "title": "<h3>win more clients \/ customers.<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_hzU6NM": {
+          "type": "item",
+          "settings": {
+            "icon": "return_arrow",
+            "title": "<h3>Become more valuable.<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_CmW64j": {
+          "type": "item",
+          "settings": {
+            "icon": "share",
+            "title": "<h3>Reduce the stress of your work<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_ByJXcG": {
+          "type": "item",
+          "settings": {
+            "icon": "globe",
+            "title": "<h3>Stay focused in a world<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_GPMcDW",
+        "item_AYJEqP",
+        "item_9UKwrz",
+        "item_y3TDkP",
+        "item_ddKqyN",
+        "item_hzU6NM",
+        "item_CmW64j",
+        "item_ByJXcG"
+      ],
+      "settings": {
+        "heading": "<h2>Hey Readers, You Want ?<\/h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 48,
+        "heading_size_mobile": 30,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_mt": 16,
+        "sub_heading": "<p>SKILLS YOU’LL GAIN<\/p>",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 12,
+        "sub_heading_size_mobile": 12,
+        "sub_heading_height": 130,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "items_row": 4,
+        "items_row_mobile": "2",
+        "items_mt": 32,
+        "items_gap": 30,
+        "items_gap_mobile": 20,
+        "item_padding_vertical": 30,
+        "item_padding_vertical_mobile": 30,
+        "item_padding_horizontal": 30,
+        "item_padding_horizontal_mobile": 30,
+        "item_radius": 20,
+        "item_border_thickness": 1,
+        "item_shadow": false,
+        "item_hover": true,
+        "content_align": "start",
+        "content_align_mobile": "start",
+        "icon_size": 36,
+        "icon_size_mobile": 36,
+        "hide_icon": false,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 18,
+        "title_size_mobile": 16,
+        "title_height": 130,
+        "title_mt": 32,
+        "description_custom": false,
+        "description_font": "josefin_sans_n4",
+        "description_size": 16,
+        "description_size_mobile": 14,
+        "description_height": 150,
+        "description_mt": 16,
+        "item_bg": "#FFFFFF",
+        "item_border_color": "#E9E9E9",
+        "item_shadow_color": "#000000",
+        "item_shadow_hover_color": "#A3D9BA",
+        "icon_color": "#22A45A",
+        "title_color": "#242424",
+        "description_color": "#242424",
+        "heading_color": "#242424",
+        "sub_heading_color": "#F79009",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
-    "image_banner_jFaPwX"
+    "image_banner_jFaPwX",
+    "ss_feature_11_Ct8Nd9"
   ]
 }
