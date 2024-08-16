@@ -56,7 +56,7 @@
         "layout_gap_mobile": 50,
         "animate_speed": 100,
         "animate_direction": "right",
-        "animate_pause": true,
+        "animate_pause": false,
         "icon_size": 20,
         "icon_size_mobile": 15,
         "text_custom": false,
