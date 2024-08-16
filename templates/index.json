@@ -24,7 +24,7 @@
         "item_AYJEqP": {
           "type": "item",
           "settings": {
-            "icon": "worldwide",
+            "icon": "globe",
             "title": "<h3>Shipping Worldwide<\/h3>",
             "description": "",
             "url": ""
@@ -33,7 +33,7 @@
         "item_9UKwrz": {
           "type": "item",
           "settings": {
-            "icon": "chat-dots",
+            "icon": "people",
             "title": "<h3>Assistance Customer 24\/7<\/h3>",
             "description": "",
             "url": ""
@@ -42,7 +42,7 @@
         "item_y3TDkP": {
           "type": "item",
           "settings": {
-            "icon": "love",
+            "icon": "time",
             "title": "<h4>Satisfaction Guarantee<\/h4>",
             "description": "",
             "url": ""
