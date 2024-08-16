@@ -16,7 +16,7 @@
           "type": "item",
           "settings": {
             "icon": "shield",
-            "title": "<h3>24 MONTH WARRANTY<\/h3>",
+            "title": "<p>24 Month Warranty<\/p>",
             "description": "",
             "url": ""
           }
@@ -25,7 +25,7 @@
           "type": "item",
           "settings": {
             "icon": "worldwide",
-            "title": "<h3>WORLDWIDE SHIPPING<\/h3>",
+            "title": "<p>Shipping Worldwide<\/p>",
             "description": "",
             "url": ""
           }
@@ -34,7 +34,7 @@
           "type": "item",
           "settings": {
             "icon": "chat-dots",
-            "title": "<h3>ASSISTANCE CUSTOMER 24\/7<\/h3>",
+            "title": "<p>Assistance Customer 24\/7<\/p>",
             "description": "",
             "url": ""
           }
@@ -43,7 +43,7 @@
           "type": "item",
           "settings": {
             "icon": "love",
-            "title": "<h3>SATISFACTION GUARANTEE<\/h3>",
+            "title": "<h3>Satisfaction Guarantee<\/h3>",
             "description": "",
             "url": ""
           }
