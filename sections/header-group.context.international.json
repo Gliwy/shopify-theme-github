@@ -13,5 +13,12 @@
     "market": "international"
   },
   "sections": {
+    "header": {
+      "settings": {
+        "enable_customer_avatar": false
+      },
+      "blocks": {
+      }
+    }
   }
 }
