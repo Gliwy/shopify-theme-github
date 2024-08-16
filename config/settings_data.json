@@ -10,7 +10,6 @@
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/HEADER_05ad5ee3-68c1-4659-a083-a7cfbdfb8fbd.png",
-    "logo-transparent": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
     "logo_width": 90,
     "favicon": "shopify:\/\/shop_images\/FAVICON_bf818aa3-f62a-41b5-ae4c-fc0907ab85f7.png",
     "type_header_font": "proza_libre_n5",
@@ -129,6 +128,7 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-1",
+    "logo-transparent": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
     "extended-megamenu-show-imgs": "yes",
     "extended-megamenu-show-featured": "yes",
     "sections": {
@@ -159,6 +159,16 @@
         "type": "shopify:\/\/apps\/buddha-mega-menu-navigation\/blocks\/megamenu\/dbb4ce56-bf86-4830-9b3d-16efbef51c6f",
         "disabled": false,
         "settings": {
+        }
+      },
+      "13766566558402285670": {
+        "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/app-embed\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+        "disabled": false,
+        "settings": {
+          "isJSONLD": true,
+          "isPopup": false,
+          "isPop": false,
+          "customCSS": ""
         }
       }
     },
