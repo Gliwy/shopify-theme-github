@@ -108,18 +108,10 @@
             "text": "👍 100% Satisfied | 💳️ Risk-free shopping | 🚚 Express delivery",
             "link": ""
           }
-        },
-        "announcement_3xaCbN": {
-          "type": "announcement",
-          "settings": {
-            "text": "📧 Sign Up For 15% Off Your First Order!",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "announcement_mrNCKC",
-        "announcement_3xaCbN"
+        "announcement_mrNCKC"
       ],
       "settings": {
         "color_scheme": "scheme-1",
