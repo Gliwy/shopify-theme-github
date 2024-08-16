@@ -57,8 +57,8 @@
         "item_aWYVCw": {
           "type": "item",
           "settings": {
-            "icon": "airplane",
-            "text": "Express Delivery"
+            "icon": "truck",
+            "text": "Free Shipping"
           }
         }
       },
