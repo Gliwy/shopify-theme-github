@@ -17,36 +17,28 @@
         "slide_T63TtB": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Senza_titolo-1_2ce98217-084a-48e4-9e8b-7a88ee1e1b60.png",
             "link": ""
           }
         },
         "slide_JJkjnF": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
             "link": ""
           }
         },
         "slide_eyaNMT": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Senza_titolo-1_2ce98217-084a-48e4-9e8b-7a88ee1e1b60.png",
             "link": ""
           }
         },
         "slide_KFWJaB": {
           "type": "slide",
           "settings": {
-            "link": ""
-          }
-        },
-        "slide_JnCGfM": {
-          "type": "slide",
-          "settings": {
-            "link": ""
-          }
-        },
-        "slide_7Up46c": {
-          "type": "slide",
-          "settings": {
+            "image": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
             "link": ""
           }
         }
@@ -55,9 +47,7 @@
         "slide_T63TtB",
         "slide_JJkjnF",
         "slide_eyaNMT",
-        "slide_KFWJaB",
-        "slide_JnCGfM",
-        "slide_7Up46c"
+        "slide_KFWJaB"
       ],
       "settings": {
         "ss-title": "",
@@ -70,8 +60,8 @@
         "shadow": true,
         "sliders_mt": 20,
         "logo_padding_top": 0,
-        "logo_padding_bottom": 18,
-        "slider_gap": 30,
+        "logo_padding_bottom": 0,
+        "slider_gap": 100,
         "slider_gap_mobile": 30,
         "slider_direction": "left",
         "slider_rotate": 0,
@@ -85,11 +75,11 @@
         "second_slider_mt": 0,
         "second_slider_mt_mobile": 0,
         "icon_width": 120,
-        "header_color": "#121212",
-        "border_color": "#ffffff",
-        "background_color": "#ffffff",
-        "slider_background_color": "#9E9B94",
-        "second_slider_background_color": "#BE9573",
+        "header_color": "#ffffff",
+        "border_color": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "slider_background_color": "rgba(0,0,0,0)",
+        "second_slider_background_color": "rgba(0,0,0,0)",
         "margin_top": 36,
         "margin_bottom": 0,
         "padding_top": 0,
