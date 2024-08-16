@@ -307,7 +307,7 @@
         "header_align": "center",
         "scrolling_velocity": 5,
         "pause_hover": true,
-        "shadow": true,
+        "shadow": false,
         "sliders_mt": 0,
         "logo_padding_top": 12,
         "logo_padding_bottom": 10,
