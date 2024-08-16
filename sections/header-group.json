@@ -102,6 +102,13 @@
     "announcement_bar_Tc4jfH": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_ktGYNL": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
         "announcement_CQBJVM": {
           "type": "announcement",
           "settings": {
@@ -118,6 +125,7 @@
         }
       },
       "block_order": [
+        "announcement_ktGYNL",
         "announcement_CQBJVM",
         "announcement_ihALrb"
       ],
