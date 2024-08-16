@@ -61,7 +61,7 @@
         "sliders_mt": 20,
         "logo_padding_top": 0,
         "logo_padding_bottom": 0,
-        "slider_gap": 100,
+        "slider_gap": 50,
         "slider_gap_mobile": 30,
         "slider_direction": "left",
         "slider_rotate": 0,
