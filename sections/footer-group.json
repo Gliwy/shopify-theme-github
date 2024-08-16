@@ -11,84 +11,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "ss_scrolling_logo_cloud_2_7iTt7E": {
-      "type": "ss-scrolling-logo-cloud-2",
-      "blocks": {
-        "slide_T63TtB": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Senza_titolo-1_2ce98217-084a-48e4-9e8b-7a88ee1e1b60.png",
-            "link": ""
-          }
-        },
-        "slide_JJkjnF": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
-            "link": ""
-          }
-        },
-        "slide_eyaNMT": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Senza_titolo-1_2ce98217-084a-48e4-9e8b-7a88ee1e1b60.png",
-            "link": ""
-          }
-        },
-        "slide_KFWJaB": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_T63TtB",
-        "slide_JJkjnF",
-        "slide_eyaNMT",
-        "slide_KFWJaB"
-      ],
-      "settings": {
-        "ss-title": "",
-        "heading_custom": false,
-        "heading_font": "proza_libre_n4",
-        "header_size": 30,
-        "header_align": "center",
-        "scrolling_velocity": 5,
-        "pause_hover": false,
-        "shadow": false,
-        "sliders_mt": 20,
-        "logo_padding_top": 0,
-        "logo_padding_bottom": 0,
-        "slider_gap": 50,
-        "slider_gap_mobile": 10,
-        "slider_direction": "left",
-        "slider_rotate": 0,
-        "slider_rotate_mobile": 0,
-        "slider_mb": 0,
-        "slider_mb_mobile": 0,
-        "second_slider": false,
-        "second_slider_direction": "right",
-        "second_slider_rotate": 0,
-        "second_slider_rotate_mobile": 0,
-        "second_slider_mt": 0,
-        "second_slider_mt_mobile": 0,
-        "icon_width": 120,
-        "header_color": "#ffffff",
-        "border_color": "rgba(0,0,0,0)",
-        "background_color": "rgba(0,0,0,0)",
-        "slider_background_color": "rgba(0,0,0,0)",
-        "second_slider_background_color": "rgba(0,0,0,0)",
-        "margin_top": 36,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
-      }
-    },
     "ss_footer_6_UBzXmH": {
       "type": "ss-footer-6",
       "blocks": {
@@ -326,7 +248,7 @@
         "margin_bottom": 0,
         "margin_horizontal": 0,
         "margin_horizontal_mobile": 0,
-        "padding_top": 4,
+        "padding_top": 0,
         "padding_top_mobile": 8,
         "padding_bottom": 12,
         "padding_bottom_mobile": 0,
@@ -337,6 +259,84 @@
         "border_thickness": 2,
         "section_radius": 0,
         "lazy": true
+      }
+    },
+    "ss_scrolling_logo_cloud_2_7iTt7E": {
+      "type": "ss-scrolling-logo-cloud-2",
+      "blocks": {
+        "slide_T63TtB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Senza_titolo-1_2ce98217-084a-48e4-9e8b-7a88ee1e1b60.png",
+            "link": ""
+          }
+        },
+        "slide_JJkjnF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
+            "link": ""
+          }
+        },
+        "slide_eyaNMT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Senza_titolo-1_2ce98217-084a-48e4-9e8b-7a88ee1e1b60.png",
+            "link": ""
+          }
+        },
+        "slide_KFWJaB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_T63TtB",
+        "slide_JJkjnF",
+        "slide_eyaNMT",
+        "slide_KFWJaB"
+      ],
+      "settings": {
+        "ss-title": "",
+        "heading_custom": false,
+        "heading_font": "proza_libre_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 5,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 0,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 50,
+        "slider_gap_mobile": 10,
+        "slider_direction": "left",
+        "slider_rotate": 0,
+        "slider_rotate_mobile": 0,
+        "slider_mb": 0,
+        "slider_mb_mobile": 0,
+        "second_slider": false,
+        "second_slider_direction": "right",
+        "second_slider_rotate": 0,
+        "second_slider_rotate_mobile": 0,
+        "second_slider_mt": 0,
+        "second_slider_mt_mobile": 0,
+        "icon_width": 100,
+        "header_color": "#ffffff",
+        "border_color": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "slider_background_color": "rgba(0,0,0,0)",
+        "second_slider_background_color": "rgba(0,0,0,0)",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
       }
     },
     "footer": {
@@ -359,8 +359,8 @@
     }
   },
   "order": [
-    "ss_scrolling_logo_cloud_2_7iTt7E",
     "ss_footer_6_UBzXmH",
+    "ss_scrolling_logo_cloud_2_7iTt7E",
     "footer"
   ]
 }
