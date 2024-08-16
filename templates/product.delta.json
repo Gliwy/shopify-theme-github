@@ -175,8 +175,9 @@
         "item_h4THBh": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/7_c02cffde-5381-4612-b536-1dd572e1f568.png",
             "icon": "gift",
-            "title": "<h3>Diversify your income streams.<\/h3>",
+            "title": "<h3>100% Satisfied<\/h3>",
             "description": "",
             "url": ""
           }
@@ -254,7 +255,7 @@
         "padding_bottom": 36,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
-        "full_width": false,
+        "full_width": true,
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
