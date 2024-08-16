@@ -24,6 +24,14 @@
           "settings": {
           }
         },
+        "doran_reviews_questions_rating_widget_khdx3U": {
+          "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/rating-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+          "settings": {
+            "is_hide_detail": false,
+            "is_display_questions": false,
+            "class_name": ""
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -48,8 +56,14 @@
             "show_gift_card_recipient": true
           }
         },
+        "trust_badges_bear_widget_ejTTUr": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -63,10 +77,12 @@
       "block_order": [
         "vendor",
         "title",
+        "doran_reviews_questions_rating_widget_khdx3U",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "trust_badges_bear_widget_ejTTUr",
         "description",
         "share"
       ],
@@ -86,54 +102,9 @@
         "padding_bottom": 12
       }
     },
-    "image_with_text_Qg8wzX": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_DBbKiF": {
-          "type": "heading",
-          "settings": {
-            "heading": "Immagine con testo",
-            "heading_size": "h1"
-          }
-        },
-        "text_RBHCPd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Associa un testo a un'immagine per dare importanza al prodotto, alla collezione o all'articolo del blog di tua scelta. Aggiungi dettagli sulla disponibilità, sullo stile o fornisci una recensione.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_dA4JMW": {
-          "type": "button",
-          "settings": {
-            "button_label": "Etichetta pulsante",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_DBbKiF",
-        "text_RBHCPd",
-        "button_dA4JMW"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -149,11 +120,148 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "17238412008b9a0e12": {
+      "type": "apps",
+      "blocks": {
+        "doran_reviews_questions_product_widget_TVdY6j": {
+          "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/product-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+          "settings": {
+            "topPadding": 36,
+            "bottomPadding": 36
+          }
+        }
+      },
+      "block_order": [
+        "doran_reviews_questions_product_widget_TVdY6j"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "ss_feature_11_yGGqt3": {
+      "type": "ss-feature-11",
+      "blocks": {
+        "item_9TA9bn": {
+          "type": "item",
+          "settings": {
+            "icon": "shop",
+            "title": "<h3>Charge $10k+ per month<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_VmPkAq": {
+          "type": "item",
+          "settings": {
+            "icon": "airplane",
+            "title": "<h3>Influencer marketing basics<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_YAkXPg": {
+          "type": "item",
+          "settings": {
+            "icon": "chat-dots",
+            "title": "<h3>How to find a perfect niche<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_VKR6Xe": {
+          "type": "item",
+          "settings": {
+            "icon": "gift",
+            "title": "<h3>Diversify your income streams.<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_9TA9bn",
+        "item_VmPkAq",
+        "item_YAkXPg",
+        "item_VKR6Xe"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "proza_libre_n4",
+        "heading_size": 48,
+        "heading_size_mobile": 30,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_mt": 16,
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "proza_libre_n4",
+        "sub_heading_size": 12,
+        "sub_heading_size_mobile": 12,
+        "sub_heading_height": 130,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "items_row": 4,
+        "items_row_mobile": "2",
+        "items_mt": 0,
+        "items_gap": 30,
+        "items_gap_mobile": 20,
+        "item_padding_vertical": 30,
+        "item_padding_vertical_mobile": 30,
+        "item_padding_horizontal": 100,
+        "item_padding_horizontal_mobile": 10,
+        "item_radius": 16,
+        "item_border_thickness": 0,
+        "item_shadow": true,
+        "item_hover": true,
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "icon_size": 80,
+        "icon_size_mobile": 50,
+        "hide_icon": false,
+        "title_custom": false,
+        "title_font": "proza_libre_n4",
+        "title_size": 20,
+        "title_size_mobile": 16,
+        "title_height": 130,
+        "title_mt": 32,
+        "description_custom": false,
+        "description_font": "josefin_sans_n4",
+        "description_size": 20,
+        "description_size_mobile": 14,
+        "description_height": 100,
+        "description_mt": 0,
+        "item_bg": "#FFFFFF",
+        "item_border_color": "#E9E9E9",
+        "item_shadow_color": "#000000",
+        "item_shadow_hover_color": "#A3D9BA",
+        "icon_color": "#22A45A",
+        "title_color": "#121212",
+        "description_color": "#121212",
+        "heading_color": "#121212",
+        "sub_heading_color": "#F79009",
+        "background_color": "#efefef",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
     "main",
-    "image_with_text_Qg8wzX",
-    "related-products"
+    "related-products",
+    "17238412008b9a0e12",
+    "ss_feature_11_yGGqt3"
   ]
 }
