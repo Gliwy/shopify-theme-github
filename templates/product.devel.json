@@ -149,18 +149,18 @@
             "answer": "<p>To clean the metal strap, you can proceed using a damp cloth, warm water and soap.<\/p>"
           }
         },
-        "text_adHU6z": {
-          "type": "text",
-          "settings": {
-            "question": "Which watches fit my strap?",
-            "answer": "<p>Fits the entire Fashion, Sense 3 and Primero series.<\/p>"
-          }
-        },
         "text_JgKyPj": {
           "type": "text",
           "settings": {
             "question": "How do I change my strap?",
             "answer": "<p>The strap comes with two spring-loaded pins, which will allow you to insert or remove the strap with ease.<\/p>"
+          }
+        },
+        "text_adHU6z": {
+          "type": "text",
+          "settings": {
+            "question": "Which watches fit my strap?",
+            "answer": "<p>Fits the entire Fashion, Sense 3 and Primero series.<\/p>"
           }
         },
         "text_tUbpiC": {
@@ -173,8 +173,8 @@
       },
       "block_order": [
         "text_wD8krP",
-        "text_adHU6z",
         "text_JgKyPj",
+        "text_adHU6z",
         "text_tUbpiC"
       ],
       "settings": {
