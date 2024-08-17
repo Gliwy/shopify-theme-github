@@ -72,7 +72,7 @@
     "ss_featured_collection_dJXpFc": {
       "type": "ss-featured-collection",
       "settings": {
-        "items_mt": 40,
+        "items_mt": 0,
         "collection": "best-sellers",
         "product_list": [
 
@@ -84,9 +84,9 @@
         "product_per_desktop": 4,
         "product_per_mobile": "2",
         "image_radius": 12,
-        "image_ration": "square",
+        "image_ration": "none",
         "use_custom_height": false,
-        "image_height_desktop": 400,
+        "image_height_desktop": 200,
         "image_height_mobile": 200,
         "show_second": true,
         "use_shadow": false,
