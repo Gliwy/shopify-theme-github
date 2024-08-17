@@ -137,7 +137,7 @@
       "type": "ss-featured-collection",
       "settings": {
         "items_mt": 40,
-        "collection": "",
+        "collection": "best-sellers",
         "product_list": [
 
         ],
