@@ -166,22 +166,22 @@
         "text_GtrmHH": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is my Smartwatch water and\/or dust resistant?",
+            "answer": "<p>The Smartwatch is resistant to splashes of water and dust. However, we recommend limiting exposure to dust and water because some materials of the Smartwatch can be damaged.<\/p>"
           }
         },
         "text_LxHmyd": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I charge my Smartwatch?",
+            "answer": "<p>Use the magnetic charger included in the Smartwatch package. Place the magnetic cable directly onto the back of the watch and a lightning bolt will appear on the watch face confirming that the device is charging.<\/p>"
           }
         },
         "text_d7UwA3": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Why don't I see the charger indicator on the screen?",
+            "answer": "<p>If the charger indicator (lightning bolt) is not visible, the charger is not detecting the watch.Try doing the following:• Check that the watch is positioned correctly on the charger, without any detachment.• Check that there is nothing (dust, tape, etc.) between the charger and the device.• Make sure the charger is connected to a power outlet.• Check that the charger's USB cable works with other devices. The charger light should be red.• Try changing the charger's power source from your laptop to a wall outlet. When charging via PC or laptop, the device must be turned on and active (not in sleep mode).• The device may be defective. Try replacing it if it is still covered by warranty.• Sometimes, if the device gets too hot while charging, it will go into thermal shutdown until it cools down, and then resume the charging process once it cools down. Try removing the device from the charger, wait for it to cool and place it again.<\/p>"
           }
         }
       },
