@@ -145,43 +145,43 @@
         "text_XPjmt3": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I turn on the Smartwatch?",
+            "answer": "<p>Press and hold the on-screen button for at least five seconds. Make sure your Smartwatch is charged before trying to turn it on. The Smartwatch also turns on when connected to the charger.<\/p>"
           }
         },
         "text_NYxTzQ": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How far can the Smartwatch be from the phone without disconnecting?",
+            "answer": "<p>The range of the Bluetooth connection between the phone and the Smartwatch varies greatly depending on the environment. Usually, you should have at least 10 meters of connectivity.<\/p>"
           }
         },
         "text_LkyUUV": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Why can't I pair my Smartwatch with my phone?",
+            "answer": "<p>Make sure your Smartwatch is turned on and Bluetooth is enabled on your phone. Launch the <strong>Onwear Pro app<\/strong> and follow the onscreen instructions to pair your watch. If the connection fails, check the Bluetooth menu on your phone. If you see the Smartwatch in the device list, remove it. Relaunch the app and repeat the pairing process.<\/p>"
           }
         },
         "text_iFWJp3": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is my Smartwatch water and\/or dust resistant?",
+            "answer": "<p>The Smartwatch is resistant to splashes of water and dust. However, we recommend limiting exposure to dust and water because some materials of the Smartwatch can be damaged.<\/p>"
           }
         },
         "text_DtXK7G": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I charge my Smartwatch?",
+            "answer": "<p>Use the magnetic charger included in the Smartwatch package. Place the magnetic cable directly onto the back of the watch and a lightning bolt will appear on the watch face confirming that the device is charging.<\/p>"
           }
         },
         "text_M73FNP": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Why don't I see the charger indicator on the screen?",
+            "answer": "<p>If the charger indicator (lightning bolt) is not visible, the charger is not detecting the watch.<br\/><br\/>Try doing the following:<\/p><p><strong>• Check that<\/strong> the watch is placed correctly on the charger, without any detachment.<br\/><strong>• Check that<\/strong> there is nothing visible (dust, tape, etc.) between the charger and the device.<br\/><strong>• Make sure<\/strong> the charger is connected to a power outlet.<br\/><strong>• Verify that<\/strong> the charger's USB cable works with other devices. The charger light should be red.<br\/><strong>• Try changing<\/strong> the charger's power source from your laptop to a wall outlet. When charging via PC or laptop, the device must be turned on and active (not in sleep mode).<br\/><strong>• The device<\/strong> may be defective. Try replacing it if it is still covered by warranty.<br\/><strong>• Sometimes<\/strong>, if the device gets too hot while charging, it will go into thermal shutdown until it cools down, and then resume the charging process once it cools down. Try removing the device from the charger, wait for it to cool and place it again.<\/p>"
           }
         }
       },
