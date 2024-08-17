@@ -166,8 +166,8 @@
         "text_tUbpiC": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What material is the strap made of?",
+            "answer": "<p>The strap is made of stylized metal, with a stainless steel clasp.<\/p>"
           }
         }
       },
