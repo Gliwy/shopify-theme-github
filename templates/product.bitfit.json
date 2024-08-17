@@ -152,15 +152,15 @@
         "text_YF8jBb": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How far can the Smartwatch be from the phone without disconnecting?",
+            "answer": "<p>The range of the Bluetooth connection between the phone and the Smartwatch varies greatly depending on the environment. Usually, you should have at least 10 meters of connectivity.<\/p>"
           }
         },
         "text_cCXD7n": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Why can't I pair my Smartwatch with my phone?",
+            "answer": "<p>Make sure your Smartwatch is turned on and Bluetooth is enabled on your phone. Launch the <strong>Keep Health app<\/strong> and follow the onscreen instructions to pair your watch. If the connection fails, check the Bluetooth menu on your phone. If you see the Smartwatch in the device list, remove it. Relaunch the app and repeat the pairing process.<\/p>"
           }
         },
         "text_yjrQik": {
