@@ -145,15 +145,15 @@
         "text_PMa74f": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What is UV400 protection?",
+            "answer": "<p>The UV400 protection in sunglasses is a filter that completely protects you from UV rays, including UVA and UVB rays. This implies that the lens of your glasses will be able to block any UV rays with a wavelength less than 400 nanometers. All approved optical sun lenses, without exception, must meet a number of standards: Light transmission: between 3 and 100% UV filter: minimum 99% (UV400 labeling)<\/p>"
           }
         },
         "text_wFMTxK": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What are polarized lenses?",
+            "answer": "<p>A polarized lens is a sort of vertical filter that blocks sunlight reaching the eyes horizontally, such as that reflected by the sea, snow, roads and asphalt; and allows the passage of vertical light which can be used to see clearly.<\/p>"
           }
         },
         "text_DC7Bpe": {
