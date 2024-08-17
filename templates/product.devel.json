@@ -152,8 +152,8 @@
         "text_adHU6z": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Which watches fit my strap?",
+            "answer": "<p>Si adatta a tutta la serie Fashion, Sense 3 e Primero.<\/p>"
           }
         },
         "text_JgKyPj": {
