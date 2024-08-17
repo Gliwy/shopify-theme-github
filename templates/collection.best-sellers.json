@@ -45,8 +45,19 @@
         "item_cpUbiz": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5_05decc33-08be-4bda-9ad5-33ab45c727aa.png",
             "icon": "pin",
-            "title": "<h3>win more clients \/ customers.<\/h3>",
+            "title": "<h3>2 Years Warranty<\/h3>",
+            "description": "",
+            "url": ""
+          }
+        },
+        "item_F8Cr7p": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_5396934e-94dd-45ec-875e-4d3f8d57f1d8.png",
+            "icon": "plant",
+            "title": "<h3>Worldwide Shipping<\/h3>",
             "description": "",
             "url": ""
           }
@@ -54,8 +65,9 @@
         "item_Y8DRpr": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Globe_icon-icons.com_52069.png",
             "icon": "return_arrow",
-            "title": "<h3>Become more valuable.<\/h3>",
+            "title": "<h3>Assistance 24\/7<\/h3>",
             "description": "",
             "url": ""
           }
@@ -63,17 +75,9 @@
         "item_PDkyDa": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/7_c02cffde-5381-4612-b536-1dd572e1f568.png",
             "icon": "share",
-            "title": "<h3>Reduce the stress of your work<\/h3>",
-            "description": "",
-            "url": ""
-          }
-        },
-        "item_yrCiNq": {
-          "type": "item",
-          "settings": {
-            "icon": "globe",
-            "title": "<h3>Stay focused in a world<\/h3>",
+            "title": "<h3>100% Satisfied<\/h3>",
             "description": "",
             "url": ""
           }
@@ -81,9 +85,9 @@
       },
       "block_order": [
         "item_cpUbiz",
+        "item_F8Cr7p",
         "item_Y8DRpr",
-        "item_PDkyDa",
-        "item_yrCiNq"
+        "item_PDkyDa"
       ],
       "settings": {
         "heading": "",
