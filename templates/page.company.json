@@ -31,7 +31,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-left",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 30,
             "color_scheme": "scheme-5",
