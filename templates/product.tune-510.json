@@ -142,13 +142,6 @@
     "ss_simple_faq_8RzkBY": {
       "type": "ss-simple-faq",
       "blocks": {
-        "text_kXat4p": {
-          "type": "text",
-          "settings": {
-            "question": "How was the comfort of the headphones designed?",
-            "answer": "<p>Abbiamo progettato le cuffie per garantire a chiunque le indossi il massimo comfort . È possibile regolare l'archetto.<\/p>"
-          }
-        },
         "text_YKpY9r": {
           "type": "text",
           "settings": {
@@ -156,26 +149,33 @@
             "answer": "<p>Yes. The earbuds have built-in microphones and allow you to make clear calls with excellent sound quality.<\/p>"
           }
         },
-        "text_zDqa9m": {
+        "text_kXat4p": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How was the comfort of the headphones designed?",
+            "answer": "<p>Abbiamo progettato le cuffie per garantire a chiunque le indossi il massimo comfort . È possibile regolare l'archetto.<\/p>"
           }
         },
         "text_EVBjPA": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I pair the headphones with my smartphone or tablet?",
+            "answer": "<p>To pair the Tune BT 510 with a smartphone or tablet, you need to turn on the headphones and activate pairing mode. Once this mode is activated the device will be able to search for headphones and connect.<\/p>"
+          }
+        },
+        "text_zDqa9m": {
+          "type": "text",
+          "settings": {
+            "question": "Are the headphones comfortable to wear for long periods of time?",
+            "answer": "<p>Our headphones and earphones are designed to be comfortable during extended use.<\/p>"
           }
         }
       },
       "block_order": [
-        "text_kXat4p",
         "text_YKpY9r",
-        "text_zDqa9m",
-        "text_EVBjPA"
+        "text_kXat4p",
+        "text_EVBjPA",
+        "text_zDqa9m"
       ],
       "settings": {
         "heading": "Frequently Asked Questions",
