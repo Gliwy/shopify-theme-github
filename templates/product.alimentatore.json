@@ -152,8 +152,8 @@
         "text_FYwTwn": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is it possible to connect a power supply with a higher amperage?",
+            "answer": "<p>Definitely yes. Don't forget, however, that the output voltage [V] must be the same as the original power supply.<\/p>"
           }
         },
         "text_PNhXrN": {
