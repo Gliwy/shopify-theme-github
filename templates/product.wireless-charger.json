@@ -159,14 +159,14 @@
         "text_agegDX": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is wireless charging as fast as wired charging?",
+            "answer": "<p>Wireless charging, both standard and fast, is generally slower than wire charging.<\/p>"
           }
         },
         "text_GHFdcM": {
           "type": "text",
           "settings": {
-            "question": "Question text",
+            "question": "Wireless charging, both standard and fast, is generally slower than wire charging.",
             "answer": "<p>Answer richtext<\/p>"
           }
         }
