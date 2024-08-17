@@ -159,8 +159,8 @@
         "text_PNhXrN": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is it possible to connect a weaker power supply to my device?",
+            "answer": "<p>Using an adapter with a lower amperage than the original can cause a number of negative changes in the operation of the device. For example, a power supply that is too weak can overheat because the device components are not supplied with sufficient energy. We therefore recommend using chargers with the same or higher amperage.<\/p>"
           }
         },
         "text_7G79X9": {
