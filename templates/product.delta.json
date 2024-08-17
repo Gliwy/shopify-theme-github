@@ -139,6 +139,71 @@
         "include_margins": true
       }
     },
+    "ss_simple_faq_AfichP": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_Wb8GhW": {
+          "type": "text",
+          "settings": {
+            "question": "How do I turn on the Smartwatch?",
+            "answer": "<p>Press and hold the on-screen button for at least five seconds. Make sure your Smartwatch is charged before trying to turn it on. The Smartwatch also turns on when connected to the charger.<\/p>"
+          }
+        },
+        "text_Vw8R43": {
+          "type": "text",
+          "settings": {
+            "question": "How far can the Smartwatch be from the phone without disconnecting?",
+            "answer": "<p>The range of the Bluetooth connection between the phone and the Smartwatch varies greatly depending on the environment. Usually, you should have at least 10 meters of connectivity.<\/p>"
+          }
+        },
+        "text_gNJ43E": {
+          "type": "text",
+          "settings": {
+            "question": "Why can't I pair my Smartwatch with my phone?",
+            "answer": "<p>Make sure your Smartwatch is turned on and Bluetooth is enabled on your phone. Launch the <strong>Onwear Pro app<\/strong> and follow the onscreen instructions to pair your watch. If the connection fails, check the Bluetooth menu on your phone. If you see the Smartwatch in the device list, remove it. Relaunch the app and repeat the pairing process.<\/p>"
+          }
+        },
+        "text_GtrmHH": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_LxHmyd": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_d7UwA3": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Wb8GhW",
+        "text_Vw8R43",
+        "text_gNJ43E",
+        "text_GtrmHH",
+        "text_LxHmyd",
+        "text_d7UwA3"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#D5CAA6",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_tWigfm": {
       "type": "ss-feature-11",
       "blocks": {
@@ -249,7 +314,7 @@
         "background_color": "#efefef",
         "background_gradient": "",
         "border_color": "#000000",
-        "margin_top": 0,
+        "margin_top": 52,
         "margin_bottom": 0,
         "padding_top": 36,
         "padding_bottom": 36,
@@ -266,6 +331,7 @@
     "main",
     "related-products",
     "172383871881ea3776",
+    "ss_simple_faq_AfichP",
     "ss_feature_11_tWigfm"
   ]
 }
