@@ -47,12 +47,12 @@
         "product_list": [
 
         ],
-        "stack_products": false,
+        "stack_products": true,
         "show_bar": false,
         "top_bar": false,
         "product_show": 10,
         "product_per_desktop": 4,
-        "product_per_mobile": "1",
+        "product_per_mobile": "2",
         "image_radius": 12,
         "image_ration": "square",
         "use_custom_height": false,
