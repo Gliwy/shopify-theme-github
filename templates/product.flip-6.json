@@ -166,8 +166,8 @@
         "text_NKaL6j": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What connection types can I use?",
+            "answer": "<p>There are three connection methods: Micro SD card, Bluetooth and USB input.<\/p>"
           }
         }
       },
