@@ -142,25 +142,18 @@
     "ss_simple_faq_Y9yRxj": {
       "type": "ss-simple-faq",
       "blocks": {
+        "text_mnRmdb": {
+          "type": "text",
+          "settings": {
+            "question": "How do I charge my Smartwatch?",
+            "answer": "<p>Use the magnetic charger included in the Smartwatch package. Place the magnetic cable directly onto the back of the watch and a lightning bolt will appear on the watch face confirming that the device is charging.<\/p>"
+          }
+        },
         "text_y98Lw7": {
           "type": "text",
           "settings": {
             "question": "How do I turn on the Smartwatch?",
             "answer": "<p>Press and hold the on-screen button for at least five seconds. Make sure your Smartwatch is charged before trying to turn it on. The Smartwatch also turns on when connected to the charger.<\/p>"
-          }
-        },
-        "text_YF8jBb": {
-          "type": "text",
-          "settings": {
-            "question": "How far can the Smartwatch be from the phone without disconnecting?",
-            "answer": "<p>The range of the Bluetooth connection between the phone and the Smartwatch varies greatly depending on the environment. Usually, you should have at least 10 meters of connectivity.<\/p>"
-          }
-        },
-        "text_cCXD7n": {
-          "type": "text",
-          "settings": {
-            "question": "Why can't I pair my Smartwatch with my phone?",
-            "answer": "<p>Make sure your Smartwatch is turned on and Bluetooth is enabled on your phone. Launch the <strong>Keep Health app<\/strong> and follow the onscreen instructions to pair your watch. If the connection fails, check the Bluetooth menu on your phone. If you see the Smartwatch in the device list, remove it. Relaunch the app and repeat the pairing process.<\/p>"
           }
         },
         "text_yjrQik": {
@@ -170,11 +163,11 @@
             "answer": "<p>The Smartwatch is resistant to splashes of water and dust. However, we recommend limiting exposure to dust and water because some materials of the Smartwatch can be damaged.<\/p>"
           }
         },
-        "text_mnRmdb": {
+        "text_cCXD7n": {
           "type": "text",
           "settings": {
-            "question": "How do I charge my Smartwatch?",
-            "answer": "<p>Use the magnetic charger included in the Smartwatch package. Place the magnetic cable directly onto the back of the watch and a lightning bolt will appear on the watch face confirming that the device is charging.<\/p>"
+            "question": "Why can't I pair my Smartwatch with my phone?",
+            "answer": "<p>Make sure your Smartwatch is turned on and Bluetooth is enabled on your phone. Launch the <strong>Keep Health app<\/strong> and follow the onscreen instructions to pair your watch. If the connection fails, check the Bluetooth menu on your phone. If you see the Smartwatch in the device list, remove it. Relaunch the app and repeat the pairing process.<\/p>"
           }
         },
         "text_47XQ3d": {
@@ -183,15 +176,22 @@
             "question": "Why don't I see the charger indicator on the screen?",
             "answer": "<p>If the charger indicator (lightning bolt) is not visible, the charger is not detecting the watch.<br\/><br\/>Try doing the following:<br\/><strong>• Check that<\/strong> the watch is positioned correctly on the charger, without any detachment.<br\/><strong>• Check that<\/strong> there is nothing (dust, tape, etc.) between the charger and the device.<br\/><strong>• Make sure<\/strong> the charger is connected to a power outlet.<br\/><strong>• Check that<\/strong> the charger's USB cable works with other devices. The charger light should be red.<br\/><strong>• Try changing<\/strong> the charger's power source from your laptop to a wall outlet. When charging via PC or laptop, the device must be turned on and active (not in sleep mode).<br\/><strong>• The device<\/strong> may be defective. Try replacing it if it is still covered by warranty.<br\/><strong>• Sometimes<\/strong>, if the device gets too hot while charging, it will go into thermal shutdown until it cools down, and then resume the charging process once it cools down. Try removing the device from the charger, wait for it to cool and place it again.<\/p>"
           }
+        },
+        "text_YF8jBb": {
+          "type": "text",
+          "settings": {
+            "question": "How far can the Smartwatch be from the phone without disconnecting?",
+            "answer": "<p>The range of the Bluetooth connection between the phone and the Smartwatch varies greatly depending on the environment. Usually, you should have at least 10 meters of connectivity.<\/p>"
+          }
         }
       },
       "block_order": [
-        "text_y98Lw7",
-        "text_YF8jBb",
-        "text_cCXD7n",
-        "text_yjrQik",
         "text_mnRmdb",
-        "text_47XQ3d"
+        "text_y98Lw7",
+        "text_yjrQik",
+        "text_cCXD7n",
+        "text_47XQ3d",
+        "text_YF8jBb"
       ],
       "settings": {
         "heading": "Frequently Asked Questions",
