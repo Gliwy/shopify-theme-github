@@ -139,6 +139,55 @@
         "include_margins": true
       }
     },
+    "ss_simple_faq_kr6HYq": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_xDLB6x": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_wjQBkr": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_8zM9WF": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_yRPz4j": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_xDLB6x",
+        "text_wjQBkr",
+        "text_8zM9WF",
+        "text_yRPz4j"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#D5CAA6",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_ULtdK9": {
       "type": "ss-feature-11",
       "blocks": {
@@ -266,6 +315,7 @@
     "main",
     "related-products",
     "17238398671d484ca9",
+    "ss_simple_faq_kr6HYq",
     "ss_feature_11_ULtdK9"
   ]
 }
