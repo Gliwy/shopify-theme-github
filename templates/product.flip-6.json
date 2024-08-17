@@ -139,6 +139,55 @@
         "include_margins": true
       }
     },
+    "ss_simple_faq_b6Q9TM": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_HYA9R6": {
+          "type": "text",
+          "settings": {
+            "question": "How do I connect the Bluetooth speaker to a device?",
+            "answer": "<p>Turn on the speaker and start Bluetooth pairing. Usually you need to hold down the power button for a longer time or press the special pairing button.<\/p>"
+          }
+        },
+        "text_L7KTUU": {
+          "type": "text",
+          "settings": {
+            "question": "How far can the speaker be from the phone without disconnecting?",
+            "answer": "<p>The range of the Bluetooth connection between the phone and the speaker varies greatly depending on the environment. Usually, you should have at least 10 meters of connectivity.<\/p>"
+          }
+        },
+        "text_P3d9t4": {
+          "type": "text",
+          "settings": {
+            "question": "Is my speaker water and\/or dust resistant?",
+            "answer": "<p>Definitely yes, the speaker is resistant to splashes of water and dust.<\/p>"
+          }
+        },
+        "text_NKaL6j": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_HYA9R6",
+        "text_L7KTUU",
+        "text_P3d9t4",
+        "text_NKaL6j"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#D5CAA6",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_yYeYNK": {
       "type": "ss-feature-11",
       "blocks": {
@@ -266,6 +315,7 @@
     "main",
     "related-products",
     "172384066611802688",
+    "ss_simple_faq_b6Q9TM",
     "ss_feature_11_yYeYNK"
   ]
 }
