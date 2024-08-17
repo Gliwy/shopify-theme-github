@@ -145,6 +145,71 @@
         "padding_bottom": 28
       }
     },
+    "ss_simple_faq_tYh9Lm": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_N3F7Yh": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_PznA6y": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_7rQbgD": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_bL7jXJ": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_T7xrRV": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_9pY6bp": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_N3F7Yh",
+        "text_PznA6y",
+        "text_7rQbgD",
+        "text_bL7jXJ",
+        "text_T7xrRV",
+        "text_9pY6bp"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#121212",
+        "hover_color": "#121212",
+        "question_color": "#27222d",
+        "background_color": "#efefef",
+        "answer_color": "#121212",
+        "answer_bg_color": "#efefef",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_r4eFnT": {
       "type": "ss-feature-11",
       "blocks": {
@@ -255,7 +320,7 @@
         "background_color": "#efefef",
         "background_gradient": "",
         "border_color": "#000000",
-        "margin_top": 0,
+        "margin_top": 52,
         "margin_bottom": 0,
         "padding_top": 36,
         "padding_bottom": 36,
@@ -273,6 +338,7 @@
     "main",
     "1723840397f3182684",
     "related-products",
+    "ss_simple_faq_tYh9Lm",
     "ss_feature_11_r4eFnT"
   ]
 }
