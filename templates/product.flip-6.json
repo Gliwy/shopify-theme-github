@@ -142,6 +142,20 @@
     "ss_simple_faq_b6Q9TM": {
       "type": "ss-simple-faq",
       "blocks": {
+        "text_NKaL6j": {
+          "type": "text",
+          "settings": {
+            "question": "What connection types can I use?",
+            "answer": "<p>There are three connection methods: Micro SD card, Bluetooth and USB input.<\/p>"
+          }
+        },
+        "text_P3d9t4": {
+          "type": "text",
+          "settings": {
+            "question": "Is my speaker water and\/or dust resistant?",
+            "answer": "<p>Definitely yes, the speaker is resistant to splashes of water and dust.<\/p>"
+          }
+        },
         "text_HYA9R6": {
           "type": "text",
           "settings": {
@@ -155,27 +169,13 @@
             "question": "How far can the speaker be from the phone without disconnecting?",
             "answer": "<p>The range of the Bluetooth connection between the phone and the speaker varies greatly depending on the environment. Usually, you should have at least 10 meters of connectivity.<\/p>"
           }
-        },
-        "text_P3d9t4": {
-          "type": "text",
-          "settings": {
-            "question": "Is my speaker water and\/or dust resistant?",
-            "answer": "<p>Definitely yes, the speaker is resistant to splashes of water and dust.<\/p>"
-          }
-        },
-        "text_NKaL6j": {
-          "type": "text",
-          "settings": {
-            "question": "What connection types can I use?",
-            "answer": "<p>There are three connection methods: Micro SD card, Bluetooth and USB input.<\/p>"
-          }
         }
       },
       "block_order": [
-        "text_HYA9R6",
-        "text_L7KTUU",
+        "text_NKaL6j",
         "text_P3d9t4",
-        "text_NKaL6j"
+        "text_HYA9R6",
+        "text_L7KTUU"
       ],
       "settings": {
         "heading": "Frequently Asked Questions",
