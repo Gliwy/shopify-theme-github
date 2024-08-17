@@ -177,7 +177,7 @@
         "hover_color": "#121212",
         "question_color": "#27222d",
         "background_color": "#efefef",
-        "answer_color": "#27222d",
+        "answer_color": "#121212",
         "answer_bg_color": "#efefef",
         "questions-font-size": 1.7
       }
