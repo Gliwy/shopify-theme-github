@@ -208,22 +208,31 @@
     "image_with_text_B6A6bQ": {
       "type": "image-with-text",
       "blocks": {
+        "caption_zmrpyB": {
+          "type": "caption",
+          "settings": {
+            "caption": "ACCESSORY",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "heading_FrYpKY": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Trendy Design",
             "heading_size": "h1"
           }
         },
         "text_Fn3Fdz": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>We pay more and more attention to ensuring that every customer can enjoy the benefits of our products. Therefore,<strong> KEIKO <\/strong>Smartwatches are functional and compatible with all mobile phones with Android and iOS operating systems.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
+        "caption_zmrpyB",
         "heading_FrYpKY",
         "text_Fn3Fdz"
       ],
