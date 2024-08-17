@@ -133,6 +133,29 @@
         "padding_bottom": 28
       }
     },
+    "rich_text_DtRAyM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QF3WBV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QF3WBV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-da5232ee-33f0-4591-bb02-413a1857844c",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "ss_simple_faq_hQeNzd": {
       "type": "ss-simple-faq",
       "blocks": {
@@ -309,6 +332,7 @@
     "main",
     "1723812511ff93dc5f",
     "related-products",
+    "rich_text_DtRAyM",
     "ss_simple_faq_hQeNzd",
     "ss_feature_11_iRhPpt"
   ]
