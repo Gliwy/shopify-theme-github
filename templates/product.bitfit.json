@@ -173,8 +173,8 @@
         "text_mnRmdb": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I charge my Smartwatch?",
+            "answer": "<p>Use the magnetic charger included in the Smartwatch package. Place the magnetic cable directly onto the back of the watch and a lightning bolt will appear on the watch face confirming that the device is charging.<\/p>"
           }
         },
         "text_47XQ3d": {
