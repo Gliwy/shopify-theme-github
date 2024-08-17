@@ -139,6 +139,71 @@
         "include_margins": true
       }
     },
+    "ss_simple_faq_T9DdU3": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_XPjmt3": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_NYxTzQ": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_LkyUUV": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_iFWJp3": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_DtXK7G": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_M73FNP": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_XPjmt3",
+        "text_NYxTzQ",
+        "text_LkyUUV",
+        "text_iFWJp3",
+        "text_DtXK7G",
+        "text_M73FNP"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#121212",
+        "hover_color": "#121212",
+        "question_color": "#27222d",
+        "background_color": "#efefef",
+        "answer_color": "#121212",
+        "answer_bg_color": "#efefef",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_Q9TTBB": {
       "type": "ss-feature-11",
       "blocks": {
@@ -266,6 +331,7 @@
     "main",
     "related-products",
     "1723879104c26ab1bd",
+    "ss_simple_faq_T9DdU3",
     "ss_feature_11_Q9TTBB"
   ]
 }
