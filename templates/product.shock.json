@@ -166,8 +166,8 @@
         "text_KFfidn": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is my Smartwatch water and\/or dust resistant?",
+            "answer": "<p>The Smartwatch is resistant to splashes of water and dust. However, we recommend limiting exposure to dust and water because some materials of the Smartwatch can be damaged.<\/p>"
           }
         },
         "text_AcjHQq": {
