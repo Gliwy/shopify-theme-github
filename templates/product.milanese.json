@@ -149,6 +149,13 @@
             "answer": "<p>To clean the steel strap, you can proceed using a damp cloth, warm water and soap.<\/p>"
           }
         },
+        "text_ekRkBk": {
+          "type": "text",
+          "settings": {
+            "question": "How do I change my strap?",
+            "answer": "<p>To change the strap, simply press the release button behind the case. Slide the strap to remove it, then insert another strap.<\/p>"
+          }
+        },
         "text_CXkNXY": {
           "type": "text",
           "settings": {
@@ -156,25 +163,18 @@
             "answer": "<p>Fits all Premium and Ultra series.<\/p>"
           }
         },
-        "text_ekRkBk": {
-          "type": "text",
-          "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
-          }
-        },
         "text_Cq8TDV": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What material is the strap made of?",
+            "answer": "<p>The strap features a stainless steel link with an adjustable magnetic clasp.<\/p>"
           }
         }
       },
       "block_order": [
         "text_EAg46D",
-        "text_CXkNXY",
         "text_ekRkBk",
+        "text_CXkNXY",
         "text_Cq8TDV"
       ],
       "settings": {
