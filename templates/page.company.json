@@ -161,22 +161,31 @@
     "image_with_text_BjKGJq": {
       "type": "image-with-text",
       "blocks": {
+        "caption_cnYVNy": {
+          "type": "caption",
+          "settings": {
+            "caption": "BUSINESS",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "heading_zfwMBp": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Brand Story",
             "heading_size": "h1"
           }
         },
         "text_QcFzaM": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p><strong>KEIKO<\/strong> was born in 2019 in <strong>Italy<\/strong> in one of the most famous fashion capitals such as <strong>Milan<\/strong>, ambition leads this company to visions that branch out into the field of design and style, combining what is defined as unique with everyday life.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
+        "caption_cnYVNy",
         "heading_zfwMBp",
         "text_QcFzaM"
       ],
