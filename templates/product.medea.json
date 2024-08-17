@@ -149,32 +149,32 @@
             "answer": "<p>To clean the rubber strap, you can proceed using warm soapy water, rinse thoroughly and dry thoroughly with a towel. We suggest washing your watch and band after every strenuous workout.<\/p>"
           }
         },
-        "text_8pmUxc": {
-          "type": "text",
-          "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
-          }
-        },
         "text_4egJ3q": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I change my strap?",
+            "answer": "<p>To change the strap, simply press the release button behind the case. Slide the strap to remove it, then insert another strap.<\/p>"
+          }
+        },
+        "text_8pmUxc": {
+          "type": "text",
+          "settings": {
+            "question": "Which watches fit my strap?",
+            "answer": "<p>Fits all Premium and Ultra series.<\/p>"
           }
         },
         "text_U8GbA6": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What material is the strap made of?",
+            "answer": "<p>Made of soft rubber and 316L stainless steel. With the pin-and-tuck system that allows it to wrap comfortably around your wrist.<\/p>"
           }
         }
       },
       "block_order": [
         "text_Y8Mxtq",
-        "text_8pmUxc",
         "text_4egJ3q",
+        "text_8pmUxc",
         "text_U8GbA6"
       ],
       "settings": {
