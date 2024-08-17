@@ -153,7 +153,7 @@
           "type": "text",
           "settings": {
             "question": "I changed my phone and the new one doesn't detect the device. Why?",
-            "answer": "<p>We recommend proceeding with pairing the two devices by following the instructions in the manual.<br\/>In particular, you must ensure that:<br\/>- having turned off\/disabled Bluetooth on the old phone;<br\/>- disable Bluetooth on the new phone and re-enable it only after having previously put the device in \"pairing\" mode<\/p>"
+            "answer": "<p>We recommend proceeding with pairing the two devices by following the instructions in the manual.<br\/>In particular, you must ensure that:<br\/>- having turned off\/disabled Bluetooth on the old phone<br\/>- disable Bluetooth on the new phone and re-enable it only after having previously put the device in \"pairing\" mode<\/p>"
           }
         },
         "text_8zM9WF": {
