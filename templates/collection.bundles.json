@@ -11,6 +11,7 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -19,6 +20,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,
@@ -37,88 +39,128 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_47nabU": {
-      "type": "featured-product",
+    "ss_feature_11_jhgqgH": {
+      "type": "ss-feature-11",
       "blocks": {
-        "text_NTNTPJ": {
-          "type": "text",
+        "item_kLaCUB": {
+          "type": "item",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "icon": "shop",
+            "title": "<h3>Charge $10k+ per month<\/h3>",
+            "description": "",
+            "url": ""
           }
         },
-        "title_EMti6Y": {
-          "type": "title",
+        "item_Bj9Dxr": {
+          "type": "item",
           "settings": {
-            "heading_size": "h1"
+            "icon": "airplane",
+            "title": "<h3>Influencer marketing basics<\/h3>",
+            "description": "",
+            "url": ""
           }
         },
-        "price_7jeFKR": {
-          "type": "price",
+        "item_RXBHmk": {
+          "type": "item",
           "settings": {
+            "icon": "chat-dots",
+            "title": "<h3>How to find a perfect niche<\/h3>",
+            "description": "",
+            "url": ""
           }
         },
-        "variant_picker_ErzwxC": {
-          "type": "variant_picker",
+        "item_mVPHcz": {
+          "type": "item",
           "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_KPzTPb": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_ETarNp": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "trust_badges_bear_widget_9AqCxF": {
-          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
-          "settings": {
-          }
-        },
-        "share_MiAwN6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "icon": "gift",
+            "title": "<h3>Diversify your income streams.<\/h3>",
+            "description": "",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "text_NTNTPJ",
-        "title_EMti6Y",
-        "price_7jeFKR",
-        "variant_picker_ErzwxC",
-        "quantity_selector_KPzTPb",
-        "buy_buttons_ETarNp",
-        "trust_badges_bear_widget_9AqCxF",
-        "share_MiAwN6"
+        "item_kLaCUB",
+        "item_Bj9Dxr",
+        "item_RXBHmk",
+        "item_mVPHcz"
       ],
-      "disabled": true,
       "settings": {
-        "product": "",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "proza_libre_n4",
+        "heading_size": 48,
+        "heading_size_mobile": 30,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "heading_mt": 16,
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "proza_libre_n4",
+        "sub_heading_size": 12,
+        "sub_heading_size_mobile": 12,
+        "sub_heading_height": 130,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "items_row": 4,
+        "items_row_mobile": "2",
+        "items_mt": 32,
+        "items_gap": 30,
+        "items_gap_mobile": 20,
+        "item_padding_vertical": 30,
+        "item_padding_vertical_mobile": 30,
+        "item_padding_horizontal": 30,
+        "item_padding_horizontal_mobile": 30,
+        "item_radius": 20,
+        "item_border_thickness": 1,
+        "item_shadow": false,
+        "item_hover": true,
+        "content_align": "start",
+        "content_align_mobile": "start",
+        "icon_size": 36,
+        "icon_size_mobile": 36,
+        "hide_icon": false,
+        "title_custom": false,
+        "title_font": "proza_libre_n4",
+        "title_size": 18,
+        "title_size_mobile": 16,
+        "title_height": 130,
+        "title_mt": 32,
+        "description_custom": false,
+        "description_font": "proza_libre_n4",
+        "description_size": 16,
+        "description_size_mobile": 14,
+        "description_height": 150,
+        "description_mt": 16,
+        "item_bg": "#FFFFFF",
+        "item_border_color": "#E9E9E9",
+        "item_shadow_color": "#000000",
+        "item_shadow_hover_color": "#A3D9BA",
+        "icon_color": "#22A45A",
+        "title_color": "#242424",
+        "description_color": "#242424",
+        "heading_color": "#242424",
+        "sub_heading_color": "#F79009",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "featured_product_47nabU"
+    "ss_feature_11_jhgqgH"
   ]
 }
