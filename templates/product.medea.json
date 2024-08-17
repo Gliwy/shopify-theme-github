@@ -128,7 +128,7 @@
           "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/product-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
           "settings": {
             "topPadding": 36,
-            "bottomPadding": 36
+            "bottomPadding": 0
           }
         }
       },
