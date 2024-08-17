@@ -155,11 +155,27 @@
             "question": "Question text",
             "answer": "<p>Answer richtext<\/p>"
           }
+        },
+        "text_PNhXrN": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_7G79X9": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
         }
       },
       "block_order": [
         "text_yWr4VV",
-        "text_FYwTwn"
+        "text_FYwTwn",
+        "text_PNhXrN",
+        "text_7G79X9"
       ],
       "settings": {
         "heading": "Frequently Asked Questions",
