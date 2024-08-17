@@ -145,8 +145,8 @@
         "text_xDLB6x": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "When I search from my phone the device is not detected. Why?",
+            "answer": "<p>The device features pairing mode, if not activated it will not be possible to connect any device. Therefore, we recommend repeating the pairing procedure, following the instructions in the manual.<\/p>"
           }
         },
         "text_wjQBkr": {
