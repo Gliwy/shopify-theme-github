@@ -159,15 +159,15 @@
         "text_DC7Bpe": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How to clean polarized sunglasses?",
+            "answer": "<p>To clean your polarized sunglasses the procedure is the same as you would do with glasses. The best solution to leave them looking like new is to wipe them gently with a microfiber cloth. And, if they are very dirty, before doing so, rinse them with warm water, drying the moisture with a clean cotton cloth.<\/p>"
           }
         },
         "text_twT86w": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Are polarized sunglasses for men or women?",
+            "answer": "<p>Questi sono occhiali completamente unisex. Ciò significa che possono essere utilizzati sia dagli uomini che dalle donne, il loro utilizzo non ha importanza! La qualità di questi occhiali fa sì che sia gli uomini che le donne li scelgano per utilizzarli come complemento del loro look oltre a proteggere la loro vista grazie ad essi.<\/p>"
           }
         }
       },
