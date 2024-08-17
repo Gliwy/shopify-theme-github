@@ -166,15 +166,15 @@
         "text_a3eMYV": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is my Smartwatch water and\/or dust resistant?",
+            "answer": "<p>The Smartwatch is resistant to splashes of water and dust. However, we recommend limiting exposure to dust and water because some materials of the Smartwatch can be damaged.<\/p>"
           }
         },
         "text_qCdbRn": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I charge my Smartwatch?",
+            "answer": "<p>Use the magnetic charger included in the Smartwatch package. Place the magnetic cable directly onto the back of the watch and a lightning bolt will appear on the watch face confirming that the device is charging.<\/p>"
           }
         },
         "text_Y3qJ8F": {
