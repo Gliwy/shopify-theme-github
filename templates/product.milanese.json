@@ -139,6 +139,55 @@
         "include_margins": true
       }
     },
+    "ss_simple_faq_E3XnDa": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_EAg46D": {
+          "type": "text",
+          "settings": {
+            "question": "Can I wash my strap?",
+            "answer": "<p>To clean the steel strap, you can proceed using a damp cloth, warm water and soap.<\/p>"
+          }
+        },
+        "text_CXkNXY": {
+          "type": "text",
+          "settings": {
+            "question": "Which watches fit my strap?",
+            "answer": "<p>Fits all Premium and Ultra series.<\/p>"
+          }
+        },
+        "text_ekRkBk": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_Cq8TDV": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_EAg46D",
+        "text_CXkNXY",
+        "text_ekRkBk",
+        "text_Cq8TDV"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#D5CAA6",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_ADfCjc": {
       "type": "ss-feature-11",
       "blocks": {
@@ -266,6 +315,7 @@
     "main",
     "related-products",
     "1723878124687debf5",
+    "ss_simple_faq_E3XnDa",
     "ss_feature_11_ADfCjc"
   ]
 }
