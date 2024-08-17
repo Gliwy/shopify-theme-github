@@ -159,8 +159,8 @@
         "text_8zM9WF": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "My Bluetooth device has low volume, what can I do?",
+            "answer": "<p>First of all, check that you have increased the volume on both your phone and your Bluetooth device.<br\/>If the volume of the product is at maximum and the conversation is inaudible, it may be a defect in the headset, therefore the product is within the parameters of the warranty.<\/p>"
           }
         },
         "text_yRPz4j": {
