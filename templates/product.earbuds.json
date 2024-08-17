@@ -142,11 +142,11 @@
     "ss_simple_faq_kr6HYq": {
       "type": "ss-simple-faq",
       "blocks": {
-        "text_xDLB6x": {
+        "text_8zM9WF": {
           "type": "text",
           "settings": {
-            "question": "When I search from my phone the device is not detected. Why?",
-            "answer": "<p>The device features pairing mode, if not activated it will not be possible to connect any device. Therefore, we recommend repeating the pairing procedure, following the instructions in the manual.<\/p>"
+            "question": "My Bluetooth device has low volume, what can I do?",
+            "answer": "<p>First of all, check that you have increased the volume on both your phone and your Bluetooth device.<br\/>If the volume of the product is at maximum and the conversation is inaudible, it may be a defect in the headset, therefore the product is within the parameters of the warranty.<\/p>"
           }
         },
         "text_wjQBkr": {
@@ -156,25 +156,25 @@
             "answer": "<p>We recommend proceeding with pairing the two devices by following the instructions in the manual.<br\/>In particular, you must ensure that:<br\/>- having turned off\/disabled Bluetooth on the old phone<br\/>- disable Bluetooth on the new phone and re-enable it only after having previously put the device in \"pairing\" mode<\/p>"
           }
         },
-        "text_8zM9WF": {
+        "text_xDLB6x": {
           "type": "text",
           "settings": {
-            "question": "My Bluetooth device has low volume, what can I do?",
-            "answer": "<p>First of all, check that you have increased the volume on both your phone and your Bluetooth device.<br\/>If the volume of the product is at maximum and the conversation is inaudible, it may be a defect in the headset, therefore the product is within the parameters of the warranty.<\/p>"
+            "question": "When I search from my phone the device is not detected. Why?",
+            "answer": "<p>The device features pairing mode, if not activated it will not be possible to connect any device. Therefore, we recommend repeating the pairing procedure, following the instructions in the manual.<\/p>"
           }
         },
         "text_yRPz4j": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "My interlocutor hears my voice softly, can the volume be raised?",
+            "answer": "<p>The volume setting is standard and cannot be adjusted. We recommend trying to blow inside the hole corresponding to the microphone, in order to eliminate any dust deposits blocking the hole.<\/p>"
           }
         }
       },
       "block_order": [
-        "text_xDLB6x",
-        "text_wjQBkr",
         "text_8zM9WF",
+        "text_wjQBkr",
+        "text_xDLB6x",
         "text_yRPz4j"
       ],
       "settings": {
