@@ -149,13 +149,6 @@
             "answer": "<p>It will be suitable for our device if the connector diameter meets the specifications of the outer diameter, and the output parameters are compatible.<br\/><br\/>What are output parameters?<br\/><br\/>It is the voltage[V] and current[A] value provided by the charger, for example 19V 4.74A.<\/p>"
           }
         },
-        "text_FYwTwn": {
-          "type": "text",
-          "settings": {
-            "question": "Is it possible to connect a power supply with a higher amperage?",
-            "answer": "<p>Definitely yes. Don't forget, however, that the output voltage [V] must be the same as the original power supply.<\/p>"
-          }
-        },
         "text_PNhXrN": {
           "type": "text",
           "settings": {
@@ -166,16 +159,23 @@
         "text_7G79X9": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Charger with Power Delivery technology, what does PD mean?",
+            "answer": "<p>Power Delivery è una tecnologia di ricarica rapida. In parole povere, i caricabatterie che supportano questa variante selezionano automaticamente la carica giusta per il dispositivo connesso, garantendo una ricarica rapida ed efficiente.<\/p>"
+          }
+        },
+        "text_FYwTwn": {
+          "type": "text",
+          "settings": {
+            "question": "Is it possible to connect a power supply with a higher amperage?",
+            "answer": "<p>Definitely yes. Don't forget, however, that the output voltage [V] must be the same as the original power supply.<\/p>"
           }
         }
       },
       "block_order": [
         "text_yWr4VV",
-        "text_FYwTwn",
         "text_PNhXrN",
-        "text_7G79X9"
+        "text_7G79X9",
+        "text_FYwTwn"
       ],
       "settings": {
         "heading": "Frequently Asked Questions",
