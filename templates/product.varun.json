@@ -145,8 +145,8 @@
         "text_Fbzidf": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Can I wash my strap?",
+            "answer": "<p>To clean the silicone strap, you can proceed using warm soapy water, rinse thoroughly and dry carefully with a towel.<br\/><br\/>We suggest washing your watch and band after every strenuous workout.<\/p>"
           }
         },
         "text_reGAwe": {
