@@ -149,18 +149,18 @@
             "answer": "<p>Always remove the dial from the strap. Use warm soapy water and gently scrub the band. Leave to dry lying on a towel.<\/p>"
           }
         },
-        "text_7JDQhW": {
-          "type": "text",
-          "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
-          }
-        },
         "text_jmmAPb": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I change my strap?",
+            "answer": "<p>To change the strap, simply press the release button behind the case. Slide the strap to remove it, then insert another strap. Nylon Loop has a practical adjustable hook-and-loop closure.<\/p>"
+          }
+        },
+        "text_7JDQhW": {
+          "type": "text",
+          "settings": {
+            "question": "Which watches fit my strap?",
+            "answer": "<p>Fits all Premium and Ultra series.<\/p>"
           }
         },
         "text_rUTwhK": {
@@ -173,8 +173,8 @@
       },
       "block_order": [
         "text_Brp6NW",
-        "text_7JDQhW",
         "text_jmmAPb",
+        "text_7JDQhW",
         "text_rUTwhK"
       ],
       "settings": {
