@@ -9,6 +9,25 @@
 */
 {
   "sections": {
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -100,25 +119,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
-      "settings": {
-        "heading": "You may also like",
-        "heading_size": "h2",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
       }
     },
     "1723877724fc0a185e": {
@@ -312,8 +312,8 @@
     }
   },
   "order": [
-    "main",
     "related-products",
+    "main",
     "1723877724fc0a185e",
     "ss_simple_faq_VNPg4F",
     "ss_feature_11_NaBXDA"
