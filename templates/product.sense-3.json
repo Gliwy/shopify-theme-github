@@ -19,17 +19,17 @@
             "text_style": "uppercase"
           }
         },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
         "doran_reviews_questions_rating_widget_dUg4XN": {
           "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/rating-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
           "settings": {
             "is_hide_detail": false,
             "is_display_questions": false,
             "class_name": ""
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
           }
         },
         "price": {
@@ -76,8 +76,8 @@
       },
       "block_order": [
         "vendor",
-        "doran_reviews_questions_rating_widget_dUg4XN",
         "title",
+        "doran_reviews_questions_rating_widget_dUg4XN",
         "price",
         "variant_picker",
         "quantity_selector",
