@@ -102,14 +102,14 @@
         "share_MiAwN6"
       ],
       "settings": {
-        "product": "",
-        "color_scheme": "",
-        "secondary_background": false,
+        "product": "flip-6-nera",
+        "color_scheme": "scheme-3",
+        "secondary_background": true,
         "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
