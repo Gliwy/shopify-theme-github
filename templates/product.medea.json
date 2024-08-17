@@ -24,6 +24,14 @@
           "settings": {
           }
         },
+        "doran_reviews_questions_rating_widget_nrfpK7": {
+          "type": "shopify:\/\/apps\/doran-reviews-questions\/blocks\/rating-widget\/ca90c3ee-bc39-4c25-90cd-fdf0519c6d11",
+          "settings": {
+            "is_hide_detail": false,
+            "is_display_questions": false,
+            "class_name": ""
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -48,6 +56,11 @@
             "show_gift_card_recipient": true
           }
         },
+        "trust_badges_bear_widget_E7hkJW": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -64,10 +77,12 @@
       "block_order": [
         "vendor",
         "title",
+        "doran_reviews_questions_rating_widget_nrfpK7",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "trust_badges_bear_widget_E7hkJW",
         "description",
         "share"
       ],
