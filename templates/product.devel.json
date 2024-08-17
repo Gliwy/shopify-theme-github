@@ -145,8 +145,8 @@
         "text_wD8krP": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Can I wash my strap?",
+            "answer": "<p>To clean the metal strap, you can proceed using a damp cloth, warm water and soap.<\/p>"
           }
         },
         "text_adHU6z": {
