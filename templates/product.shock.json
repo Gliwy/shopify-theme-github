@@ -173,15 +173,15 @@
         "text_AcjHQq": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "How do I charge my Smartwatch?",
+            "answer": "<p>Use the magnetic charger included in the Smartwatch package. Place the magnetic cable directly onto the back of the watch and a lightning bolt will appear on the watch face confirming that the device is charging.<\/p>"
           }
         },
         "text_kcYANw": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Why don't I see the charger indicator on the screen?",
+            "answer": "<p>If the charger indicator (lightning bolt) is not visible, the charger is not detecting the watch.<br\/><br\/>Try doing the following:<\/p><p><strong>• Check that<\/strong> the watch is placed correctly on the charger, without any detachment.<br\/><strong>• Check that <\/strong>there is nothing visible (dust, tape, etc.) between the charger and the device.<br\/><strong>• Make sure<\/strong> the charger is connected to a power outlet.<br\/><strong>• Verify that<\/strong> the charger's USB cable works with other devices. The charger light should be red.<br\/><strong>• Try changing <\/strong>the charger's power source from your laptop to a wall outlet. When charging via PC or laptop, the device must be turned on and active (not in sleep mode).<br\/><strong>• The device<\/strong> may be defective. Try replacing it if it is still covered by warranty.<br\/><strong>• Sometimes<\/strong>, if the device gets too hot while charging, it will go into thermal shutdown until it cools down, and then resume the charging process once it cools down. Try removing the device from the charger, wait for it to cool and place it again.<\/p>"
           }
         }
       },
