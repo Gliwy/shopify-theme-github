@@ -153,7 +153,7 @@
           "type": "text",
           "settings": {
             "question": "Is the wireless charger universal?",
-            "answer": "<p>Wireless charging works with phones compatible with the Qi charging standard.<\/p>"
+            "answer": "<p>Definitely no, Wireless charging works with phones compatible with the Qi charging standard.<\/p>"
           }
         },
         "text_agegDX": {
