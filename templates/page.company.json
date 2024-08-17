@@ -34,7 +34,7 @@
             "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 30,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "left"
           }
         }
@@ -189,7 +189,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "section_color_scheme": "",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 52,
@@ -227,7 +227,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "section_color_scheme": "",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -265,7 +265,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "section_color_scheme": "",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
