@@ -217,7 +217,7 @@
         "use_shadow": true,
         "use_radius": true,
         "card_padding_horizontal": 20,
-        "card_padding_vertical": 0,
+        "card_padding_vertical": 12,
         "card_title_custom": false,
         "card_title_font": "proza_libre_n4",
         "card_title_size": 20,
@@ -283,7 +283,7 @@
         "padding_horizontal": 2,
         "padding_horizontal_mobile": 2,
         "full_width": false,
-        "content_width": 120,
+        "content_width": 160,
         "border_thickness": 0
       }
     },
