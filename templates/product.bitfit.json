@@ -139,6 +139,71 @@
         "include_margins": true
       }
     },
+    "ss_simple_faq_Y9yRxj": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_y98Lw7": {
+          "type": "text",
+          "settings": {
+            "question": "How do I turn on the Smartwatch?",
+            "answer": "<p>Press and hold the on-screen button for at least five seconds. Make sure your Smartwatch is charged before trying to turn it on. The Smartwatch also turns on when connected to the charger.<\/p>"
+          }
+        },
+        "text_YF8jBb": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_cCXD7n": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_yjrQik": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_mnRmdb": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_47XQ3d": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_y98Lw7",
+        "text_YF8jBb",
+        "text_cCXD7n",
+        "text_yjrQik",
+        "text_mnRmdb",
+        "text_47XQ3d"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#D5CAA6",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_gr4bqy": {
       "type": "ss-feature-11",
       "blocks": {
@@ -266,6 +331,7 @@
     "main",
     "related-products",
     "1723836768d3f4725b",
+    "ss_simple_faq_Y9yRxj",
     "ss_feature_11_gr4bqy"
   ]
 }
