@@ -142,47 +142,12 @@
     "ss_feature_11_Q9TTBB": {
       "type": "ss-feature-11",
       "blocks": {
-        "item_XKk7zk": {
-          "type": "item",
-          "settings": {
-            "icon": "shop",
-            "title": "<h3>Charge $10k+ per month<\/h3>",
-            "description": "",
-            "url": ""
-          }
-        },
-        "item_kfKi8m": {
-          "type": "item",
-          "settings": {
-            "icon": "airplane",
-            "title": "<h3>Influencer marketing basics<\/h3>",
-            "description": "",
-            "url": ""
-          }
-        },
-        "item_gKPaWz": {
-          "type": "item",
-          "settings": {
-            "icon": "chat-dots",
-            "title": "<h3>How to find a perfect niche<\/h3>",
-            "description": "",
-            "url": ""
-          }
-        },
-        "item_fCJ7ij": {
-          "type": "item",
-          "settings": {
-            "icon": "gift",
-            "title": "<h3>Diversify your income streams.<\/h3>",
-            "description": "",
-            "url": ""
-          }
-        },
         "item_rt4GgH": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5_05decc33-08be-4bda-9ad5-33ab45c727aa.png",
             "icon": "pin",
-            "title": "<h3>win more clients \/ customers.<\/h3>",
+            "title": "<h3>2 Years Warranty<\/h3>",
             "description": "",
             "url": ""
           }
@@ -190,8 +155,9 @@
         "item_qKn7DL": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/8_5396934e-94dd-45ec-875e-4d3f8d57f1d8.png",
             "icon": "return_arrow",
-            "title": "<h3>Become more valuable.<\/h3>",
+            "title": "<h3>Worldwide Shipping<\/h3>",
             "description": "",
             "url": ""
           }
@@ -199,8 +165,9 @@
         "item_mMHdqm": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Globe_icon-icons.com_52069.png",
             "icon": "share",
-            "title": "<h3>Reduce the stress of your work<\/h3>",
+            "title": "<h3>Assistance 24\/7<\/h3>",
             "description": "",
             "url": ""
           }
@@ -208,18 +175,15 @@
         "item_3wwAz7": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/7_c02cffde-5381-4612-b536-1dd572e1f568.png",
             "icon": "globe",
-            "title": "<h3>Stay focused in a world<\/h3>",
+            "title": "<h3>100% Satisfied<\/h3>",
             "description": "",
             "url": ""
           }
         }
       },
       "block_order": [
-        "item_XKk7zk",
-        "item_kfKi8m",
-        "item_gKPaWz",
-        "item_fCJ7ij",
         "item_rt4GgH",
         "item_qKn7DL",
         "item_mMHdqm",
