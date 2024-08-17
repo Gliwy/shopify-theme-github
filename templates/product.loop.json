@@ -166,8 +166,8 @@
         "text_rUTwhK": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What material is the strap made of?",
+            "answer": "<p>The strap has a double-layer nylon fabric guarantees maximum comfort against the skin and allows sweat to evaporate.<\/p>"
           }
         }
       },
