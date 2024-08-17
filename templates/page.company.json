@@ -159,15 +159,15 @@
       "type": "ss-featured-collection",
       "settings": {
         "items_mt": 40,
-        "collection": "",
+        "collection": "best-sellers",
         "product_list": [
 
         ],
         "stack_products": false,
         "show_bar": false,
         "top_bar": false,
-        "product_show": 10,
-        "product_per_desktop": 4,
+        "product_show": 5,
+        "product_per_desktop": 5,
         "product_per_mobile": "1",
         "image_radius": 12,
         "image_ration": "square",
@@ -184,7 +184,7 @@
         "card_title_size": 24,
         "card_title_letter": 0,
         "card_title_height": 100,
-        "heading": "Featured collection",
+        "heading": "",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "heading_size": 50,
