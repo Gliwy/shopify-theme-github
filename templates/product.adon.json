@@ -160,8 +160,8 @@
         "text_tmPg9J": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What material is the strap made of?",
+            "answer": "<p>Made of saddle leather subjected to drum dyeing, surface treated with a special waxing, soft and velvety to the touch.<\/p>"
           }
         }
       },
