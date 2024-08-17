@@ -149,6 +149,13 @@
             "answer": "<p>To clean the silicone strap, you can proceed using warm soapy water, rinse thoroughly and dry carefully with a towel.<br\/><br\/>We suggest washing your watch and band after every strenuous workout.<\/p>"
           }
         },
+        "text_jfM33A": {
+          "type": "text",
+          "settings": {
+            "question": "How do I change my strap?",
+            "answer": "<p>The strap comes with two spring-loaded pins, which will allow you to insert or remove the strap with ease.<\/p>"
+          }
+        },
         "text_reGAwe": {
           "type": "text",
           "settings": {
@@ -156,25 +163,18 @@
             "answer": "<p>Fits the entire Fashion, Sense 3 and Primero series.<\/p>"
           }
         },
-        "text_jfM33A": {
-          "type": "text",
-          "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
-          }
-        },
         "text_cGY6Lx": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "What material is the strap made of?",
+            "answer": "<p>The strap is made of durable silicone, with a stainless steel clasp. easy to wear to change.<\/p>"
           }
         }
       },
       "block_order": [
         "text_Fbzidf",
-        "text_reGAwe",
         "text_jfM33A",
+        "text_reGAwe",
         "text_cGY6Lx"
       ],
       "settings": {
