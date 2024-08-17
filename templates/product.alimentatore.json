@@ -145,8 +145,8 @@
         "text_yWr4VV": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Is this power supply suitable for my device?",
+            "answer": "<p>It will be suitable for our device if the connector diameter meets the specifications of the outer diameter, and the output parameters are compatible.<br\/><br\/>What are output parameters?<br\/><br\/>It is the voltage[V] and current[A] value provided by the charger, for example 19V 4.74A.<\/p>"
           }
         },
         "text_FYwTwn": {
