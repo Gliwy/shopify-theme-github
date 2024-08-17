@@ -139,6 +139,55 @@
         "include_margins": true
       }
     },
+    "ss_simple_faq_rHpqJz": {
+      "type": "ss-simple-faq",
+      "blocks": {
+        "text_faktFR": {
+          "type": "text",
+          "settings": {
+            "question": "What does Qi technology mean?",
+            "answer": "<p>Qi technology is a wireless charging standard developed by the Qi Wireless Power Consortium.<\/p>"
+          }
+        },
+        "text_KPqwXR": {
+          "type": "text",
+          "settings": {
+            "question": "Is the wireless charger universal?",
+            "answer": "<p>Wireless charging works with phones compatible with the Qi charging standard.<\/p>"
+          }
+        },
+        "text_agegDX": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        },
+        "text_GHFdcM": {
+          "type": "text",
+          "settings": {
+            "question": "Question text",
+            "answer": "<p>Answer richtext<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_faktFR",
+        "text_KPqwXR",
+        "text_agegDX",
+        "text_GHFdcM"
+      ],
+      "settings": {
+        "heading": "Frequently Asked Questions",
+        "icon_color": "#fff",
+        "hover_color": "#EFEFEF",
+        "question_color": "#fff",
+        "background_color": "#D5CAA6",
+        "answer_color": "#000",
+        "answer_bg_color": "#fff",
+        "questions-font-size": 1.5
+      }
+    },
     "ss_feature_11_CFdxQ7": {
       "type": "ss-feature-11",
       "blocks": {
@@ -266,6 +315,7 @@
     "main",
     "related-products",
     "17238821043b4a9c4d",
+    "ss_simple_faq_rHpqJz",
     "ss_feature_11_CFdxQ7"
   ]
 }
