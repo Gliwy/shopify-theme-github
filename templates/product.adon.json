@@ -143,18 +143,18 @@
             "answer": "<p>We do not recommend washing the leather strap. Any exposure to water will dry out your skin and may cause damage to the band. However, a local watchmaker or watch retailer may have cleaning products specifically for leather.<\/p>"
           }
         },
+        "text_3WWJnz": {
+          "type": "text",
+          "settings": {
+            "question": "How do I change my strap?",
+            "answer": "<p>The strap comes with two spring-loaded pins, which will allow you to insert or remove the strap with ease.<\/p>"
+          }
+        },
         "text_47WjkP": {
           "type": "text",
           "settings": {
             "question": "Which watches fit my strap?",
             "answer": "<p>Fits the entire Fashion, Sense 3 and Primero series.<\/p>"
-          }
-        },
-        "text_3WWJnz": {
-          "type": "text",
-          "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
           }
         },
         "text_tmPg9J": {
@@ -167,8 +167,8 @@
       },
       "block_order": [
         "text_W8AdQG",
-        "text_47WjkP",
         "text_3WWJnz",
+        "text_47WjkP",
         "text_tmPg9J"
       ],
       "settings": {
