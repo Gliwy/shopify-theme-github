@@ -20,7 +20,6 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,
@@ -38,88 +37,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured_product_47nabU": {
-      "type": "featured-product",
-      "blocks": {
-        "text_NTNTPJ": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_EMti6Y": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_7jeFKR": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_ErzwxC": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_KPzTPb": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_ETarNp": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "trust_badges_bear_widget_9AqCxF": {
-          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
-          "settings": {
-          }
-        },
-        "share_MiAwN6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_NTNTPJ",
-        "title_EMti6Y",
-        "price_7jeFKR",
-        "variant_picker_ErzwxC",
-        "quantity_selector_KPzTPb",
-        "buy_buttons_ETarNp",
-        "trust_badges_bear_widget_9AqCxF",
-        "share_MiAwN6"
-      ],
-      "settings": {
-        "product": "flip-6-nera",
-        "color_scheme": "scheme-1",
-        "secondary_background": true,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "none",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "featured_product_47nabU"
+    "product-grid"
   ]
 }
