@@ -173,12 +173,12 @@
       ],
       "settings": {
         "heading": "Frequently Asked Questions",
-        "icon_color": "#fff",
-        "hover_color": "#EFEFEF",
-        "question_color": "#fff",
-        "background_color": "#D5CAA6",
-        "answer_color": "#000",
-        "answer_bg_color": "#fff",
+        "icon_color": "#121212",
+        "hover_color": "#121212",
+        "question_color": "#27222d",
+        "background_color": "#efefef",
+        "answer_color": "#121212",
+        "answer_bg_color": "#efefef",
         "questions-font-size": 1.5
       }
     },
