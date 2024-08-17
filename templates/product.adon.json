@@ -139,8 +139,8 @@
         "text_W8AdQG": {
           "type": "text",
           "settings": {
-            "question": "Question text",
-            "answer": "<p>Answer richtext<\/p>"
+            "question": "Can I wash my strap?",
+            "answer": "<p>We do not recommend washing the leather strap. Any exposure to water will dry out your skin and may cause damage to the band. However, a local watchmaker or watch retailer may have cleaning products specifically for leather.<\/p>"
           }
         },
         "text_47WjkP": {
