@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "serie-fashion",
+          "fashion-band",
+          "serie-premium",
+          "fashion-silicone",
+          "caricatore-keiko"
         ],
         "stack_products": false,
         "show_bar": true,
