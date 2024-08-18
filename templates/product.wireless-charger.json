@@ -167,7 +167,7 @@
           "type": "text",
           "settings": {
             "question": "Is any USB charger good for powering a wireless charger?",
-            "answer": "<p>No. You need a very powerful mains charger.<br\/>For wireless chargers sold without power, you will need:<br\/>a) use the phone charger (the one in the purchase package);<br\/>b) a mains charger with the specifications indicated on the wireless charger packaging.<\/p>"
+            "answer": "<p>No. You need a very powerful mains charger.<br\/>For wireless chargers sold without power, you will need:<br\/><strong>a)<\/strong> use the phone charger (the one in the purchase package)<br\/><strong>b)<\/strong> a mains charger with the specifications indicated on the wireless charger packaging.<\/p>"
           }
         }
       },
