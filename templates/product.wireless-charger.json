@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "caricatore-keiko",
+          "serie-ultra",
+          "serie-premium",
+          "keiko-lenti-sport",
+          "airpods-blu"
         ],
         "stack_products": false,
         "show_bar": true,
