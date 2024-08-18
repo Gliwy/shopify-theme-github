@@ -147,9 +147,9 @@
         "product_list": [
           "flip-6-nera",
           "keiko-lenti-sport",
+          "caricatore-keiko",
           "charger-bianco",
-          "airpods-blu",
-          "caricatore-keiko"
+          "airpods-blu"
         ],
         "stack_products": false,
         "show_bar": true,
@@ -210,7 +210,7 @@
         "link_arrow_color": "rgba(0,0,0,0)",
         "link_background_color": "rgba(0,0,0,0)",
         "link_background_hover_color": "rgba(0,0,0,0)",
-        "card_content_bg_color": "#FFFFFF",
+        "card_content_bg_color": "#ffffff",
         "card_title_color": "#121212",
         "card_price_color": "#26b420",
         "arrow_color": "#27222d",
@@ -222,7 +222,7 @@
         "progress_color": "#efefef",
         "heading_color": "#121212",
         "sub_heading_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "rgba(0,0,0,0)",
         "margin_top": 0,
