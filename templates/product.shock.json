@@ -145,10 +145,14 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "serie-ultra",
+          "fit-3",
+          "toki-watch",
+          "serie-delta",
+          "caricatore-keiko"
         ],
         "stack_products": false,
-        "show_bar": false,
+        "show_bar": true,
         "top_bar": false,
         "product_show": 10,
         "product_per_desktop": 5,
