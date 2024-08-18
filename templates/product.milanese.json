@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "silicone-strap",
+          "serie-ultra",
+          "charger-bianco",
+          "loop-band",
+          "serie-premium"
         ],
         "stack_products": false,
         "show_bar": true,
