@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "caricatore-keiko",
+          "fashion-band",
+          "fit-3",
+          "fashion-colors",
+          "serie-fashion"
         ],
         "stack_products": false,
         "show_bar": true,
