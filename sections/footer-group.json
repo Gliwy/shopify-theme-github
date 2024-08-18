@@ -201,7 +201,7 @@
         "bottom_block_padding_horizontal": 36,
         "bottom_block_padding_horizontal_mobile": 10,
         "block_border_thickness": 1,
-        "menu_gap": 88,
+        "menu_gap": 90,
         "menu_gap_mobile": 8,
         "menu_heading_custom": false,
         "menu_heading_font": "proza_libre_n4",
