@@ -219,7 +219,7 @@
         "arrow_bg_hover_color": "rgba(0,0,0,0)",
         "arrow_border_color": "rgba(0,0,0,0)",
         "arrow_border_hover_color": "rgba(0,0,0,0)",
-        "progress_color": "#27222d",
+        "progress_color": "#efefef",
         "heading_color": "#121212",
         "sub_heading_color": "#121212",
         "background_color": "#FFFFFF",
