@@ -160,7 +160,7 @@
           "type": "text",
           "settings": {
             "question": "Charger with Power Delivery technology, what does PD mean?",
-            "answer": "<p>Power Delivery è una tecnologia di ricarica rapida. In parole povere, i caricabatterie che supportano questa variante selezionano automaticamente la carica giusta per il dispositivo connesso, garantendo una ricarica rapida ed efficiente.<\/p>"
+            "answer": "<p>Power Delivery is a fast charging technology. Simply put, chargers that support this variant automatically select the right charge for the connected device, ensuring fast and efficient charging.<\/p>"
           }
         },
         "text_FYwTwn": {
