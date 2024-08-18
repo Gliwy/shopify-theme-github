@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "flip-6-nera",
+          "headphones-bianche",
+          "airpods-blu",
+          "charger-bianco",
+          "caricatore-keiko"
         ],
         "stack_products": false,
         "show_bar": true,
