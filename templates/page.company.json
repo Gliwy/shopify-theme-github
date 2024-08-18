@@ -197,7 +197,7 @@
     "ss_featured_collection_ayeQc4": {
       "type": "ss-featured-collection",
       "settings": {
-        "items_mt": 36,
+        "items_mt": 40,
         "collection": "best-sellers",
         "product_list": [
 
@@ -226,7 +226,7 @@
         "heading": "Best Sellers",
         "heading_custom": false,
         "heading_font": "proza_libre_n4",
-        "heading_size": 36,
+        "heading_size": 30,
         "heading_letter": 0,
         "heading_height": 100,
         "heading_align": "center",
