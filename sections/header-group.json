@@ -24,6 +24,7 @@
         },
         "announcement_b67HDN": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "LIMITED TIME⏰| 15% OFF ON YOUR FIRST PURCHASE!",
             "link": ""
