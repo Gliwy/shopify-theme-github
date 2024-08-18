@@ -62,17 +62,13 @@
           "settings": {
           }
         },
-        "complementary_bpfQbQ": {
-          "type": "complementary",
+        "collapsible_tab_QVwhDJ": {
+          "type": "collapsible_tab",
           "settings": {
-            "block_heading": "Pairs well with",
-            "make_collapsible_row": false,
-            "icon": "price_tag",
-            "product_list_limit": 10,
-            "products_per_page": 3,
-            "pagination_style": "counter",
-            "image_ratio": "square",
-            "enable_quick_add": false
+            "heading": "Collapsible row",
+            "icon": "none",
+            "content": "",
+            "page": ""
           }
         }
       },
@@ -85,7 +81,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "complementary_bpfQbQ"
+        "collapsible_tab_QVwhDJ"
       ],
       "settings": {
         "enable_sticky_info": false,
