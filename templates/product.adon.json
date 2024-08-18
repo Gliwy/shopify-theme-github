@@ -30,11 +30,6 @@
           "settings": {
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -47,6 +42,11 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
           }
         },
         "description": {
@@ -69,9 +69,9 @@
         "title",
         "doran_reviews_questions_rating_widget_efipiA",
         "price",
-        "quantity_selector",
         "variant_picker",
         "buy_buttons",
+        "quantity_selector",
         "description",
         "collapsible_tab_QVwhDJ"
       ],
