@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "loop-band",
+          "serie-delta",
+          "strap-silver",
+          "serie-ultra",
+          "caricatore-keiko"
         ],
         "stack_products": false,
         "show_bar": true,
