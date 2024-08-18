@@ -12,13 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "text_q8RekL": {
-          "type": "text",
-          "settings": {
-            "text": "Leather Band",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -73,7 +66,6 @@
         }
       },
       "block_order": [
-        "text_q8RekL",
         "title",
         "doran_reviews_questions_rating_widget_efipiA",
         "price",
