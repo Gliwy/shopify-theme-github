@@ -37,16 +37,16 @@
             "swatch_shape": "none"
           }
         },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "description": {
@@ -70,8 +70,8 @@
         "doran_reviews_questions_rating_widget_efipiA",
         "price",
         "variant_picker",
-        "buy_buttons",
         "quantity_selector",
+        "buy_buttons",
         "description",
         "collapsible_tab_QVwhDJ"
       ],
