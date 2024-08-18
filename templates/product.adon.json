@@ -205,7 +205,7 @@
         "link_background_color": "rgba(0,0,0,0)",
         "link_background_hover_color": "rgba(0,0,0,0)",
         "card_content_bg_color": "#ffffff",
-        "card_title_color": "#000000",
+        "card_title_color": "#121212",
         "card_price_color": "#26b420",
         "arrow_color": "#121212",
         "arrow_hover_color": "rgba(0,0,0,0)",
