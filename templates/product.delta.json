@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "serie-premium",
+          "gtr",
+          "fit-3",
+          "serie-fashion",
+          "caricatore-keiko"
         ],
         "stack_products": false,
         "show_bar": true,
