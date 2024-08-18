@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "fashion-band",
+          "gtr",
+          "fashion-colors",
+          "serie-fashion",
+          "keiko-lenti-sport"
         ],
         "stack_products": false,
         "show_bar": true,
