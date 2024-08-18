@@ -145,7 +145,11 @@
         "items_mt": 40,
         "collection": "",
         "product_list": [
-
+          "serie-delta",
+          "airpods-blu",
+          "toki-watch",
+          "caricatore-keiko",
+          "gtr"
         ],
         "stack_products": false,
         "show_bar": true,
