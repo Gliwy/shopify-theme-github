@@ -89,9 +89,9 @@
         "text_color": "#000",
         "text_color_hover": "#fff",
         "border_color": "#51c556",
-        "ss-border-width": 1,
-        "ss-font-size": 18,
-        "ss-button_padding": 1.7
+        "ss-border-width": 5,
+        "ss-font-size": 16,
+        "ss-button_padding": 1
       }
     },
     "1723812511ff93dc5f": {
