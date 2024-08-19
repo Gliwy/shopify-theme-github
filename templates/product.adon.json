@@ -97,7 +97,7 @@
         "border_color": "rgba(0,0,0,0)",
         "ss-border-width": 6,
         "ss-font-size": 16,
-        "ss-button_padding": 1
+        "ss-button_padding": 1.2
       }
     },
     "ss_tabs_block_rkPrrk": {
