@@ -54,6 +54,11 @@
           "disabled": true,
           "settings": {
           }
+        },
+        "trust_badges_bear_widget_rAiAtN": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -63,7 +68,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "trust_badges_bear_widget_rAiAtN"
       ],
       "settings": {
         "enable_sticky_info": false,
