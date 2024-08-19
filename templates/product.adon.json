@@ -79,8 +79,8 @@
       "settings": {
         "first_color": "#51c556",
         "button_hover_color": "#51c556",
-        "text_color": "#ffffff",
-        "text_color_hover": "#ffffff",
+        "text_color": "#121212",
+        "text_color_hover": "#121212",
         "border_color": "rgba(0,0,0,0)",
         "ss-border-width": 1,
         "ss-font-size": 16,
