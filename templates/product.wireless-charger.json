@@ -96,14 +96,14 @@
     "ss_atc_button_4_VQLmwr": {
       "type": "ss-atc-button-4",
       "settings": {
-        "first_color": "#3FBE44",
+        "first_color": "#51c556",
         "button_hover_color": "#51c556",
-        "text_color": "#000",
-        "text_color_hover": "#fff",
-        "border_color": "#51c556",
+        "text_color": "#121212",
+        "text_color_hover": "#121212",
+        "border_color": "rgba(0,0,0,0)",
         "ss-border-width": 1,
-        "ss-font-size": 18,
-        "ss-button_padding": 1.7
+        "ss-font-size": 16,
+        "ss-button_padding": 1
       }
     },
     "ss_tabs_block_qkHwif": {
