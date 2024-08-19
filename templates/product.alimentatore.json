@@ -101,7 +101,7 @@
         "text_color": "#121212",
         "text_color_hover": "#121212",
         "border_color": "rgba(0,0,0,0)",
-        "ss-border-width": 6,
+        "ss-border-width": 1,
         "ss-font-size": 16,
         "ss-button_padding": 1
       }
