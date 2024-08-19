@@ -113,9 +113,9 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "truck",
-            "question": "Shipping",
-            "answer": "<p>This is an answer<\/p>",
+            "icon": "box",
+            "question": "New Product",
+            "answer": "<p>Our products are <strong>new<\/strong> and <strong>sealed.<\/strong><\/p>",
             "answer_html": ""
           }
         },
@@ -123,9 +123,9 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "return_arrow",
-            "question": "Returns",
-            "answer": "<p>This is an answer<\/p>",
+            "icon": "atc",
+            "question": "Secure Shopping",
+            "answer": "<p>You can pay in complete safety by <strong>credit<\/strong> or <strong>debit card<\/strong> by stripe, the connection is 128bit encrypted.<\/p>",
             "answer_html": ""
           }
         },
@@ -133,9 +133,9 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "time",
-            "question": "What is your question?",
-            "answer": "<p>This is an answer<\/p>",
+            "icon": "truck",
+            "question": "Delivery and Shipping",
+            "answer": "<p><strong>Free shipping<\/strong> is available for orders over a certain amount. <\/p><p><strong>Delivery time<\/strong> can be from 3 to 5 working days.<\/p>",
             "answer_html": ""
           }
         },
@@ -144,8 +144,8 @@
           "settings": {
             "svg_color": "#121212",
             "icon": "time",
-            "question": "What is your question?",
-            "answer": "<p>This is an answer<\/p>",
+            "question": "Satisfied or Reimbursed",
+            "answer": "<p>All our products have a minimum <strong>24 month warranty<\/strong>. <\/p><p>Furthermore, if you are not satisfied with your purchase, you can return it within <strong>30 days<\/strong> of purchase.<\/p>",
             "answer_html": ""
           }
         }
@@ -362,7 +362,7 @@
         "link_background_hover_color": "rgba(0,0,0,0)",
         "card_content_bg_color": "#ffffff",
         "card_title_color": "#121212",
-        "card_price_color": "#26b420",
+        "card_price_color": "#51c556",
         "arrow_color": "#27222d",
         "arrow_hover_color": "rgba(0,0,0,0)",
         "arrow_bg_color": "rgba(0,0,0,0)",
