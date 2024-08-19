@@ -109,16 +109,6 @@
     "ss_tabs_block_iaXFeb": {
       "type": "ss-tabs-block",
       "blocks": {
-        "tab_WfpcUd": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "heart",
-            "question": "Product description",
-            "answer": "",
-            "answer_html": "{{ product.description }}"
-          }
-        },
         "tab_m8MFbe": {
           "type": "tab",
           "settings": {
@@ -138,12 +128,33 @@
             "answer": "<p>This is an answer<\/p>",
             "answer_html": ""
           }
+        },
+        "tab_Pyi6E3": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
+            "answer": "<p>This is an answer<\/p>",
+            "answer_html": ""
+          }
+        },
+        "tab_tmP7qa": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
+            "answer": "<p>This is an answer<\/p>",
+            "answer_html": ""
+          }
         }
       },
       "block_order": [
-        "tab_WfpcUd",
         "tab_m8MFbe",
-        "tab_GbkKeC"
+        "tab_GbkKeC",
+        "tab_Pyi6E3",
+        "tab_tmP7qa"
       ],
       "settings": {
         "close_other": false,
