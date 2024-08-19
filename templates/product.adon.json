@@ -55,9 +55,10 @@
           "settings": {
           }
         },
-        "trust_badges_bear_widget_PdimbR": {
-          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+        "custom_liquid_cbdxNK": {
+          "type": "custom_liquid",
           "settings": {
+            "custom_liquid": "<div class=\"ultimate-badges\"><\/div>"
           }
         }
       },
@@ -69,7 +70,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "trust_badges_bear_widget_PdimbR"
+        "custom_liquid_cbdxNK"
       ],
       "settings": {
         "enable_sticky_info": false,
