@@ -102,8 +102,8 @@
         "text_color_hover": "#ffffff",
         "border_color": "rgba(0,0,0,0)",
         "ss-border-width": 1,
-        "ss-font-size": 18,
-        "ss-button_padding": 1.7
+        "ss-font-size": 16,
+        "ss-button_padding": 1
       }
     },
     "ss_tabs_block_U9WJG3": {
