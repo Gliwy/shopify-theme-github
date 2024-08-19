@@ -49,6 +49,11 @@
             "show_gift_card_recipient": true
           }
         },
+        "trust_badges_bear_widget_MmRzTk": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -63,6 +68,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "trust_badges_bear_widget_MmRzTk",
         "description"
       ],
       "settings": {
@@ -84,12 +90,12 @@
     "ss_atc_button_4_TLdeBA": {
       "type": "ss-atc-button-4",
       "settings": {
-        "first_color": "#efefef",
+        "first_color": "#27222d",
         "button_hover_color": "#121212",
-        "text_color": "#121212",
+        "text_color": "#ffffff",
         "text_color_hover": "#ffffff",
         "border_color": "rgba(0,0,0,0)",
-        "ss-border-width": 1,
+        "ss-border-width": 6,
         "ss-font-size": 16,
         "ss-button_padding": 1
       }
