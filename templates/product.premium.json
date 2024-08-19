@@ -219,11 +219,11 @@
       ],
       "settings": {
         "payment_position": "below_buy",
-        "payment_title": "Safe payment on our website",
+        "payment_title": "Safety Payment With",
         "bg_color": "",
         "color": "",
         "text_size": 16,
-        "icon_size": 60,
+        "icon_size": 80,
         "icon_size_mobile": 60,
         "mt": 0,
         "mb": 2
