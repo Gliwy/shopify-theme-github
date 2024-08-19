@@ -169,15 +169,6 @@
         "button_padding_y": 10
       }
     },
-    "custom_liquid_KQpRQX": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1723812511ff93dc5f": {
       "type": "apps",
       "blocks": {
@@ -361,6 +352,15 @@
         "questions-font-size": 1.5
       }
     },
+    "custom_liquid_KQpRQX": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"ultimate-badges\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "ss_feature_11_iRhPpt": {
       "type": "ss-feature-11",
       "blocks": {
@@ -495,11 +495,11 @@
     "1724073765c61c51a5",
     "ss_atc_button_4_TLdeBA",
     "ss_tabs_block_rkPrrk",
-    "custom_liquid_KQpRQX",
     "1723812511ff93dc5f",
     "related-products",
     "ss_featured_collection_9YpktB",
     "ss_simple_faq_hQeNzd",
+    "custom_liquid_KQpRQX",
     "ss_feature_11_iRhPpt",
     "1724072285827ae752"
   ]
