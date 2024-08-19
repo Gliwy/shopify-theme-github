@@ -135,8 +135,8 @@
         "item_tcAnhB"
       ],
       "settings": {
-        "payment_position": "below_buy",
-        "payment_title": "Safety Payment With",
+        "payment_position": "above_buy",
+        "payment_title": "",
         "bg_color": "",
         "color": "",
         "text_size": 16,
