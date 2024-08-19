@@ -45,7 +45,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
         },
@@ -89,7 +89,7 @@
         "text_color": "#121212",
         "text_color_hover": "#ffffff",
         "border_color": "rgba(0,0,0,0)",
-        "ss-border-width": 5,
+        "ss-border-width": 1,
         "ss-font-size": 16,
         "ss-button_padding": 1
       }
