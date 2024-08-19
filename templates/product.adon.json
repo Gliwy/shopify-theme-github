@@ -9,6 +9,29 @@
 */
 {
   "sections": {
+    "rich_text_XyaknU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wn47TY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Leather Bands",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wn47TY"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-da5232ee-33f0-4591-bb02-413a1857844c",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -398,6 +421,7 @@
     }
   },
   "order": [
+    "rich_text_XyaknU",
     "main",
     "1723812511ff93dc5f",
     "related-products",
