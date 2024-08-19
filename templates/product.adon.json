@@ -514,12 +514,6 @@
         "border_thickness": 0,
         "lazy": true
       }
-    },
-    "1724072285827ae752": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -531,7 +525,6 @@
     "related-products",
     "ss_featured_collection_9YpktB",
     "ss_simple_faq_hQeNzd",
-    "ss_feature_11_iRhPpt",
-    "1724072285827ae752"
+    "ss_feature_11_iRhPpt"
   ]
 }
