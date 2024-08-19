@@ -109,16 +109,6 @@
     "ss_tabs_block_xmtXic": {
       "type": "ss-tabs-block",
       "blocks": {
-        "tab_3wCPbQ": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "heart",
-            "question": "Product description",
-            "answer": "",
-            "answer_html": "{{ product.description }}"
-          }
-        },
         "tab_DqVHmq": {
           "type": "tab",
           "settings": {
@@ -138,12 +128,33 @@
             "answer": "<p>This is an answer<\/p>",
             "answer_html": ""
           }
+        },
+        "tab_bmPypH": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
+            "answer": "<p>This is an answer<\/p>",
+            "answer_html": ""
+          }
+        },
+        "tab_cgW8xk": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
+            "answer": "<p>This is an answer<\/p>",
+            "answer_html": ""
+          }
         }
       },
       "block_order": [
-        "tab_3wCPbQ",
         "tab_DqVHmq",
-        "tab_KyHpaJ"
+        "tab_KyHpaJ",
+        "tab_bmPypH",
+        "tab_cgW8xk"
       ],
       "settings": {
         "close_other": false,
@@ -155,16 +166,16 @@
         "title_font_size": 10,
         "title_color": "#121212",
         "arrow_size": 14,
-        "arrow_color": "#121212",
-        "icon_width": 22,
+        "arrow_color": "#27222d",
+        "icon_width": 24,
         "text_color": "#121212",
-        "question_font_size": 13,
+        "question_font_size": 14,
         "answer_color": "#121212",
-        "answer_font_size": 12,
-        "border_color": "#f2f2f2",
+        "answer_font_size": 13,
+        "border_color": "#efefef",
         "background-color": "#ffffff",
-        "padding_top": 12,
-        "padding_bottom": 12,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_x_desktop": 0,
         "padding_x": 0,
         "margin_top": 0,
