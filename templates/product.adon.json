@@ -54,12 +54,6 @@
           "disabled": true,
           "settings": {
           }
-        },
-        "custom_liquid_cbdxNK": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"ultimate-badges\"><\/div>"
-          }
         }
       },
       "block_order": [
@@ -69,8 +63,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "custom_liquid_cbdxNK"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": false,
@@ -146,6 +139,9 @@
         "tab_AC8CGQ",
         "tab_3MjLjH"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "close_other": false,
         "open_default": false,
@@ -171,6 +167,15 @@
         "margin_top": 0,
         "margin_bottom": 0,
         "button_padding_y": 10
+      }
+    },
+    "custom_liquid_KQpRQX": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1723812511ff93dc5f": {
@@ -490,6 +495,7 @@
     "1724073765c61c51a5",
     "ss_atc_button_4_TLdeBA",
     "ss_tabs_block_rkPrrk",
+    "custom_liquid_KQpRQX",
     "1723812511ff93dc5f",
     "related-products",
     "ss_featured_collection_9YpktB",
