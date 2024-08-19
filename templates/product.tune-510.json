@@ -12,13 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -75,7 +68,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "doran_reviews_questions_rating_widget_MDgrGB",
         "price",
@@ -89,10 +81,10 @@
       "settings": {
         "enable_sticky_info": false,
         "color_scheme": "scheme-4",
-        "media_size": "small",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "gallery_layout": "thumbnail_slider",
+        "gallery_layout": "columns",
         "media_position": "left",
         "image_zoom": "none",
         "mobile_thumbnails": "show",
