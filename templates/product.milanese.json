@@ -109,23 +109,13 @@
     "ss_tabs_block_6bAyWd": {
       "type": "ss-tabs-block",
       "blocks": {
-        "tab_trDRQB": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "heart",
-            "question": "Product description",
-            "answer": "",
-            "answer_html": "{{ product.description }}"
-          }
-        },
         "tab_Bx9976": {
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "truck",
-            "question": "Shipping",
-            "answer": "<p>This is an answer<\/p>",
+            "icon": "box",
+            "question": "New Product",
+            "answer": "<p>Our products are <strong>new<\/strong> and <strong>sealed.<\/strong><\/p>",
             "answer_html": ""
           }
         },
@@ -133,17 +123,38 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "return_arrow",
-            "question": "Returns",
+            "icon": "atc",
+            "question": "Secure Shopping",
+            "answer": "<p>You can pay in complete safety by <strong>credit<\/strong> or <strong>debit card<\/strong> by stripe, the connection is 128bit encrypted.<\/p>",
+            "answer_html": ""
+          }
+        },
+        "tab_hdfwCn": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
+            "answer": "<p>This is an answer<\/p>",
+            "answer_html": ""
+          }
+        },
+        "tab_yrrp9a": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
             "answer": "<p>This is an answer<\/p>",
             "answer_html": ""
           }
         }
       },
       "block_order": [
-        "tab_trDRQB",
         "tab_Bx9976",
-        "tab_AtXNk7"
+        "tab_AtXNk7",
+        "tab_hdfwCn",
+        "tab_yrrp9a"
       ],
       "settings": {
         "close_other": false,
@@ -155,16 +166,16 @@
         "title_font_size": 10,
         "title_color": "#121212",
         "arrow_size": 14,
-        "arrow_color": "#121212",
-        "icon_width": 22,
+        "arrow_color": "#27222d",
+        "icon_width": 24,
         "text_color": "#121212",
-        "question_font_size": 13,
+        "question_font_size": 14,
         "answer_color": "#121212",
-        "answer_font_size": 12,
-        "border_color": "#f2f2f2",
+        "answer_font_size": 13,
+        "border_color": "#efefef",
         "background-color": "#ffffff",
-        "padding_top": 12,
-        "padding_bottom": 12,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_x_desktop": 0,
         "padding_x": 0,
         "margin_top": 0,
