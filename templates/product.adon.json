@@ -67,6 +67,11 @@
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
+        },
+        "description_W9iWYq": {
+          "type": "description",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -75,7 +80,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "description_W9iWYq"
       ],
       "settings": {
         "enable_sticky_info": false,
