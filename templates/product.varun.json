@@ -12,13 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -75,7 +68,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "doran_reviews_questions_rating_widget_wKzFbx",
         "price",
@@ -89,10 +81,10 @@
       "settings": {
         "enable_sticky_info": false,
         "color_scheme": "scheme-4",
-        "media_size": "small",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "gallery_layout": "thumbnail_slider",
+        "gallery_layout": "columns",
         "media_position": "left",
         "image_zoom": "none",
         "mobile_thumbnails": "show",
@@ -210,7 +202,7 @@
         "link_arrow_color": "rgba(0,0,0,0)",
         "link_background_color": "rgba(0,0,0,0)",
         "link_background_hover_color": "rgba(0,0,0,0)",
-        "card_content_bg_color": "#FFFFFF",
+        "card_content_bg_color": "#ffffff",
         "card_title_color": "#121212",
         "card_price_color": "#26b420",
         "arrow_color": "#27222d",
@@ -222,7 +214,7 @@
         "progress_color": "#efefef",
         "heading_color": "#121212",
         "sub_heading_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "rgba(0,0,0,0)",
         "margin_top": 0,
