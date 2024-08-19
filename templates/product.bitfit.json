@@ -45,25 +45,14 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "trust_badges_bear_widget_CcGPxt": {
-          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
-          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
           }
         },
         "description": {
           "type": "description",
           "disabled": true,
           "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
           }
         }
       },
@@ -74,9 +63,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "trust_badges_bear_widget_CcGPxt",
-        "description",
-        "share"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": false,
