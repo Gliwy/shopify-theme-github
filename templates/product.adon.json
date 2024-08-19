@@ -103,6 +103,26 @@
     "ss_tabs_block_t8XzmC": {
       "type": "ss-tabs-block",
       "blocks": {
+        "tab_QghPWa": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "box",
+            "question": "New Product",
+            "answer": "<p>Our products are <strong>new<\/strong> and <strong>sealed.<\/strong><\/p>",
+            "answer_html": ""
+          }
+        },
+        "tab_8r9fPf": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "mobile",
+            "question": "Secure Payments",
+            "answer": "<p>You can pay in complete safety by <strong>credit<\/strong> or <strong>debit card<\/strong> via stripe, the connection is 128bit encrypted.<\/p>",
+            "answer_html": ""
+          }
+        },
         "tab_neftba": {
           "type": "tab",
           "settings": {
@@ -122,33 +142,13 @@
             "answer": "<p>All our products have a minimum <strong>24 month warranty<\/strong>. <\/p><p>Furthermore, if you are not satisfied with your purchase, you can return it within <strong>30 days<\/strong> of purchase.<\/p>",
             "answer_html": ""
           }
-        },
-        "tab_QghPWa": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "box",
-            "question": "New Product",
-            "answer": "<p>Our products are <strong>new<\/strong> and <strong>sealed.<\/strong><\/p>",
-            "answer_html": ""
-          }
-        },
-        "tab_8r9fPf": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "time",
-            "question": "What is your question?",
-            "answer": "<p>This is an answer<\/p>",
-            "answer_html": ""
-          }
         }
       },
       "block_order": [
-        "tab_neftba",
-        "tab_UH9Ngc",
         "tab_QghPWa",
-        "tab_8r9fPf"
+        "tab_8r9fPf",
+        "tab_neftba",
+        "tab_UH9Ngc"
       ],
       "settings": {
         "close_other": false,
