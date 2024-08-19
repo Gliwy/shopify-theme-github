@@ -54,6 +54,12 @@
           "disabled": true,
           "settings": {
           }
+        },
+        "custom_liquid_NXwXcx": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div id='ss-tabs-icon-insert-block'><\/div>"
+          }
         }
       },
       "block_order": [
@@ -63,7 +69,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "custom_liquid_NXwXcx"
       ],
       "settings": {
         "enable_sticky_info": false,
@@ -134,7 +141,6 @@
         "item_TkfkaR",
         "item_tcAnhB"
       ],
-      "disabled": true,
       "settings": {
         "payment_position": "below_buy",
         "payment_title": "Safety Payment With",
@@ -186,6 +192,7 @@
         "tab_neftba",
         "tab_UH9Ngc"
       ],
+      "disabled": true,
       "settings": {
         "close_other": false,
         "open_default": false,
