@@ -112,12 +112,12 @@
       "settings": {
         "first_color": "#27222d",
         "button_hover_color": "#121212",
-        "text_color": "#000",
+        "text_color": "#ffffff",
         "text_color_hover": "#ffffff",
         "border_color": "rgba(0,0,0,0)",
         "ss-border-width": 6,
         "ss-font-size": 16,
-        "ss-button_padding": 1.7
+        "ss-button_padding": 1
       }
     },
     "ss_tabs_block_CAXrbi": {
