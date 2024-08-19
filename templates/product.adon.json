@@ -127,6 +127,16 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
+            "icon": "box",
+            "question": "New Product",
+            "answer": "<p>Our products are <strong>new<\/strong> and <strong>sealed<\/strong>*<\/p>",
+            "answer_html": ""
+          }
+        },
+        "tab_8r9fPf": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
             "icon": "time",
             "question": "What is your question?",
             "answer": "<p>This is an answer<\/p>",
@@ -137,7 +147,8 @@
       "block_order": [
         "tab_neftba",
         "tab_UH9Ngc",
-        "tab_QghPWa"
+        "tab_QghPWa",
+        "tab_8r9fPf"
       ],
       "settings": {
         "close_other": false,
