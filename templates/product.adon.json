@@ -109,7 +109,7 @@
             "svg_color": "#121212",
             "icon": "truck",
             "question": "Free shipping and Delivery time",
-            "answer": "<p><strong>Free shipping<\/strong> is available for orders over a certain amount. <\/p><p><strong>Delivery time<\/strong> can be from 3<br\/>to 5 working days.<\/p>",
+            "answer": "<p><strong>Free shipping<\/strong> is available for orders over a certain amount. <\/p><p><strong>Delivery time<\/strong> can be from 3 to 5 working days.<\/p>",
             "answer_html": ""
           }
         },
