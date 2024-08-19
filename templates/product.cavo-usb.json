@@ -109,16 +109,6 @@
     "ss_tabs_block_U9WJG3": {
       "type": "ss-tabs-block",
       "blocks": {
-        "tab_KQKm3E": {
-          "type": "tab",
-          "settings": {
-            "svg_color": "#121212",
-            "icon": "heart",
-            "question": "Product description",
-            "answer": "",
-            "answer_html": "{{ product.description }}"
-          }
-        },
         "tab_KL6PYP": {
           "type": "tab",
           "settings": {
@@ -138,12 +128,33 @@
             "answer": "<p>This is an answer<\/p>",
             "answer_html": ""
           }
+        },
+        "tab_dVCmjG": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
+            "answer": "<p>This is an answer<\/p>",
+            "answer_html": ""
+          }
+        },
+        "tab_MiFBb6": {
+          "type": "tab",
+          "settings": {
+            "svg_color": "#121212",
+            "icon": "time",
+            "question": "What is your question?",
+            "answer": "<p>This is an answer<\/p>",
+            "answer_html": ""
+          }
         }
       },
       "block_order": [
-        "tab_KQKm3E",
         "tab_KL6PYP",
-        "tab_WxN6wN"
+        "tab_WxN6wN",
+        "tab_dVCmjG",
+        "tab_MiFBb6"
       ],
       "settings": {
         "close_other": false,
@@ -156,15 +167,15 @@
         "title_color": "#121212",
         "arrow_size": 14,
         "arrow_color": "#121212",
-        "icon_width": 22,
+        "icon_width": 24,
         "text_color": "#121212",
         "question_font_size": 13,
         "answer_color": "#121212",
-        "answer_font_size": 12,
-        "border_color": "#f2f2f2",
+        "answer_font_size": 13,
+        "border_color": "#efefef",
         "background-color": "#ffffff",
-        "padding_top": 12,
-        "padding_bottom": 12,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_x_desktop": 0,
         "padding_x": 0,
         "margin_top": 0,
