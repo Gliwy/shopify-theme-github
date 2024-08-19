@@ -96,10 +96,10 @@
     "ss_atc_button_4_LRKHQb": {
       "type": "ss-atc-button-4",
       "settings": {
-        "first_color": "#27222d",
-        "button_hover_color": "#121212",
-        "text_color": "#ffffff",
-        "text_color_hover": "#ffffff",
+        "first_color": "#51c556",
+        "button_hover_color": "#51c556",
+        "text_color": "#121212",
+        "text_color_hover": "#121212",
         "border_color": "rgba(0,0,0,0)",
         "ss-border-width": 6,
         "ss-font-size": 16,
@@ -320,7 +320,7 @@
         "link_background_hover_color": "rgba(0,0,0,0)",
         "card_content_bg_color": "#ffffff",
         "card_title_color": "#121212",
-        "card_price_color": "#26b420",
+        "card_price_color": "#51c556",
         "arrow_color": "#27222d",
         "arrow_hover_color": "rgba(0,0,0,0)",
         "arrow_bg_color": "rgba(0,0,0,0)",
