@@ -54,11 +54,6 @@
           "disabled": true,
           "settings": {
           }
-        },
-        "trust_badges_bear_widget_rAiAtN": {
-          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -68,8 +63,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "trust_badges_bear_widget_rAiAtN"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": false,
@@ -164,6 +158,22 @@
         "margin_top": 0,
         "margin_bottom": 0,
         "button_padding_y": 10
+      }
+    },
+    "1724073765c61c51a5": {
+      "type": "apps",
+      "blocks": {
+        "trust_badges_bear_widget_4Pbxkt": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "trust_badges_bear_widget_4Pbxkt"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "1723812511ff93dc5f": {
@@ -482,6 +492,7 @@
     "main",
     "ss_atc_button_4_TLdeBA",
     "ss_tabs_block_rkPrrk",
+    "1724073765c61c51a5",
     "1723812511ff93dc5f",
     "related-products",
     "ss_featured_collection_9YpktB",
