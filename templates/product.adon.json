@@ -117,9 +117,9 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "return_arrow",
-            "question": "Returns",
-            "answer": "<p>This is an answer<\/p>",
+            "icon": "shield",
+            "question": "Satisfied or Reimbursed",
+            "answer": "<p>All our products have a minimum <strong>24 month warranty<\/strong>. Furthermore, if you are not satisfied with your purchase, you can return it within <strong>30 days<\/strong> of purchase*<\/p>",
             "answer_html": ""
           }
         },
