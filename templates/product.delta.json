@@ -113,9 +113,9 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "truck",
-            "question": "Shipping",
-            "answer": "<p>This is an answer<\/p>",
+            "icon": "box",
+            "question": "New Product",
+            "answer": "<p>Our products are <strong>new<\/strong> and <strong>sealed.<\/strong><\/p>",
             "answer_html": ""
           }
         },
