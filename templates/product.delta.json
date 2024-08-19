@@ -123,7 +123,7 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "return_arrow",
+            "icon": "atc",
             "question": "Secure Shopping",
             "answer": "<p>You can pay in complete safety by <strong>credit<\/strong> or <strong>debit card<\/strong> by stripe, the connection is 128bit encrypted.<\/p>",
             "answer_html": ""
@@ -133,7 +133,7 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "time",
+            "icon": "truck",
             "question": "Delivery and Shipping",
             "answer": "<p><strong>Free shipping<\/strong> is available for orders over a certain amount. <\/p><p><strong>Delivery time<\/strong> can be from 3 to 5 working days.<\/p>",
             "answer_html": ""
@@ -143,7 +143,7 @@
           "type": "tab",
           "settings": {
             "svg_color": "#121212",
-            "icon": "time",
+            "icon": "shield",
             "question": "Satisfied or Reimbursed",
             "answer": "<p>All our products have a minimum <strong>24 month warranty<\/strong>. <\/p><p>Furthermore, if you are not satisfied with your purchase, you can return it within <strong>30 days<\/strong> of purchase.<\/p>",
             "answer_html": ""
