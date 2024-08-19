@@ -109,7 +109,7 @@
             "svg_color": "#121212",
             "icon": "truck",
             "question": "Free and Insured Shipping",
-            "answer": "<p>Shipping is available for orders over a certain amount. The minimum<br\/>the order threshold for free shipping may vary depending on the destination<br\/>Village. During the checkout process, you will receive a notification<br\/>if your order is eligible for free shipping based on your shipping address.<\/p>",
+            "answer": "<p>Free shipping is available for orders over a certain amount. The minimum<br\/>the order threshold for free shipping may vary depending on the destination<br\/>Village. During the checkout process, you will receive a notification<br\/>if your order is eligible for free shipping based on your shipping address.<\/p>",
             "answer_html": ""
           }
         },
