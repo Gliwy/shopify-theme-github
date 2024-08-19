@@ -54,12 +54,6 @@
           "disabled": true,
           "settings": {
           }
-        },
-        "custom_liquid_NXwXcx": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div id='ss-tabs-icon-insert-block'><\/div>"
-          }
         }
       },
       "block_order": [
@@ -69,8 +63,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "custom_liquid_NXwXcx"
+        "description"
       ],
       "settings": {
         "enable_sticky_info": false,
@@ -192,7 +185,6 @@
         "tab_neftba",
         "tab_UH9Ngc"
       ],
-      "disabled": true,
       "settings": {
         "close_other": false,
         "open_default": false,
