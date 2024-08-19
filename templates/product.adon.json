@@ -177,7 +177,7 @@
         "item_Cb66id"
       ],
       "settings": {
-        "payment_position": "below_buy",
+        "payment_position": "above_buy",
         "payment_title": "Safe payment on our website",
         "bg_color": "",
         "color": "",
