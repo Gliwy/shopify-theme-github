@@ -102,6 +102,7 @@
     },
     "ss_atc_button_4_TLdeBA": {
       "type": "ss-atc-button-4",
+      "disabled": true,
       "settings": {
         "first_color": "#27222d",
         "button_hover_color": "#121212",
@@ -147,6 +148,7 @@
         "item_TkfkaR",
         "item_tcAnhB"
       ],
+      "disabled": true,
       "settings": {
         "payment_position": "below_buy",
         "payment_title": "Safety Payment With",
@@ -198,6 +200,7 @@
         "tab_neftba",
         "tab_UH9Ngc"
       ],
+      "disabled": true,
       "settings": {
         "close_other": false,
         "open_default": false,
