@@ -81,12 +81,6 @@
         "padding_bottom": 36
       }
     },
-    "1724073765c61c51a5": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "ss_atc_button_4_TLdeBA": {
       "type": "ss-atc-button-4",
       "settings": {
@@ -537,7 +531,6 @@
   },
   "order": [
     "main",
-    "1724073765c61c51a5",
     "ss_atc_button_4_TLdeBA",
     "ss_tabs_block_t8XzmC",
     "ss_payment_icons_pzphTV",
