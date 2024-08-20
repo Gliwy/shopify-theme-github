@@ -174,7 +174,7 @@
         "unit_price": "Unit price"
       },
       "share": "Share this product",
-      "sold_out": "Sold out",
+      "sold_out": "Coming Soon",
       "unavailable": "Unavailable",
       "vendor": "Vendor",
       "value_unavailable": "{{ option_value }} - Unavailable",
@@ -538,7 +538,7 @@
     "products": {
       "product": {
         "regular_price": "Regular price",
-        "sold_out": "Sold out",
+        "sold_out": "Coming Soon",
         "unavailable": "Unavailable",
         "on_sale": "Sale",
         "quantity": "Quantity",
@@ -577,6 +577,18 @@
       "signup_form_email_label": "Email",
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "stock": {
+        "sold_out_label": "Coming Soon"
+      },
+      "throttle": {
+        "merchandise": {
+          "sold_out": "Coming Soon"
+        }
+      }
     }
   }
 }
