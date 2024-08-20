@@ -133,6 +133,7 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-ed0c9707-6449-445b-82cf-f0705a631015",
+    "show_shipping_bar": true,
     "logo-transparent": "shopify:\/\/shop_images\/KEIKO_8a5038ea-40c5-4568-b7b2-2d22d294d1bb.png",
     "extended-megamenu-show-imgs": "yes",
     "extended-megamenu-show-featured": "yes",
